@@ -93,3 +93,15 @@ function flippedCard(i, el){
 function alwaysReverse(el) {
   classy(cardImages, "alwaysReverse", el.checked);
 }
+
+function savePNG() {
+  html2canvas(cardImages).then(canvas => {
+    let img = canvas.toDataURL("image/png")
+    let link = document.createElement("a");
+    link.hidden = true;
+    link.href = img;
+    // todo: use url!
+    link.download = "screenshot.png";
+    link.click();
+  });
+}
