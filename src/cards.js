@@ -27,10 +27,8 @@ fetch("./src/cards.json").then(x => x.json()).then(x => {
   CARD_MAP = x;
   CARD_ARRAY = Object.values(x);
 
-  let card_params = window.location.search.replace('?','').split(',');
-
-  if (card_params.length > 0) {
-    CARDS = card_params.map(code => {
+  if (window.location.search) {
+    CARDS = window.location.search.replace('?','').split(',').map(code => {
       let reversed = code[code.length-1] == "r";
       if (reversed) {
         code = code.slice(0, code.length - 1)
@@ -89,7 +87,6 @@ function updateURL() {
 
 function drawRandom(){
   CARDS = draw(cardN(), justMajor.checked, reversedOk.checked)
-  console.log(justMajor.checked, reversedOk.checked);
   refreshList();
 }
 
@@ -125,7 +122,7 @@ function savePNG() {
     link.hidden = true;
     link.href = img;
     // todo: use url!
-    link.download = "screenshot.png";
+    link.download = `tarot ${cardString()}.png`;
     link.click();
   });
 }
