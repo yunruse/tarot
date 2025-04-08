@@ -188,3 +188,11 @@ footer {
   font-style: italic;
   font-size: 0.8em;
 }
+
+.sleek h1, .sleek article, .sleek footer {
+  display: none;
+}
+.sleek content {
+  width: 97vw;  /* seems to work */
+  max-width: 100vw !important;
+}

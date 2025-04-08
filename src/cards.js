@@ -28,6 +28,15 @@ fetch("./src/cards.json").then(x => x.json()).then(x => {
   CARD_ARRAY = Object.values(x);
 
   if (window.location.search) {
+    if (window.location.search === "?sleek") {
+      CARDS = draw(cardN(), false, true);
+      console.log("sleek time");
+      document.body.classList.add('sleek')
+      refreshList(false, true);
+      return;
+    }
+
+
     CARDS = window.location.search.replace('?', '').split(',').map(code => {
       let reversed = code[code.length - 1] == "r";
       if (reversed) {
