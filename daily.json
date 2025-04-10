@@ -1,26 +1,29 @@
-[
-  {
-    "code": "p11",
-    "png": "Pentacles11.png",
-    "name": "Page of Pentacles",
-    "type": "Pentacles",
-    "upright": true,
-    "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
-  },
-  {
-    "code": "w14r",
-    "png": "Wands14.png",
-    "name": "King of Wands, reversed",
-    "type": "Wands",
-    "upright": false,
-    "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
-  },
-  {
-    "code": "p1",
-    "png": "Pentacles01.png",
-    "name": "Ace of Pentacles",
-    "type": "Pentacles",
-    "upright": true,
-    "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
-  }
-]
+{
+  "date": "2025-04-10",
+  "cards": [
+    {
+      "code": "w11r",
+      "png": "Wands11.png",
+      "name": "Page of Wands, reversed",
+      "type": "Wands",
+      "upright": false,
+      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
+    },
+    {
+      "code": "w8",
+      "png": "Wands08.png",
+      "name": "8 of Wands",
+      "type": "Wands",
+      "upright": true,
+      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+    },
+    {
+      "code": "s13",
+      "png": "Swords13.png",
+      "name": "Queen of Swords",
+      "type": "Swords",
+      "upright": true,
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+    }
+  ]
+}

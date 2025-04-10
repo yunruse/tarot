@@ -1,7 +1,8 @@
 import json
+from datetime import date
 from pathlib import Path
-
 from random import shuffle, random
+
 
 INTERPRETATIONS = json.loads(Path('src/interpretations.json').read_text())
 CARDS = list(json.loads(Path('src/cards.json').read_text()).values())
@@ -17,4 +18,9 @@ for c in cards:
     interp = INTERPRETATIONS['labyrinthos'][c['code']]
     c['interpretation'] = interp.removesuffix('</a>').split('>')[-1]
 
-print(json.dumps(cards, indent=2))
+data = {
+    'date': str(date.today()),
+    'cards': cards,
+}
+
+print(json.dumps(data, indent=2))
