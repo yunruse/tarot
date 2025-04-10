@@ -1,0 +1,26 @@
+[
+  {
+    "code": "p11",
+    "png": "Pentacles11.png",
+    "name": "Page of Pentacles",
+    "type": "Pentacles",
+    "upright": true,
+    "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
+  },
+  {
+    "code": "w14r",
+    "png": "Wands14.png",
+    "name": "King of Wands, reversed",
+    "type": "Wands",
+    "upright": false,
+    "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
+  },
+  {
+    "code": "p1",
+    "png": "Pentacles01.png",
+    "name": "Ace of Pentacles",
+    "type": "Pentacles",
+    "upright": true,
+    "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+  }
+]
