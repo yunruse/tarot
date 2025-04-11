@@ -22,6 +22,8 @@ jobs:
 
       - name: Commit and push
         run: |
+          git config --global user.email "mia@yunru.se"
+          git config --global user.name "Daily Tarot Bot"
           git add daily.json
           git commit -m "Daily tarot"
           git push
