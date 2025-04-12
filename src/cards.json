@@ -1,469 +1,391 @@
 {
   "0": {
     "code": "0",
-    "png": "00-TheFool.png",
     "name": "0 The Fool",
     "type": "MajorArcana"
   },
   "1": {
     "code": "1",
-    "png": "01-TheMagician.png",
     "name": "Ⅰ The Magician",
     "type": "MajorArcana"
   },
   "2": {
     "code": "2",
-    "png": "02-TheHighPriestess.png",
     "name": "Ⅱ The High Priestess",
     "type": "MajorArcana"
   },
   "3": {
     "code": "3",
-    "png": "03-TheEmpress.png",
     "name": "Ⅲ The Empress",
     "type": "MajorArcana"
   },
   "4": {
     "code": "4",
-    "png": "04-TheEmperor.png",
     "name": "Ⅳ The Emperor",
     "type": "MajorArcana"
   },
   "5": {
     "code": "5",
-    "png": "05-TheHierophant.png",
     "name": "Ⅴ The Hierophant",
     "type": "MajorArcana"
   },
   "6": {
     "code": "6",
-    "png": "06-TheLovers.png",
     "name": "Ⅵ The Lovers",
     "type": "MajorArcana"
   },
   "7": {
     "code": "7",
-    "png": "07-TheChariot.png",
     "name": "Ⅶ The Chariot",
     "type": "MajorArcana"
   },
   "8": {
     "code": "8",
-    "png": "08-Strength.png",
     "name": "Ⅷ Strength",
     "type": "MajorArcana"
   },
   "9": {
     "code": "9",
-    "png": "09-TheHermit.png",
     "name": "Ⅸ The Hermit",
     "type": "MajorArcana"
   },
   "10": {
     "code": "10",
-    "png": "10-WheelOfFortune.png",
     "name": "Ⅹ Wheel of Fortune",
     "type": "MajorArcana"
   },
   "11": {
     "code": "11",
-    "png": "11-Justice.png",
     "name": "ⅩⅠ Justice",
     "type": "MajorArcana"
   },
   "12": {
     "code": "12",
-    "png": "12-TheHangedMan.png",
     "name": "ⅩⅡ The Hanged Man",
     "type": "MajorArcana"
   },
   "13": {
     "code": "13",
-    "png": "13-Death.png",
     "name": "ⅩⅢ Death",
     "type": "MajorArcana"
   },
   "14": {
     "code": "14",
-    "png": "14-Temperance.png",
     "name": "ⅩⅣ Temperance",
     "type": "MajorArcana"
   },
   "15": {
     "code": "15",
-    "png": "15-TheDevil.png",
     "name": "ⅩⅤ The Devil",
     "type": "MajorArcana"
   },
   "16": {
     "code": "16",
-    "png": "16-TheTower.png",
     "name": "ⅩⅥ The Tower",
     "type": "MajorArcana"
   },
   "17": {
     "code": "17",
-    "png": "17-TheStar.png",
     "name": "ⅩⅦ The Star",
     "type": "MajorArcana"
   },
   "18": {
     "code": "18",
-    "png": "18-TheMoon.png",
     "name": "ⅩⅧ The Moon",
     "type": "MajorArcana"
   },
   "19": {
     "code": "19",
-    "png": "19-TheSun.png",
     "name": "ⅩⅨ The Sun",
     "type": "MajorArcana"
   },
   "20": {
     "code": "20",
-    "png": "20-Judgement.png",
     "name": "ⅩⅩ Judgement",
     "type": "MajorArcana"
   },
   "21": {
     "code": "21",
-    "png": "21-TheWorld.png",
     "name": "ⅩⅩⅠ The World",
     "type": "MajorArcana"
   },
   "c1": {
     "code": "c1",
-    "png": "Cups01.png",
     "name": "Ace of Cups",
     "type": "Cups"
   },
   "c2": {
     "code": "c2",
-    "png": "Cups02.png",
     "name": "2 of Cups",
     "type": "Cups"
   },
   "c3": {
     "code": "c3",
-    "png": "Cups03.png",
     "name": "3 of Cups",
     "type": "Cups"
   },
   "c4": {
     "code": "c4",
-    "png": "Cups04.png",
     "name": "4 of Cups",
     "type": "Cups"
   },
   "c5": {
     "code": "c5",
-    "png": "Cups05.png",
     "name": "5 of Cups",
     "type": "Cups"
   },
   "c6": {
     "code": "c6",
-    "png": "Cups06.png",
     "name": "6 of Cups",
     "type": "Cups"
   },
   "c7": {
     "code": "c7",
-    "png": "Cups07.png",
     "name": "7 of Cups",
     "type": "Cups"
   },
   "c8": {
     "code": "c8",
-    "png": "Cups08.png",
     "name": "8 of Cups",
     "type": "Cups"
   },
   "c9": {
     "code": "c9",
-    "png": "Cups09.png",
     "name": "9 of Cups",
     "type": "Cups"
   },
   "c10": {
     "code": "c10",
-    "png": "Cups10.png",
     "name": "10 of Cups",
     "type": "Cups"
   },
   "c11": {
     "code": "c11",
-    "png": "Cups11.png",
     "name": "Page of Cups",
     "type": "Cups"
   },
   "c12": {
     "code": "c12",
-    "png": "Cups12.png",
     "name": "Knight of Cups",
     "type": "Cups"
   },
   "c13": {
     "code": "c13",
-    "png": "Cups13.png",
     "name": "Queen of Cups",
     "type": "Cups"
   },
   "c14": {
     "code": "c14",
-    "png": "Cups14.png",
     "name": "King of Cups",
     "type": "Cups"
   },
   "p1": {
     "code": "p1",
-    "png": "Pentacles01.png",
     "name": "Ace of Pentacles",
     "type": "Pentacles"
   },
   "p2": {
     "code": "p2",
-    "png": "Pentacles02.png",
     "name": "2 of Pentacles",
     "type": "Pentacles"
   },
   "p3": {
     "code": "p3",
-    "png": "Pentacles03.png",
     "name": "3 of Pentacles",
     "type": "Pentacles"
   },
   "p4": {
     "code": "p4",
-    "png": "Pentacles04.png",
     "name": "4 of Pentacles",
     "type": "Pentacles"
   },
   "p5": {
     "code": "p5",
-    "png": "Pentacles05.png",
     "name": "5 of Pentacles",
     "type": "Pentacles"
   },
   "p6": {
     "code": "p6",
-    "png": "Pentacles06.png",
     "name": "6 of Pentacles",
     "type": "Pentacles"
   },
   "p7": {
     "code": "p7",
-    "png": "Pentacles07.png",
     "name": "7 of Pentacles",
     "type": "Pentacles"
   },
   "p8": {
     "code": "p8",
-    "png": "Pentacles08.png",
     "name": "8 of Pentacles",
     "type": "Pentacles"
   },
   "p9": {
     "code": "p9",
-    "png": "Pentacles09.png",
     "name": "9 of Pentacles",
     "type": "Pentacles"
   },
   "p10": {
     "code": "p10",
-    "png": "Pentacles10.png",
     "name": "10 of Pentacles",
     "type": "Pentacles"
   },
   "p11": {
     "code": "p11",
-    "png": "Pentacles11.png",
     "name": "Page of Pentacles",
     "type": "Pentacles"
   },
   "p12": {
     "code": "p12",
-    "png": "Pentacles12.png",
     "name": "Knight of Pentacles",
     "type": "Pentacles"
   },
   "p13": {
     "code": "p13",
-    "png": "Pentacles13.png",
     "name": "Queen of Pentacles",
     "type": "Pentacles"
   },
   "p14": {
     "code": "p14",
-    "png": "Pentacles14.png",
     "name": "King of Pentacles",
     "type": "Pentacles"
   },
   "s1": {
     "code": "s1",
-    "png": "Swords01.png",
     "name": "Ace of Swords",
     "type": "Swords"
   },
   "s2": {
     "code": "s2",
-    "png": "Swords02.png",
     "name": "2 of Swords",
     "type": "Swords"
   },
   "s3": {
     "code": "s3",
-    "png": "Swords03.png",
     "name": "3 of Swords",
     "type": "Swords"
   },
   "s4": {
     "code": "s4",
-    "png": "Swords04.png",
     "name": "4 of Swords",
     "type": "Swords"
   },
   "s5": {
     "code": "s5",
-    "png": "Swords05.png",
     "name": "5 of Swords",
     "type": "Swords"
   },
   "s6": {
     "code": "s6",
-    "png": "Swords06.png",
     "name": "6 of Swords",
     "type": "Swords"
   },
   "s7": {
     "code": "s7",
-    "png": "Swords07.png",
     "name": "7 of Swords",
     "type": "Swords"
   },
   "s8": {
     "code": "s8",
-    "png": "Swords08.png",
     "name": "8 of Swords",
     "type": "Swords"
   },
   "s9": {
     "code": "s9",
-    "png": "Swords09.png",
     "name": "9 of Swords",
     "type": "Swords"
   },
   "s10": {
     "code": "s10",
-    "png": "Swords10.png",
     "name": "10 of Swords",
     "type": "Swords"
   },
   "s11": {
     "code": "s11",
-    "png": "Swords11.png",
     "name": "Page of Swords",
     "type": "Swords"
   },
   "s12": {
     "code": "s12",
-    "png": "Swords12.png",
     "name": "Knight of Swords",
     "type": "Swords"
   },
   "s13": {
     "code": "s13",
-    "png": "Swords13.png",
     "name": "Queen of Swords",
     "type": "Swords"
   },
   "s14": {
     "code": "s14",
-    "png": "Swords14.png",
     "name": "King of Swords",
     "type": "Swords"
   },
   "w1": {
     "code": "w1",
-    "png": "Wands01.png",
     "name": "Ace of Wands",
     "type": "Wands"
   },
   "w2": {
     "code": "w2",
-    "png": "Wands02.png",
     "name": "2 of Wands",
     "type": "Wands"
   },
   "w3": {
     "code": "w3",
-    "png": "Wands03.png",
     "name": "3 of Wands",
     "type": "Wands"
   },
   "w4": {
     "code": "w4",
-    "png": "Wands04.png",
     "name": "4 of Wands",
     "type": "Wands"
   },
   "w5": {
     "code": "w5",
-    "png": "Wands05.png",
     "name": "5 of Wands",
     "type": "Wands"
   },
   "w6": {
     "code": "w6",
-    "png": "Wands06.png",
     "name": "6 of Wands",
     "type": "Wands"
   },
   "w7": {
     "code": "w7",
-    "png": "Wands07.png",
     "name": "7 of Wands",
     "type": "Wands"
   },
   "w8": {
     "code": "w8",
-    "png": "Wands08.png",
     "name": "8 of Wands",
     "type": "Wands"
   },
   "w9": {
     "code": "w9",
-    "png": "Wands09.png",
     "name": "9 of Wands",
     "type": "Wands"
   },
   "w10": {
     "code": "w10",
-    "png": "Wands10.png",
     "name": "10 of Wands",
     "type": "Wands"
   },
   "w11": {
     "code": "w11",
-    "png": "Wands11.png",
     "name": "Page of Wands",
     "type": "Wands"
   },
   "w12": {
     "code": "w12",
-    "png": "Wands12.png",
     "name": "Knight of Wands",
     "type": "Wands"
   },
   "w13": {
     "code": "w13",
-    "png": "Wands13.png",
     "name": "Queen of Wands",
     "type": "Wands"
   },
   "w14": {
     "code": "w14",
-    "png": "Wands14.png",
     "name": "King of Wands",
     "type": "Wands"
   }
