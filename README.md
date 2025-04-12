@@ -12,7 +12,7 @@ A GitHub Action renders a daily tarot, `https://yunru.se/tarot/daily.json`, at m
 Styles include:
 
 - `bw`: slightly variable size around 800x1400; about 200 KB
-- `color`: 300x527; about 300 KB
+- `color`: 300x527; about 300 KB (used on the website by default)
 - `color1910`: 1111x1919; about 850 KB
 
 As the `gh-pages` branch contains daily commits, please see the [`develop`](https://github.com/yunruse/tarot/tree/develop) branch for actual developmental commits!
