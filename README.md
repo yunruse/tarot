@@ -7,7 +7,7 @@ Cards can be saved quickly as an image; you can share the URL, too.
 
 ## Development
 
-A GitHub Action renders a daily tarot, `https://yunru.se/tarot/daily.json`, at midnight UTC. This is unrelated to the website, but may be convenient for developing an application; default card images can be found at `https://yunru.se/tarot/cards/{card.png}`.
+A GitHub Action renders a daily tarot, `https://yunru.se/tarot/daily.json`, at midnight UTC. This is unrelated to the website, but may be convenient for developing an application; default card images can be found at `https://yunru.se/tarot/cards/color/{card.png}`.
 
 As the `gh-pages` contains these daily commits, please see the [`develop`](https://github.com/yunruse/tarot/tree/develop) branch for actual developmental commits!
 
