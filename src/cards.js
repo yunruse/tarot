@@ -82,7 +82,7 @@ function showCards() {
   cardImages.innerHTML = CARDS.map((card, i) => {
     return `
       <div class="${card.upright ? "card" : "card reversed"}">
-        <img src="cards/color/${card.code}.jpg">
+        <img src="https://media.githubusercontent.com/media/yunruse/tarot/gh-pages/cards/color/${card.code}.jpg">
       </div>
     `
   }).join("");
