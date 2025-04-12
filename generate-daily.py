@@ -11,11 +11,14 @@ shuffle(CARDS)
 cards = CARDS[:3]
 for c in cards:
     c['upright'] = random() > 0.5
+    code = c['code']
     if not c['upright']:
-        c['code'] += 'r'
+        code += 'r'
         c['name'] += ', reversed'
+    
+    c.pop('type')
 
-    interp = INTERPRETATIONS['labyrinthos'][c['code']]
+    interp = INTERPRETATIONS['labyrinthos'][code]
     c['interpretation'] = interp.removesuffix('</a>').split('>')[-1]
 
 data = {

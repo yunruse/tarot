@@ -2,26 +2,20 @@
   "date": "2025-04-12",
   "cards": [
     {
-      "code": "s7r",
-      "png": "Swords07.png",
+      "code": "s7",
       "name": "7 of Swords, reversed",
-      "type": "Swords",
       "upright": false,
       "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
     },
     {
-      "code": "s13r",
-      "png": "Swords13.png",
+      "code": "s13",
       "name": "Queen of Swords, reversed",
-      "type": "Swords",
       "upright": false,
       "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
     },
     {
-      "code": "2r",
-      "png": "02-TheHighPriestess.png",
+      "code": "2",
       "name": "\u2161 The High Priestess, reversed",
-      "type": "MajorArcana",
       "upright": false,
       "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
     }
