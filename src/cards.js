@@ -23,7 +23,7 @@ function draw(N, justMajor, reversed) {
 
 
 var CARDS;
-fetch("./src/cards.json").then(x => x.json()).then(x => {
+fetch("./src/cards.json").then(r => r.json()).then(x => {
   CARD_MAP = x;
   CARD_ARRAY = Object.values(x);
 
@@ -46,8 +46,14 @@ fetch("./src/cards.json").then(x => x.json()).then(x => {
       card.upright = !reversed;
       return card
     })
+    refreshList(false, true);
   } else {
-    CARDS = draw(cardN(), false, true);
+
+    fetch("./daily.json").then(r => r.json()).then(daily => {
+      console.log('daily', daily)
+      CARDS = daily.cards;
+      refreshList(false, true);
+    })
   }
 
 
