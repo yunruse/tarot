@@ -1,23 +1,23 @@
 {
-  "date": "2025-04-12",
+  "date": "2025-04-13",
   "cards": [
     {
-      "code": "s7",
-      "name": "7 of Swords, reversed",
-      "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
+      "code": "p4",
+      "name": "4 of Pentacles",
+      "upright": true,
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
+      "code": "c4",
+      "name": "4 of Cups, reversed",
       "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
     },
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess, reversed",
-      "upright": false,
-      "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
+      "code": "c13",
+      "name": "Queen of Cups",
+      "upright": true,
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     }
   ]
 }
