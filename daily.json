@@ -1,23 +1,23 @@
 {
-  "date": "2025-04-17",
+  "date": "2025-04-18",
   "cards": [
     {
-      "code": "c10",
-      "name": "10 of Cups, reversed",
+      "code": "1",
+      "name": "\u2160 The Magician, reversed",
       "upright": false,
-      "interpretation": "unhappy home, separation, domestic conflict, disharmony, isolation"
+      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
     },
     {
-      "code": "s9",
-      "name": "9 of Swords",
+      "code": "2",
+      "name": "\u2161 The High Priestess",
       "upright": true,
-      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
+      "code": "w11",
+      "name": "Page of Wands",
       "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
     }
   ]
 }
