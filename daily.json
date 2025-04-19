@@ -1,23 +1,23 @@
 {
-  "date": "2025-04-18",
+  "date": "2025-04-19",
   "cards": [
     {
-      "code": "1",
-      "name": "\u2160 The Magician, reversed",
+      "code": "p1",
+      "name": "Ace of Pentacles",
+      "upright": true,
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+    },
+    {
+      "code": "p8",
+      "name": "8 of Pentacles",
+      "upright": true,
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
+    },
+    {
+      "code": "17",
+      "name": "\u2169\u2166 The Star, reversed",
       "upright": false,
-      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
-    },
-    {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
-      "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
-    },
-    {
-      "code": "w11",
-      "name": "Page of Wands",
-      "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
     }
   ]
 }
