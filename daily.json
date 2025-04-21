@@ -1,23 +1,23 @@
 {
-  "date": "2025-04-20",
+  "date": "2025-04-21",
   "cards": [
     {
-      "code": "s5",
-      "name": "5 of Swords, reversed",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World, reversed",
       "upright": false,
-      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
+      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords, reversed",
-      "upright": false,
-      "interpretation": "stuck in past, returning to trouble, running away from problems, trapped"
-    },
-    {
-      "code": "w11",
-      "name": "Page of Wands",
+      "code": "w7",
+      "name": "7 of Wands",
       "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
+    },
+    {
+      "code": "18",
+      "name": "\u2169\u2167 The Moon, reversed",
+      "upright": false,
+      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
     }
   ]
 }
