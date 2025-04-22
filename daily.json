@@ -1,23 +1,23 @@
 {
-  "date": "2025-04-21",
+  "date": "2025-04-22",
   "cards": [
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World, reversed",
+      "code": "2",
+      "name": "\u2161 The High Priestess, reversed",
       "upright": false,
-      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
+      "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
     },
     {
-      "code": "w7",
-      "name": "7 of Wands",
+      "code": "w4",
+      "name": "4 of Wands",
       "upright": true,
-      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon, reversed",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil, reversed",
       "upright": false,
-      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
+      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
     }
   ]
 }
