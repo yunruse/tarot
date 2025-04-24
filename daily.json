@@ -1,23 +1,23 @@
 {
-  "date": "2025-04-23",
+  "date": "2025-04-24",
   "cards": [
     {
-      "code": "c11",
-      "name": "Page of Cups, reversed",
-      "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
-    },
-    {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "s12",
+      "name": "Knight of Swords",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     },
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man, reversed",
+      "code": "11",
+      "name": "\u2169\u2160 Justice, reversed",
       "upright": false,
-      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
+      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
+    },
+    {
+      "code": "s3",
+      "name": "3 of Swords",
+      "upright": true,
+      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
     }
   ]
 }
