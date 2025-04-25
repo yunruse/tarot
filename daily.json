@@ -1,23 +1,23 @@
 {
-  "date": "2025-04-24",
+  "date": "2025-04-25",
   "cards": [
     {
-      "code": "s12",
-      "name": "Knight of Swords",
-      "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
-    },
-    {
-      "code": "11",
-      "name": "\u2169\u2160 Justice, reversed",
+      "code": "p1",
+      "name": "Ace of Pentacles, reversed",
       "upright": false,
-      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
+      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
     },
     {
-      "code": "s3",
-      "name": "3 of Swords",
+      "code": "s11",
+      "name": "Page of Swords, reversed",
+      "upright": false,
+      "interpretation": "scatterbrained, cynical, sarcastic, gossipy, insulting, rude, lack of planning"
+    },
+    {
+      "code": "c4",
+      "name": "4 of Cups",
       "upright": true,
-      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     }
   ]
 }
