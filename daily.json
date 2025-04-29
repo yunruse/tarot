@@ -1,23 +1,23 @@
 {
-  "date": "2025-04-28",
+  "date": "2025-04-29",
   "cards": [
     {
-      "code": "w1",
-      "name": "Ace of Wands, reversed",
+      "code": "p2",
+      "name": "2 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
+      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
     },
     {
-      "code": "p14",
-      "name": "King of Pentacles, reversed",
+      "code": "w8",
+      "name": "8 of Wands, reversed",
       "upright": false,
-      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
+      "interpretation": "waiting, slowness, chaos, delays, losing momentum, hastiness, being unprepared"
     },
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
-      "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "code": "w4",
+      "name": "4 of Wands, reversed",
+      "upright": false,
+      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
     }
   ]
 }
