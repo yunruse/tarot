@@ -1,23 +1,23 @@
 {
-  "date": "2025-04-29",
+  "date": "2025-04-30",
   "cards": [
     {
-      "code": "p2",
-      "name": "2 of Pentacles, reversed",
+      "code": "2",
+      "name": "\u2161 The High Priestess, reversed",
       "upright": false,
-      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
+      "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
     },
     {
-      "code": "w8",
-      "name": "8 of Wands, reversed",
-      "upright": false,
-      "interpretation": "waiting, slowness, chaos, delays, losing momentum, hastiness, being unprepared"
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune",
+      "upright": true,
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands, reversed",
-      "upright": false,
-      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
+      "code": "c8",
+      "name": "8 of Cups",
+      "upright": true,
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     }
   ]
 }
