@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-30",
+  "date": "2025-05-01",
   "cards": [
     {
       "code": "2",
@@ -8,16 +8,16 @@
       "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
     },
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
+      "code": "c11",
+      "name": "Page of Cups",
       "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups",
+      "code": "s13",
+      "name": "Queen of Swords",
       "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     }
   ]
 }
