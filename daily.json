@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-06",
+  "date": "2025-05-07",
   "cards": [
     {
-      "code": "p1",
-      "name": "Ace of Pentacles, reversed",
+      "code": "c8",
+      "name": "8 of Cups, reversed",
       "upright": false,
-      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
+      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice, reversed",
+      "code": "w11",
+      "name": "Page of Wands, reversed",
       "upright": false,
-      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
+      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords",
-      "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
+      "code": "c14",
+      "name": "King of Cups, reversed",
+      "upright": false,
+      "interpretation": "overwhelmed, anxious, cold, repressed, withdrawn, manipulative, selfish"
     }
   ]
 }
