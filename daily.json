@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-07",
+  "date": "2025-05-08",
   "cards": [
     {
-      "code": "c8",
-      "name": "8 of Cups, reversed",
-      "upright": false,
-      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
+      "code": "c9",
+      "name": "9 of Cups",
+      "upright": true,
+      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
     },
     {
-      "code": "w11",
-      "name": "Page of Wands, reversed",
-      "upright": false,
-      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
+      "code": "s8",
+      "name": "8 of Swords",
+      "upright": true,
+      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
     },
     {
-      "code": "c14",
-      "name": "King of Cups, reversed",
+      "code": "s12",
+      "name": "Knight of Swords, reversed",
       "upright": false,
-      "interpretation": "overwhelmed, anxious, cold, repressed, withdrawn, manipulative, selfish"
+      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
     }
   ]
 }
