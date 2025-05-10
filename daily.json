@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-09",
+  "date": "2025-05-10",
   "cards": [
     {
-      "code": "w4",
-      "name": "4 of Wands, reversed",
+      "code": "p5",
+      "name": "5 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
+      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
     },
     {
-      "code": "7",
-      "name": "\u2166 The Chariot, reversed",
+      "code": "c11",
+      "name": "Page of Cups, reversed",
       "upright": false,
-      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
     },
     {
       "code": "s7",
-      "name": "7 of Swords, reversed",
-      "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
+      "name": "7 of Swords",
+      "upright": true,
+      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
     }
   ]
 }
