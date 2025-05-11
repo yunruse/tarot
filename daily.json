@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-10",
+  "date": "2025-05-11",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles, reversed",
+      "code": "p14",
+      "name": "King of Pentacles, reversed",
       "upright": false,
-      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
+      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups, reversed",
-      "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
-    },
-    {
-      "code": "s7",
-      "name": "7 of Swords",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower",
       "upright": true,
-      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
+      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+    },
+    {
+      "code": "c10",
+      "name": "10 of Cups",
+      "upright": true,
+      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
     }
   ]
 }
