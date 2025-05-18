@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-17",
+  "date": "2025-05-18",
   "cards": [
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords",
+      "code": "w2",
+      "name": "2 of Wands",
       "upright": true,
-      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+      "interpretation": "planning, first steps, making decisions, leaving comfort, taking risks"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
-      "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+      "code": "s9",
+      "name": "9 of Swords, reversed",
+      "upright": false,
+      "interpretation": "recovery, learning to cope, facing life, finding help, shame, guilt, mental health issues"
     }
   ]
 }
