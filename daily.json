@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-21",
+  "date": "2025-05-22",
   "cards": [
     {
-      "code": "c4",
-      "name": "4 of Cups",
-      "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
-    },
-    {
-      "code": "c10",
-      "name": "10 of Cups",
-      "upright": true,
-      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
-    },
-    {
-      "code": "s8",
-      "name": "8 of Swords, reversed",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower, reversed",
       "upright": false,
-      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
+      "interpretation": "averting disaster, delaying the inevitable, resisting change"
+    },
+    {
+      "code": "0",
+      "name": "0 The Fool, reversed",
+      "upright": false,
+      "interpretation": "reckless, careless, distracted, naive, foolish, gullible, stale, dull"
+    },
+    {
+      "code": "18",
+      "name": "\u2169\u2167 The Moon, reversed",
+      "upright": false,
+      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
     }
   ]
 }
