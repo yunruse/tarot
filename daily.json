@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-23",
+  "date": "2025-05-24",
   "cards": [
     {
-      "code": "s6",
-      "name": "6 of Swords",
+      "code": "s7",
+      "name": "7 of Swords",
       "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
+      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
     },
     {
-      "code": "s2",
-      "name": "2 of Swords",
-      "upright": true,
-      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
-    },
-    {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man, reversed",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower, reversed",
       "upright": false,
-      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
+      "interpretation": "averting disaster, delaying the inevitable, resisting change"
+    },
+    {
+      "code": "s11",
+      "name": "Page of Swords",
+      "upright": true,
+      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
     }
   ]
 }
