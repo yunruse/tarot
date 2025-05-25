@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-24",
+  "date": "2025-05-25",
   "cards": [
     {
-      "code": "s7",
-      "name": "7 of Swords",
-      "upright": true,
-      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
-    },
-    {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower, reversed",
+      "code": "c12",
+      "name": "Knight of Cups, reversed",
       "upright": false,
-      "interpretation": "averting disaster, delaying the inevitable, resisting change"
+      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
     },
     {
-      "code": "s11",
-      "name": "Page of Swords",
+      "code": "s1",
+      "name": "Ace of Swords",
       "upright": true,
-      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+    },
+    {
+      "code": "7",
+      "name": "\u2166 The Chariot, reversed",
+      "upright": false,
+      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
     }
   ]
 }
