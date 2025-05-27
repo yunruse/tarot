@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-26",
+  "date": "2025-05-27",
   "cards": [
     {
-      "code": "w9",
-      "name": "9 of Wands, reversed",
-      "upright": false,
-      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
-    },
-    {
-      "code": "s11",
-      "name": "Page of Swords, reversed",
-      "upright": false,
-      "interpretation": "scatterbrained, cynical, sarcastic, gossipy, insulting, rude, lack of planning"
-    },
-    {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "s5",
+      "name": "5 of Swords",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+    },
+    {
+      "code": "c12",
+      "name": "Knight of Cups, reversed",
+      "upright": false,
+      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
+    },
+    {
+      "code": "c8",
+      "name": "8 of Cups",
+      "upright": true,
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     }
   ]
 }
