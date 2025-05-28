@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-27",
+  "date": "2025-05-28",
   "cards": [
     {
-      "code": "s5",
-      "name": "5 of Swords",
+      "code": "c4",
+      "name": "4 of Cups",
       "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     },
     {
-      "code": "c12",
-      "name": "Knight of Cups, reversed",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
+      "upright": true,
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+    },
+    {
+      "code": "w1",
+      "name": "Ace of Wands, reversed",
       "upright": false,
-      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
-    },
-    {
-      "code": "c8",
-      "name": "8 of Cups",
-      "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
     }
   ]
 }
