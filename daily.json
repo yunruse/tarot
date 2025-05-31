@@ -1,23 +1,23 @@
 {
-  "date": "2025-05-30",
+  "date": "2025-05-31",
   "cards": [
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
+      "code": "s5",
+      "name": "5 of Swords",
       "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
     },
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "p4",
+      "name": "4 of Pentacles",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
-      "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "code": "w11",
+      "name": "Page of Wands, reversed",
+      "upright": false,
+      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
     }
   ]
 }
