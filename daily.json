@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-01",
+  "date": "2025-06-02",
   "cards": [
     {
-      "code": "8",
-      "name": "\u2167 Strength, reversed",
+      "code": "p2",
+      "name": "2 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
+      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
-      "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "code": "c1",
+      "name": "Ace of Cups, reversed",
+      "upright": false,
+      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
     },
     {
       "code": "p1",
-      "name": "Ace of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
+      "name": "Ace of Pentacles",
+      "upright": true,
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     }
   ]
 }
