@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-12",
+  "date": "2025-06-13",
   "cards": [
     {
-      "code": "w14",
-      "name": "King of Wands, reversed",
+      "code": "c5",
+      "name": "5 of Cups, reversed",
       "upright": false,
-      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
+      "interpretation": "acceptance, moving on, finding peace, contentment, seeing positives"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups",
+      "code": "c12",
+      "name": "Knight of Cups",
       "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     },
     {
-      "code": "w7",
-      "name": "7 of Wands",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     }
   ]
 }
