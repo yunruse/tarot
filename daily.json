@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-14",
+  "date": "2025-06-15",
   "cards": [
     {
-      "code": "7",
-      "name": "\u2166 The Chariot, reversed",
+      "code": "w1",
+      "name": "Ace of Wands, reversed",
       "upright": false,
-      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
+      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
-      "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "code": "s5",
+      "name": "5 of Swords, reversed",
+      "upright": false,
+      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit",
-      "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "code": "17",
+      "name": "\u2169\u2166 The Star, reversed",
+      "upright": false,
+      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
     }
   ]
 }
