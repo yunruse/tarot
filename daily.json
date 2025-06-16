@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-15",
+  "date": "2025-06-16",
   "cards": [
     {
-      "code": "w1",
-      "name": "Ace of Wands, reversed",
+      "code": "w14",
+      "name": "King of Wands, reversed",
       "upright": false,
-      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
+      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
     },
     {
-      "code": "s5",
-      "name": "5 of Swords, reversed",
-      "upright": false,
-      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
+      "upright": true,
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     },
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star, reversed",
+      "code": "s6",
+      "name": "6 of Swords, reversed",
       "upright": false,
-      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
+      "interpretation": "stuck in past, returning to trouble, running away from problems, trapped"
     }
   ]
 }
