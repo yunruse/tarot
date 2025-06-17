@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-16",
+  "date": "2025-06-17",
   "cards": [
     {
-      "code": "w14",
-      "name": "King of Wands, reversed",
-      "upright": false,
-      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
-    },
-    {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement",
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune",
       "upright": true,
-      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords, reversed",
+      "code": "c8",
+      "name": "8 of Cups, reversed",
       "upright": false,
-      "interpretation": "stuck in past, returning to trouble, running away from problems, trapped"
+      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
+    },
+    {
+      "code": "p10",
+      "name": "10 of Pentacles",
+      "upright": true,
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     }
   ]
 }
