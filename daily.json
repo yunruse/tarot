@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-17",
+  "date": "2025-06-18",
   "cards": [
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
       "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups, reversed",
-      "upright": false,
-      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
+      "code": "c11",
+      "name": "Page of Cups",
+      "upright": true,
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     }
   ]
 }
