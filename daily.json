@@ -1,11 +1,11 @@
 {
-  "date": "2025-06-19",
+  "date": "2025-06-20",
   "cards": [
     {
-      "code": "w2",
-      "name": "2 of Wands, reversed",
+      "code": "s14",
+      "name": "King of Swords, reversed",
       "upright": false,
-      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
+      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
     },
     {
       "code": "s2",
@@ -14,10 +14,10 @@
       "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "p2",
+      "name": "2 of Pentacles",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
     }
   ]
 }
