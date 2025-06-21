@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-20",
+  "date": "2025-06-21",
   "cards": [
     {
-      "code": "s14",
-      "name": "King of Swords, reversed",
-      "upright": false,
-      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
-    },
-    {
-      "code": "s2",
-      "name": "2 of Swords, reversed",
-      "upright": false,
-      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
-    },
-    {
-      "code": "p2",
-      "name": "2 of Pentacles",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+    },
+    {
+      "code": "c3",
+      "name": "3 of Cups, reversed",
+      "upright": false,
+      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
+    },
+    {
+      "code": "w13",
+      "name": "Queen of Wands, reversed",
+      "upright": false,
+      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
     }
   ]
 }
