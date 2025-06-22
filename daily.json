@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-21",
+  "date": "2025-06-22",
   "cards": [
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "p10",
+      "name": "10 of Pentacles",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
-      "code": "c3",
-      "name": "3 of Cups, reversed",
-      "upright": false,
-      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
+      "upright": true,
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     },
     {
-      "code": "w13",
-      "name": "Queen of Wands, reversed",
-      "upright": false,
-      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
+      "code": "w5",
+      "name": "5 of Wands",
+      "upright": true,
+      "interpretation": "conflict, competition, arguments, aggression, tension, rivals, clashes of ego"
     }
   ]
 }
