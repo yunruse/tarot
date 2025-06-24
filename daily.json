@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-23",
+  "date": "2025-06-24",
   "cards": [
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon",
-      "upright": true,
-      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
-    },
-    {
-      "code": "0",
-      "name": "0 The Fool, reversed",
+      "code": "s4",
+      "name": "4 of Swords, reversed",
       "upright": false,
-      "interpretation": "reckless, careless, distracted, naive, foolish, gullible, stale, dull"
+      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
+    },
+    {
+      "code": "c3",
+      "name": "3 of Cups, reversed",
+      "upright": false,
+      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
     }
   ]
 }
