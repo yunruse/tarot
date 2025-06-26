@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-25",
+  "date": "2025-06-26",
   "cards": [
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "c13",
+      "name": "Queen of Cups",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "p7",
-      "name": "7 of Pentacles",
-      "upright": true,
-      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
+      "code": "p5",
+      "name": "5 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
     },
     {
       "code": "c14",
-      "name": "King of Cups, reversed",
-      "upright": false,
-      "interpretation": "overwhelmed, anxious, cold, repressed, withdrawn, manipulative, selfish"
+      "name": "King of Cups",
+      "upright": true,
+      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
     }
   ]
 }
