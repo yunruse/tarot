@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-27",
+  "date": "2025-06-28",
   "cards": [
     {
-      "code": "c12",
-      "name": "Knight of Cups",
+      "code": "2",
+      "name": "\u2161 The High Priestess",
       "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
-      "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
-    },
-    {
-      "code": "w7",
-      "name": "7 of Wands, reversed",
+      "code": "c1",
+      "name": "Ace of Cups, reversed",
       "upright": false,
-      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
+      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
+    },
+    {
+      "code": "3",
+      "name": "\u2162 The Empress",
+      "upright": true,
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     }
   ]
 }
