@@ -1,23 +1,23 @@
 {
-  "date": "2025-06-28",
+  "date": "2025-06-29",
   "cards": [
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
-      "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
-    },
-    {
-      "code": "c1",
-      "name": "Ace of Cups, reversed",
+      "code": "p14",
+      "name": "King of Pentacles, reversed",
       "upright": false,
-      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
+      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
     },
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "s2",
+      "name": "2 of Swords",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
+    },
+    {
+      "code": "c3",
+      "name": "3 of Cups, reversed",
+      "upright": false,
+      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
     }
   ]
 }
