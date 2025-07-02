@@ -1,23 +1,23 @@
 {
-  "date": "2025-07-01",
+  "date": "2025-07-02",
   "cards": [
     {
-      "code": "p3",
-      "name": "3 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
-    },
-    {
-      "code": "p4",
-      "name": "4 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
+      "code": "s8",
+      "name": "8 of Swords",
+      "upright": true,
+      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
     },
     {
       "code": "8",
       "name": "\u2167 Strength",
       "upright": true,
       "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+    },
+    {
+      "code": "16",
+      "name": "\u2169\u2165 The Tower",
+      "upright": true,
+      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
     }
   ]
 }
