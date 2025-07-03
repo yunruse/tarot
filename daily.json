@@ -1,23 +1,23 @@
 {
-  "date": "2025-07-02",
+  "date": "2025-07-03",
   "cards": [
     {
-      "code": "s8",
-      "name": "8 of Swords",
-      "upright": true,
-      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
+      "code": "c3",
+      "name": "3 of Cups, reversed",
+      "upright": false,
+      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength",
-      "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "code": "s7",
+      "name": "7 of Swords, reversed",
+      "upright": false,
+      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
-      "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+      "code": "p3",
+      "name": "3 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
     }
   ]
 }
