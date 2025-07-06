@@ -1,23 +1,23 @@
 {
-  "date": "2025-07-05",
+  "date": "2025-07-06",
   "cards": [
     {
-      "code": "w12",
-      "name": "Knight of Wands",
-      "upright": true,
-      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
-    },
-    {
-      "code": "s3",
-      "name": "3 of Swords",
-      "upright": true,
-      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
-    },
-    {
-      "code": "s7",
-      "name": "7 of Swords, reversed",
+      "code": "8",
+      "name": "\u2167 Strength, reversed",
       "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
+      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
+    },
+    {
+      "code": "7",
+      "name": "\u2166 The Chariot",
+      "upright": true,
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+    },
+    {
+      "code": "p1",
+      "name": "Ace of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
     }
   ]
 }
