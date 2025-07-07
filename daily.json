@@ -1,23 +1,23 @@
 {
-  "date": "2025-07-06",
+  "date": "2025-07-07",
   "cards": [
     {
-      "code": "8",
-      "name": "\u2167 Strength, reversed",
-      "upright": false,
-      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
-    },
-    {
-      "code": "7",
-      "name": "\u2166 The Chariot",
+      "code": "w4",
+      "name": "4 of Wands",
       "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
     },
     {
-      "code": "p1",
-      "name": "Ace of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
+      "code": "s3",
+      "name": "3 of Swords",
+      "upright": true,
+      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
+    },
+    {
+      "code": "p4",
+      "name": "4 of Pentacles",
+      "upright": true,
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     }
   ]
 }
