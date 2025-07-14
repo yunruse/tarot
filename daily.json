@@ -1,23 +1,23 @@
 {
-  "date": "2025-07-13",
+  "date": "2025-07-14",
   "cards": [
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
-      "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "code": "c12",
+      "name": "Knight of Cups, reversed",
+      "upright": false,
+      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
     },
     {
-      "code": "w5",
-      "name": "5 of Wands, reversed",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower, reversed",
       "upright": false,
-      "interpretation": "end of conflict, cooperation, agreements, truces, harmony, peace, avoiding conflict"
+      "interpretation": "averting disaster, delaying the inevitable, resisting change"
     },
     {
-      "code": "c2",
-      "name": "2 of Cups, reversed",
+      "code": "13",
+      "name": "\u2169\u2162 Death, reversed",
       "upright": false,
-      "interpretation": "separation, rejection, division, imbalance, tension, bad communication, withdrawal"
+      "interpretation": "fear of change, repeating negative patterns, resisting change, stagnancy, decay"
     }
   ]
 }
