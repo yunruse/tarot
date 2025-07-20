@@ -1,23 +1,23 @@
 {
-  "date": "2025-07-19",
+  "date": "2025-07-20",
   "cards": [
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     },
     {
-      "code": "p1",
-      "name": "Ace of Pentacles",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
       "upright": true,
-      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
     },
     {
-      "code": "s7",
-      "name": "7 of Swords",
+      "code": "w6",
+      "name": "6 of Wands",
       "upright": true,
-      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
+      "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
     }
   ]
 }
