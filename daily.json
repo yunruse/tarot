@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-20",
+  "date": "2025-07-21",
   "cards": [
     {
       "code": "8",
@@ -8,16 +8,16 @@
       "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     },
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
-      "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
     },
     {
-      "code": "w6",
-      "name": "6 of Wands",
-      "upright": true,
-      "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
+      "code": "s8",
+      "name": "8 of Swords, reversed",
+      "upright": false,
+      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
     }
   ]
 }
