@@ -58,6 +58,11 @@ fetch("./src/cards.json").then(r => r.json()).then(x => {
 
 
   refreshList(false, true);
+
+  const R = document.getElementById('reversed');
+  R.checked = (localStorage['reversed'] ?? "false") == "true";
+  alwaysReverse(R);
+
 });
 
 function cardN() {
@@ -142,7 +147,10 @@ function flippedCard(i, el) {
 
 function alwaysReverse(el) {
   classy(cardImages, "alwaysReverse", el.checked);
+  localStorage['reversed'] = el.checked;
 }
+// TODO: use cookies for this!
+// and the interp. somehow. good luck
 
 function savePNG() {
   html2canvas(cardImages).then(canvas => {
