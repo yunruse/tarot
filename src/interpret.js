@@ -1,12 +1,19 @@
+let INTERP_KIND;
 let INTERPRETATIONS;
+
 fetch("./src/interpretations.json").then(x => x.json()).then(x => {
     INTERPRETATIONS = x;
-    console.log(x)
+
+    INTERP_KIND = localStorage['interp'] ?? 'rider-waite';
+    document.getElementById('interpSelect').value = INTERP_KIND;
+
 })
 
 function writeInterpretations() {
-    let interpKind = document.getElementById('interpSelect').value;
-    let interp = INTERPRETATIONS[interpKind];
+    INTERP_KIND = document.getElementById('interpSelect').value;
+    localStorage['interp'] = INTERP_KIND
+
+    let interp = INTERPRETATIONS[INTERP_KIND];
 
     document.getElementById('interpDesc').innerHTML = `
         <b><a href="${interp.url}">${interp.name}</a> by ${interp.author}</b>: ${interp.description}
