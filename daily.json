@@ -1,23 +1,23 @@
 {
-  "date": "2025-07-27",
+  "date": "2025-07-28",
   "cards": [
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
+      "code": "p3",
+      "name": "3 of Pentacles",
       "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "s8",
-      "name": "8 of Swords, reversed",
+      "code": "c5",
+      "name": "5 of Cups, reversed",
       "upright": false,
-      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
+      "interpretation": "acceptance, moving on, finding peace, contentment, seeing positives"
     }
   ]
 }
