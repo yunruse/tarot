@@ -1,23 +1,23 @@
 {
-  "date": "2025-07-30",
+  "date": "2025-07-31",
   "cards": [
     {
-      "code": "c13",
-      "name": "Queen of Cups",
+      "code": "p9",
+      "name": "9 of Pentacles",
       "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
     },
     {
-      "code": "c10",
-      "name": "10 of Cups",
+      "code": "s8",
+      "name": "8 of Swords",
       "upright": true,
-      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
+      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
     },
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil",
-      "upright": true,
-      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
+      "code": "s10",
+      "name": "10 of Swords, reversed",
+      "upright": false,
+      "interpretation": "survival, improvement, healing, lessons learned, despair, relapse"
     }
   ]
 }
