@@ -1,23 +1,23 @@
 {
-  "date": "2025-07-31",
+  "date": "2025-08-01",
   "cards": [
     {
-      "code": "p9",
-      "name": "9 of Pentacles",
+      "code": "s13",
+      "name": "Queen of Swords",
       "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     },
     {
-      "code": "s8",
-      "name": "8 of Swords",
+      "code": "s3",
+      "name": "3 of Swords",
       "upright": true,
-      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
+      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
     },
     {
-      "code": "s10",
-      "name": "10 of Swords, reversed",
+      "code": "c6",
+      "name": "6 of Cups, reversed",
       "upright": false,
-      "interpretation": "survival, improvement, healing, lessons learned, despair, relapse"
+      "interpretation": "stuck in past, moving forward, leaving home, independence"
     }
   ]
 }
