@@ -1,23 +1,23 @@
 {
-  "date": "2025-08-03",
+  "date": "2025-08-04",
   "cards": [
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon",
+      "code": "7",
+      "name": "\u2166 The Chariot",
       "upright": true,
-      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     },
     {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement",
+      "code": "p4",
+      "name": "4 of Pentacles",
       "upright": true,
-      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
-      "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "code": "p3",
+      "name": "3 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
     }
   ]
 }
