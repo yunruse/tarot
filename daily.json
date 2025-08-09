@@ -1,23 +1,23 @@
 {
-  "date": "2025-08-08",
+  "date": "2025-08-09",
   "cards": [
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     },
     {
-      "code": "c13",
-      "name": "Queen of Cups, reversed",
-      "upright": false,
-      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
+      "code": "p6",
+      "name": "6 of Pentacles",
+      "upright": true,
+      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
     },
     {
-      "code": "c5",
-      "name": "5 of Cups, reversed",
+      "code": "p4",
+      "name": "4 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "acceptance, moving on, finding peace, contentment, seeing positives"
+      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
     }
   ]
 }
