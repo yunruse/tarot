@@ -1,23 +1,23 @@
 {
-  "date": "2025-08-09",
+  "date": "2025-08-10",
   "cards": [
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
-      "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
-    },
-    {
-      "code": "p4",
-      "name": "4 of Pentacles, reversed",
+      "code": "w2",
+      "name": "2 of Wands, reversed",
       "upright": false,
-      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
+      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
+    },
+    {
+      "code": "p3",
+      "name": "3 of Pentacles",
+      "upright": true,
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     }
   ]
 }
