@@ -1,23 +1,23 @@
 {
-  "date": "2025-08-11",
+  "date": "2025-08-12",
   "cards": [
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
+      "code": "c12",
+      "name": "Knight of Cups",
       "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     },
     {
-      "code": "w11",
-      "name": "Page of Wands",
-      "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "code": "s14",
+      "name": "King of Swords, reversed",
+      "upright": false,
+      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
     },
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "s12",
+      "name": "Knight of Swords",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     }
   ]
 }
