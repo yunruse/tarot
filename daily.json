@@ -1,23 +1,23 @@
 {
-  "date": "2025-08-17",
+  "date": "2025-08-18",
   "cards": [
     {
-      "code": "s8",
-      "name": "8 of Swords",
+      "code": "s12",
+      "name": "Knight of Swords",
       "upright": true,
-      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups, reversed",
-      "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+      "code": "c10",
+      "name": "10 of Cups",
+      "upright": true,
+      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
     },
     {
-      "code": "c13",
-      "name": "Queen of Cups, reversed",
-      "upright": false,
-      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
+      "code": "p5",
+      "name": "5 of Pentacles",
+      "upright": true,
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     }
   ]
 }
