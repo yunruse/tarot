@@ -1,23 +1,23 @@
 {
-  "date": "2025-08-18",
+  "date": "2025-08-19",
   "cards": [
     {
-      "code": "s12",
-      "name": "Knight of Swords",
+      "code": "c1",
+      "name": "Ace of Cups",
       "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
     },
     {
-      "code": "c10",
-      "name": "10 of Cups",
-      "upright": true,
-      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
+      "code": "w2",
+      "name": "2 of Wands, reversed",
+      "upright": false,
+      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
     },
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
-      "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "code": "w10",
+      "name": "10 of Wands, reversed",
+      "upright": false,
+      "interpretation": "failure to delegate, shouldering too much responsibility, collapse, breakdown"
     }
   ]
 }
