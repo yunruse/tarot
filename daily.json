@@ -1,23 +1,23 @@
 {
-  "date": "2025-08-25",
+  "date": "2025-08-26",
   "cards": [
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "w6",
-      "name": "6 of Wands, reversed",
-      "upright": false,
-      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
+      "code": "p8",
+      "name": "8 of Pentacles",
+      "upright": true,
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     },
     {
-      "code": "c13",
-      "name": "Queen of Cups",
+      "code": "p3",
+      "name": "3 of Pentacles",
       "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     }
   ]
 }
