@@ -1,23 +1,23 @@
 {
-  "date": "2025-08-26",
+  "date": "2025-08-27",
   "cards": [
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
+      "code": "s13",
+      "name": "Queen of Swords",
       "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
-      "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
+      "code": "c1",
+      "name": "Ace of Cups, reversed",
+      "upright": false,
+      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
     },
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
-      "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "code": "p11",
+      "name": "Page of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
     }
   ]
 }
