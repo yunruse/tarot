@@ -1,23 +1,23 @@
 {
-  "date": "2025-08-29",
+  "date": "2025-08-30",
   "cards": [
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength, reversed",
-      "upright": false,
-      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
+      "code": "p13",
+      "name": "Queen of Pentacles",
+      "upright": true,
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit, reversed",
+      "code": "s9",
+      "name": "9 of Swords, reversed",
       "upright": false,
-      "interpretation": "loneliness, isolation, recluse, being anti-social, rejection, returning to society"
+      "interpretation": "recovery, learning to cope, facing life, finding help, shame, guilt, mental health issues"
     }
   ]
 }
