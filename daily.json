@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-02",
+  "date": "2025-09-03",
   "cards": [
     {
-      "code": "c13",
-      "name": "Queen of Cups",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "s11",
-      "name": "Page of Swords, reversed",
-      "upright": false,
-      "interpretation": "scatterbrained, cynical, sarcastic, gossipy, insulting, rude, lack of planning"
+      "code": "13",
+      "name": "\u2169\u2162 Death",
+      "upright": true,
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     },
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
+      "code": "p11",
+      "name": "Page of Pentacles",
       "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
     }
   ]
 }
