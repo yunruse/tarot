@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-04",
+  "date": "2025-09-05",
   "cards": [
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "s2",
-      "name": "2 of Swords",
+      "code": "w1",
+      "name": "Ace of Wands",
       "upright": true,
-      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     }
   ]
 }
