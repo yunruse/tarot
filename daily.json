@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-07",
+  "date": "2025-09-08",
   "cards": [
     {
-      "code": "w11",
-      "name": "Page of Wands",
+      "code": "c13",
+      "name": "Queen of Cups",
       "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "p11",
-      "name": "Page of Pentacles, reversed",
+      "code": "18",
+      "name": "\u2169\u2167 The Moon, reversed",
       "upright": false,
-      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
+      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
     },
     {
-      "code": "c10",
-      "name": "10 of Cups",
+      "code": "c6",
+      "name": "6 of Cups",
       "upright": true,
-      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     }
   ]
 }
