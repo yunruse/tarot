@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-08",
+  "date": "2025-09-09",
   "cards": [
     {
-      "code": "c13",
-      "name": "Queen of Cups",
+      "code": "w8",
+      "name": "8 of Wands",
       "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon, reversed",
+      "code": "w1",
+      "name": "Ace of Wands, reversed",
       "upright": false,
-      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
+      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
     },
     {
-      "code": "c6",
-      "name": "6 of Cups",
-      "upright": true,
-      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
+      "code": "c11",
+      "name": "Page of Cups, reversed",
+      "upright": false,
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
     }
   ]
 }
