@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-10",
+  "date": "2025-09-11",
   "cards": [
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
+      "code": "c13",
+      "name": "Queen of Cups",
       "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "p1",
-      "name": "Ace of Pentacles, reversed",
+      "code": "s5",
+      "name": "5 of Swords, reversed",
       "upright": false,
-      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
+      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
     },
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
-      "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "code": "c6",
+      "name": "6 of Cups, reversed",
+      "upright": false,
+      "interpretation": "stuck in past, moving forward, leaving home, independence"
     }
   ]
 }
