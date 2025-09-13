@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-12",
+  "date": "2025-09-13",
   "cards": [
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "c3",
+      "name": "3 of Cups",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
     },
     {
-      "code": "w13",
-      "name": "Queen of Wands, reversed",
+      "code": "w1",
+      "name": "Ace of Wands, reversed",
       "upright": false,
-      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
+      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
     },
     {
-      "code": "p4",
-      "name": "4 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
+      "code": "8",
+      "name": "\u2167 Strength",
+      "upright": true,
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     }
   ]
 }
