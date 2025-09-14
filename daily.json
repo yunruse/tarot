@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-13",
+  "date": "2025-09-14",
   "cards": [
     {
-      "code": "c3",
-      "name": "3 of Cups",
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
       "upright": true,
-      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     },
     {
-      "code": "w1",
-      "name": "Ace of Wands, reversed",
+      "code": "s12",
+      "name": "Knight of Swords, reversed",
       "upright": false,
-      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
+      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
     }
   ]
 }
