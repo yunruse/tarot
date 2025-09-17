@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-16",
+  "date": "2025-09-17",
   "cards": [
     {
-      "code": "w10",
-      "name": "10 of Wands",
+      "code": "c8",
+      "name": "8 of Cups",
       "upright": true,
-      "interpretation": "burden, responsibility, duty, stress, obligation, burning out, struggles"
-    },
-    {
-      "code": "s8",
-      "name": "8 of Swords, reversed",
-      "upright": false,
-      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     },
     {
       "code": "16",
       "name": "\u2169\u2165 The Tower, reversed",
       "upright": false,
       "interpretation": "averting disaster, delaying the inevitable, resisting change"
+    },
+    {
+      "code": "c7",
+      "name": "7 of Cups, reversed",
+      "upright": false,
+      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
     }
   ]
 }
