@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-17",
+  "date": "2025-09-18",
   "cards": [
     {
-      "code": "c8",
-      "name": "8 of Cups",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
       "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower, reversed",
-      "upright": false,
-      "interpretation": "averting disaster, delaying the inevitable, resisting change"
+      "code": "p1",
+      "name": "Ace of Pentacles",
+      "upright": true,
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups, reversed",
-      "upright": false,
-      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
+      "code": "p5",
+      "name": "5 of Pentacles",
+      "upright": true,
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     }
   ]
 }
