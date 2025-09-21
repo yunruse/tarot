@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-20",
+  "date": "2025-09-21",
   "cards": [
     {
-      "code": "1",
-      "name": "\u2160 The Magician",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant, reversed",
+      "code": "w11",
+      "name": "Page of Wands, reversed",
       "upright": false,
-      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords",
+      "code": "p13",
+      "name": "Queen of Pentacles",
       "upright": true,
-      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     }
   ]
 }
