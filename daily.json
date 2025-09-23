@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-22",
+  "date": "2025-09-23",
   "cards": [
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
+      "code": "c5",
+      "name": "5 of Cups",
       "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
+    },
+    {
+      "code": "w7",
+      "name": "7 of Wands",
+      "upright": true,
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
     },
     {
       "code": "p11",
       "name": "Page of Pentacles, reversed",
       "upright": false,
       "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
-    },
-    {
-      "code": "c5",
-      "name": "5 of Cups",
-      "upright": true,
-      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
     }
   ]
 }
