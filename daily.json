@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-23",
+  "date": "2025-09-24",
   "cards": [
     {
-      "code": "c5",
-      "name": "5 of Cups",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "w7",
-      "name": "7 of Wands",
-      "upright": true,
-      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
-    },
-    {
-      "code": "p11",
-      "name": "Page of Pentacles, reversed",
+      "code": "w3",
+      "name": "3 of Wands, reversed",
       "upright": false,
-      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
+      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
+    },
+    {
+      "code": "18",
+      "name": "\u2169\u2167 The Moon, reversed",
+      "upright": false,
+      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
     }
   ]
 }
