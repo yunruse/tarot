@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-24",
+  "date": "2025-09-25",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
       "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     },
     {
-      "code": "w3",
-      "name": "3 of Wands, reversed",
+      "code": "p12",
+      "name": "Knight of Pentacles, reversed",
       "upright": false,
-      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
+      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon, reversed",
-      "upright": false,
-      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
+      "code": "c4",
+      "name": "4 of Cups",
+      "upright": true,
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     }
   ]
 }
