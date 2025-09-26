@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-25",
+  "date": "2025-09-26",
   "cards": [
     {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
       "upright": true,
-      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
     },
     {
-      "code": "p12",
-      "name": "Knight of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
+      "code": "c8",
+      "name": "8 of Cups",
+      "upright": true,
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     }
   ]
 }
