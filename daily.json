@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-26",
+  "date": "2025-09-27",
   "cards": [
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
+      "code": "p4",
+      "name": "4 of Pentacles",
       "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups",
-      "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "code": "p10",
+      "name": "10 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "w12",
+      "name": "Knight of Wands",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
     }
   ]
 }
