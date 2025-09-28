@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-27",
+  "date": "2025-09-28",
   "cards": [
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
+      "code": "c2",
+      "name": "2 of Cups",
       "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles, reversed",
+      "code": "p2",
+      "name": "2 of Pentacles",
+      "upright": true,
+      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+    },
+    {
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
-    },
-    {
-      "code": "w12",
-      "name": "Knight of Wands",
-      "upright": true,
-      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
     }
   ]
 }
