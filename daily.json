@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-28",
+  "date": "2025-09-29",
   "cards": [
     {
-      "code": "c2",
-      "name": "2 of Cups",
+      "code": "w12",
+      "name": "Knight of Wands",
       "upright": true,
-      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
+      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
-      "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
-    },
-    {
-      "code": "p9",
-      "name": "9 of Pentacles, reversed",
+      "code": "w9",
+      "name": "9 of Wands, reversed",
       "upright": false,
-      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
+    },
+    {
+      "code": "p7",
+      "name": "7 of Pentacles",
+      "upright": true,
+      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
     }
   ]
 }
