@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-29",
+  "date": "2025-09-30",
   "cards": [
     {
-      "code": "w12",
-      "name": "Knight of Wands",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     },
     {
-      "code": "w9",
-      "name": "9 of Wands, reversed",
+      "code": "s12",
+      "name": "Knight of Swords, reversed",
       "upright": false,
-      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
+      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
     },
     {
-      "code": "p7",
-      "name": "7 of Pentacles",
-      "upright": true,
-      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
+      "code": "s1",
+      "name": "Ace of Swords, reversed",
+      "upright": false,
+      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
     }
   ]
 }
