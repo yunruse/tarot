@@ -1,23 +1,23 @@
 {
-  "date": "2025-09-30",
+  "date": "2025-10-01",
   "cards": [
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords, reversed",
+      "code": "w7",
+      "name": "7 of Wands, reversed",
       "upright": false,
-      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
+      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords, reversed",
+      "code": "s14",
+      "name": "King of Swords, reversed",
       "upright": false,
-      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
+      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
     }
   ]
 }
