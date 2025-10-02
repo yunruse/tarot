@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-01",
+  "date": "2025-10-02",
   "cards": [
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "4",
+      "name": "\u2163 The Emperor",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
     },
     {
-      "code": "w7",
-      "name": "7 of Wands, reversed",
-      "upright": false,
-      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
+      "upright": true,
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "s14",
-      "name": "King of Swords, reversed",
-      "upright": false,
-      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
+      "code": "w1",
+      "name": "Ace of Wands",
+      "upright": true,
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     }
   ]
 }
