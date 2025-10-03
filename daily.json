@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-02",
+  "date": "2025-10-03",
   "cards": [
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "p4",
+      "name": "4 of Pentacles",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
-      "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "code": "c4",
+      "name": "4 of Cups, reversed",
+      "upright": false,
+      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
     },
     {
-      "code": "w1",
-      "name": "Ace of Wands",
-      "upright": true,
-      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
+      "code": "s1",
+      "name": "Ace of Swords, reversed",
+      "upright": false,
+      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
     }
   ]
 }
