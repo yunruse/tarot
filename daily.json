@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-03",
+  "date": "2025-10-04",
   "cards": [
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
+      "code": "s14",
+      "name": "King of Swords",
       "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups, reversed",
-      "upright": false,
-      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+      "code": "w14",
+      "name": "King of Wands",
+      "upright": true,
+      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords, reversed",
-      "upright": false,
-      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
+      "code": "p7",
+      "name": "7 of Pentacles",
+      "upright": true,
+      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
     }
   ]
 }
