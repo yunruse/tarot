@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-04",
+  "date": "2025-10-05",
   "cards": [
     {
-      "code": "s14",
-      "name": "King of Swords",
+      "code": "18",
+      "name": "\u2169\u2167 The Moon",
       "upright": true,
-      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
+      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
     },
     {
-      "code": "w14",
-      "name": "King of Wands",
-      "upright": true,
-      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
+      "code": "p12",
+      "name": "Knight of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
     },
     {
-      "code": "p7",
-      "name": "7 of Pentacles",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     }
   ]
 }
