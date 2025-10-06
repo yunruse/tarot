@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-05",
+  "date": "2025-10-06",
   "cards": [
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil",
       "upright": true,
-      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
+      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
     },
     {
-      "code": "p12",
-      "name": "Knight of Pentacles, reversed",
+      "code": "s3",
+      "name": "3 of Swords",
+      "upright": true,
+      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
+    },
+    {
+      "code": "7",
+      "name": "\u2166 The Chariot, reversed",
       "upright": false,
-      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
-    },
-    {
-      "code": "8",
-      "name": "\u2167 Strength",
-      "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
     }
   ]
 }
