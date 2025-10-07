@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-06",
+  "date": "2025-10-07",
   "cards": [
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil",
+      "code": "w8",
+      "name": "8 of Wands",
       "upright": true,
-      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
+      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
     },
     {
-      "code": "s3",
-      "name": "3 of Swords",
+      "code": "c4",
+      "name": "4 of Cups",
       "upright": true,
-      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     },
     {
-      "code": "7",
-      "name": "\u2166 The Chariot, reversed",
-      "upright": false,
-      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
+      "code": "s8",
+      "name": "8 of Swords",
+      "upright": true,
+      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
     }
   ]
 }
