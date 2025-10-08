@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-07",
+  "date": "2025-10-08",
   "cards": [
     {
-      "code": "w8",
-      "name": "8 of Wands",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
       "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups",
-      "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "code": "c14",
+      "name": "King of Cups, reversed",
+      "upright": false,
+      "interpretation": "overwhelmed, anxious, cold, repressed, withdrawn, manipulative, selfish"
     },
     {
-      "code": "s8",
-      "name": "8 of Swords",
+      "code": "c7",
+      "name": "7 of Cups",
       "upright": true,
-      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     }
   ]
 }
