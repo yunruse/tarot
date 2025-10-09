@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-08",
+  "date": "2025-10-09",
   "cards": [
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "c1",
+      "name": "Ace of Cups",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
     },
     {
-      "code": "c14",
-      "name": "King of Cups, reversed",
+      "code": "c2",
+      "name": "2 of Cups",
+      "upright": true,
+      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
+    },
+    {
+      "code": "w4",
+      "name": "4 of Wands, reversed",
       "upright": false,
-      "interpretation": "overwhelmed, anxious, cold, repressed, withdrawn, manipulative, selfish"
-    },
-    {
-      "code": "c7",
-      "name": "7 of Cups",
-      "upright": true,
-      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
+      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
     }
   ]
 }
