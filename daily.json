@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-09",
+  "date": "2025-10-10",
   "cards": [
     {
-      "code": "c1",
-      "name": "Ace of Cups",
+      "code": "w1",
+      "name": "Ace of Wands",
       "upright": true,
-      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     },
     {
-      "code": "c2",
-      "name": "2 of Cups",
-      "upright": true,
-      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
-    },
-    {
-      "code": "w4",
-      "name": "4 of Wands, reversed",
+      "code": "p1",
+      "name": "Ace of Pentacles, reversed",
       "upright": false,
-      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
+      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
+    },
+    {
+      "code": "s11",
+      "name": "Page of Swords",
+      "upright": true,
+      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
     }
   ]
 }
