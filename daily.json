@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-10",
+  "date": "2025-10-11",
   "cards": [
     {
-      "code": "w1",
-      "name": "Ace of Wands",
+      "code": "c13",
+      "name": "Queen of Cups",
       "upright": true,
-      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "p1",
-      "name": "Ace of Pentacles, reversed",
+      "code": "3",
+      "name": "\u2162 The Empress",
+      "upright": true,
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+    },
+    {
+      "code": "19",
+      "name": "\u2169\u2168 The Sun, reversed",
       "upright": false,
-      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
-    },
-    {
-      "code": "s11",
-      "name": "Page of Swords",
-      "upright": true,
-      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
+      "interpretation": "blocked happiness, excessive enthusiasm, pessimism, unrealistic expectations, conceitedness"
     }
   ]
 }
