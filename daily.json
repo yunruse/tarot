@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-12",
+  "date": "2025-10-13",
   "cards": [
     {
-      "code": "c8",
-      "name": "8 of Cups",
+      "code": "c11",
+      "name": "Page of Cups",
       "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     },
     {
-      "code": "p7",
-      "name": "7 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "unfinished work, procrastination, low effort, waste, lack of growth, setbacks, impatience, lack of reward"
+      "code": "c1",
+      "name": "Ace of Cups",
+      "upright": true,
+      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords, reversed",
-      "upright": false,
-      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
+      "code": "18",
+      "name": "\u2169\u2167 The Moon",
+      "upright": true,
+      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
     }
   ]
 }
