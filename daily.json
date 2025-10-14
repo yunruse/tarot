@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-13",
+  "date": "2025-10-14",
   "cards": [
     {
-      "code": "c11",
-      "name": "Page of Cups",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     },
     {
-      "code": "c1",
-      "name": "Ace of Cups",
+      "code": "7",
+      "name": "\u2166 The Chariot",
       "upright": true,
-      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon",
+      "code": "p2",
+      "name": "2 of Pentacles",
       "upright": true,
-      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
+      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
     }
   ]
 }
