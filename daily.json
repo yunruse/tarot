@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-15",
+  "date": "2025-10-16",
   "cards": [
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
+      "code": "w8",
+      "name": "8 of Wands",
       "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     },
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
-      "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "code": "s8",
+      "name": "8 of Swords, reversed",
+      "upright": false,
+      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
     }
   ]
 }
