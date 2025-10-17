@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-16",
+  "date": "2025-10-17",
   "cards": [
     {
-      "code": "w8",
-      "name": "8 of Wands",
+      "code": "p10",
+      "name": "10 of Pentacles",
       "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
-      "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
-    },
-    {
-      "code": "s8",
-      "name": "8 of Swords, reversed",
+      "code": "p3",
+      "name": "3 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
+      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+    },
+    {
+      "code": "w1",
+      "name": "Ace of Wands, reversed",
+      "upright": false,
+      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
     }
   ]
 }
