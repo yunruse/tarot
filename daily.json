@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-18",
+  "date": "2025-10-19",
   "cards": [
     {
-      "code": "c11",
-      "name": "Page of Cups",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups",
+      "code": "s6",
+      "name": "6 of Swords",
       "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
     },
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
-      "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+      "code": "s5",
+      "name": "5 of Swords, reversed",
+      "upright": false,
+      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
     }
   ]
 }
