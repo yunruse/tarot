@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-19",
+  "date": "2025-10-20",
   "cards": [
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords",
-      "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
-    },
-    {
-      "code": "s5",
-      "name": "5 of Swords, reversed",
+      "code": "c5",
+      "name": "5 of Cups, reversed",
       "upright": false,
-      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
+      "interpretation": "acceptance, moving on, finding peace, contentment, seeing positives"
+    },
+    {
+      "code": "p12",
+      "name": "Knight of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
     }
   ]
 }
