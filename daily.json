@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-20",
+  "date": "2025-10-21",
   "cards": [
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "c3",
+      "name": "3 of Cups",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
     },
     {
-      "code": "c5",
-      "name": "5 of Cups, reversed",
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
       "upright": false,
-      "interpretation": "acceptance, moving on, finding peace, contentment, seeing positives"
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
     },
     {
-      "code": "p12",
-      "name": "Knight of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
+      "code": "1",
+      "name": "\u2160 The Magician",
+      "upright": true,
+      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
     }
   ]
 }
