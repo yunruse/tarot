@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-22",
+  "date": "2025-10-23",
   "cards": [
     {
-      "code": "c14",
-      "name": "King of Cups",
+      "code": "s13",
+      "name": "Queen of Swords",
       "upright": true,
-      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     },
     {
-      "code": "p1",
-      "name": "Ace of Pentacles",
-      "upright": true,
-      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
-    },
-    {
-      "code": "0",
-      "name": "0 The Fool, reversed",
+      "code": "p13",
+      "name": "Queen of Pentacles, reversed",
       "upright": false,
-      "interpretation": "reckless, careless, distracted, naive, foolish, gullible, stale, dull"
+      "interpretation": "selfish, unkempt, jealous, insecure, greedy, materialistic, gold digger, intolerant, self-absorbed, envious"
+    },
+    {
+      "code": "c2",
+      "name": "2 of Cups",
+      "upright": true,
+      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
     }
   ]
 }
