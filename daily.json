@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-23",
+  "date": "2025-10-24",
   "cards": [
     {
-      "code": "s13",
-      "name": "Queen of Swords",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "p13",
-      "name": "Queen of Pentacles, reversed",
+      "code": "5",
+      "name": "\u2164 The Hierophant, reversed",
       "upright": false,
-      "interpretation": "selfish, unkempt, jealous, insecure, greedy, materialistic, gold digger, intolerant, self-absorbed, envious"
+      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
     },
     {
-      "code": "c2",
-      "name": "2 of Cups",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     }
   ]
 }
