@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-27",
+  "date": "2025-10-28",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
-      "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
-    },
-    {
-      "code": "p8",
-      "name": "8 of Pentacles, reversed",
+      "code": "w5",
+      "name": "5 of Wands, reversed",
       "upright": false,
-      "interpretation": "lack of quality, rushed job, bad reputation, lack of motivation, mediocrity, laziness, low skill, dead-end job"
+      "interpretation": "end of conflict, cooperation, agreements, truces, harmony, peace, avoiding conflict"
+    },
+    {
+      "code": "p14",
+      "name": "King of Pentacles",
+      "upright": true,
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     }
   ]
 }
