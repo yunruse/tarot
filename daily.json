@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "cards": [
     {
-      "code": "p1",
-      "name": "Ace of Pentacles",
+      "code": "c4",
+      "name": "4 of Cups",
       "upright": true,
-      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     },
     {
-      "code": "w5",
-      "name": "5 of Wands, reversed",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun, reversed",
       "upright": false,
-      "interpretation": "end of conflict, cooperation, agreements, truces, harmony, peace, avoiding conflict"
+      "interpretation": "blocked happiness, excessive enthusiasm, pessimism, unrealistic expectations, conceitedness"
     },
     {
-      "code": "p14",
-      "name": "King of Pentacles",
-      "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World, reversed",
+      "upright": false,
+      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
     }
   ]
 }
