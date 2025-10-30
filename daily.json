@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-29",
+  "date": "2025-10-30",
   "cards": [
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "s12",
+      "name": "Knight of Swords",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     },
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun, reversed",
-      "upright": false,
-      "interpretation": "blocked happiness, excessive enthusiasm, pessimism, unrealistic expectations, conceitedness"
+      "code": "p12",
+      "name": "Knight of Pentacles",
+      "upright": true,
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World, reversed",
+      "code": "w8",
+      "name": "8 of Wands, reversed",
       "upright": false,
-      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
+      "interpretation": "waiting, slowness, chaos, delays, losing momentum, hastiness, being unprepared"
     }
   ]
 }
