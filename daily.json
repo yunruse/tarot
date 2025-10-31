@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-30",
+  "date": "2025-10-31",
   "cards": [
     {
-      "code": "s12",
-      "name": "Knight of Swords",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     },
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
-      "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
-    },
-    {
-      "code": "w8",
-      "name": "8 of Wands, reversed",
+      "code": "p3",
+      "name": "3 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "waiting, slowness, chaos, delays, losing momentum, hastiness, being unprepared"
+      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+    },
+    {
+      "code": "c8",
+      "name": "8 of Cups",
+      "upright": true,
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     }
   ]
 }
