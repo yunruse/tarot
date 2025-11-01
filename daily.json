@@ -1,23 +1,23 @@
 {
-  "date": "2025-10-31",
+  "date": "2025-11-01",
   "cards": [
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "5",
+      "name": "\u2164 The Hierophant",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     },
     {
-      "code": "p3",
-      "name": "3 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+      "code": "w3",
+      "name": "3 of Wands",
+      "upright": true,
+      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     }
   ]
 }
