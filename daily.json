@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-02",
+  "date": "2025-11-03",
   "cards": [
     {
-      "code": "c12",
-      "name": "Knight of Cups",
+      "code": "p14",
+      "name": "King of Pentacles",
       "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
+      "code": "c11",
+      "name": "Page of Cups",
       "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     },
     {
-      "code": "p5",
-      "name": "5 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
+      "upright": true,
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     }
   ]
 }
