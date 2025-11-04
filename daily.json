@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-03",
+  "date": "2025-11-04",
   "cards": [
     {
-      "code": "p14",
-      "name": "King of Pentacles",
+      "code": "c4",
+      "name": "4 of Cups",
       "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups",
-      "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+      "code": "s10",
+      "name": "10 of Swords, reversed",
+      "upright": false,
+      "interpretation": "survival, improvement, healing, lessons learned, despair, relapse"
     },
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
-      "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "code": "s14",
+      "name": "King of Swords, reversed",
+      "upright": false,
+      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
     }
   ]
 }
