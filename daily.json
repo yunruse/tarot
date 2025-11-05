@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-04",
+  "date": "2025-11-05",
   "cards": [
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "w7",
+      "name": "7 of Wands",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
     },
     {
-      "code": "s10",
-      "name": "10 of Swords, reversed",
-      "upright": false,
-      "interpretation": "survival, improvement, healing, lessons learned, despair, relapse"
+      "code": "p10",
+      "name": "10 of Pentacles",
+      "upright": true,
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
-      "code": "s14",
-      "name": "King of Swords, reversed",
+      "code": "s3",
+      "name": "3 of Swords, reversed",
       "upright": false,
-      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
+      "interpretation": "healing, forgiveness, recovery, reconciliation, repressing emotions"
     }
   ]
 }
