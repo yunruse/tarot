@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-06",
+  "date": "2025-11-07",
   "cards": [
     {
-      "code": "w8",
-      "name": "8 of Wands",
+      "code": "17",
+      "name": "\u2169\u2166 The Star",
       "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
     },
     {
-      "code": "c13",
-      "name": "Queen of Cups, reversed",
-      "upright": false,
-      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
+      "code": "s4",
+      "name": "4 of Swords",
+      "upright": true,
+      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
     },
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     }
   ]
 }
