@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-07",
+  "date": "2025-11-08",
   "cards": [
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil",
       "upright": true,
-      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
+      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords",
+      "code": "2",
+      "name": "\u2161 The High Priestess",
       "upright": true,
-      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength",
-      "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "code": "18",
+      "name": "\u2169\u2167 The Moon, reversed",
+      "upright": false,
+      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
     }
   ]
 }
