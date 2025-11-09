@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-08",
+  "date": "2025-11-09",
   "cards": [
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "s4",
+      "name": "4 of Swords",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon, reversed",
-      "upright": false,
-      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
+      "code": "s5",
+      "name": "5 of Swords",
+      "upright": true,
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
     }
   ]
 }
