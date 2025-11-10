@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-09",
+  "date": "2025-11-10",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
+      "code": "c8",
+      "name": "8 of Cups",
       "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     },
     {
-      "code": "s5",
-      "name": "5 of Swords",
-      "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "code": "c9",
+      "name": "9 of Cups, reversed",
+      "upright": false,
+      "interpretation": "unhappiness, lack of fulfilment, disappointment, underachievement, arrogance, snobbery"
     }
   ]
 }
