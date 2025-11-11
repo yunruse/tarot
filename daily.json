@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-10",
+  "date": "2025-11-11",
   "cards": [
     {
-      "code": "c8",
-      "name": "8 of Cups",
+      "code": "s1",
+      "name": "Ace of Swords",
       "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     },
     {
-      "code": "0",
-      "name": "0 The Fool",
-      "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
-    },
-    {
-      "code": "c9",
-      "name": "9 of Cups, reversed",
+      "code": "s12",
+      "name": "Knight of Swords, reversed",
       "upright": false,
-      "interpretation": "unhappiness, lack of fulfilment, disappointment, underachievement, arrogance, snobbery"
+      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
+    },
+    {
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
+      "upright": false,
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
     }
   ]
 }
