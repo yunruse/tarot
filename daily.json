@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-11",
+  "date": "2025-11-12",
   "cards": [
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "13",
+      "name": "\u2169\u2162 Death",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords, reversed",
-      "upright": false,
-      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
+      "code": "w10",
+      "name": "10 of Wands",
+      "upright": true,
+      "interpretation": "burden, responsibility, duty, stress, obligation, burning out, struggles"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
-      "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+      "code": "8",
+      "name": "\u2167 Strength",
+      "upright": true,
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     }
   ]
 }
