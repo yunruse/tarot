@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-12",
+  "date": "2025-11-13",
   "cards": [
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "w10",
-      "name": "10 of Wands",
-      "upright": true,
-      "interpretation": "burden, responsibility, duty, stress, obligation, burning out, struggles"
+      "code": "s2",
+      "name": "2 of Swords, reversed",
+      "upright": false,
+      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength",
-      "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune, reversed",
+      "upright": false,
+      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
     }
   ]
 }
