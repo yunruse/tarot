@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "cards": [
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
       "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     },
     {
-      "code": "s2",
-      "name": "2 of Swords, reversed",
+      "code": "p14",
+      "name": "King of Pentacles, reversed",
       "upright": false,
-      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
+      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
     },
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune, reversed",
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
     }
   ]
 }
