@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-14",
+  "date": "2025-11-15",
   "cards": [
     {
       "code": "21",
@@ -9,15 +9,15 @@
     },
     {
       "code": "p14",
-      "name": "King of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
+      "name": "King of Pentacles",
+      "upright": true,
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+      "code": "s4",
+      "name": "4 of Swords",
+      "upright": true,
+      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
     }
   ]
 }
