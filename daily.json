@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-17",
+  "date": "2025-11-18",
   "cards": [
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
+      "code": "p3",
+      "name": "3 of Pentacles",
       "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords, reversed",
-      "upright": false,
-      "interpretation": "stuck in past, returning to trouble, running away from problems, trapped"
+      "code": "2",
+      "name": "\u2161 The High Priestess",
+      "upright": true,
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement, reversed",
+      "code": "p4",
+      "name": "4 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "self-doubt, lack of self-awareness, failure to learn lessons, self-loathing"
+      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
     }
   ]
 }
