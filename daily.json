@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-19",
+  "date": "2025-11-20",
   "cards": [
     {
-      "code": "s7",
-      "name": "7 of Swords",
+      "code": "4",
+      "name": "\u2163 The Emperor",
       "upright": true,
-      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
+      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+    },
+    {
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World, reversed",
+      "upright": false,
+      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
     },
     {
       "code": "p2",
       "name": "2 of Pentacles",
       "upright": true,
       "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
-    },
-    {
-      "code": "s12",
-      "name": "Knight of Swords",
-      "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     }
   ]
 }
