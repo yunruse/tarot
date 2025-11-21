@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-20",
+  "date": "2025-11-21",
   "cards": [
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "w9",
+      "name": "9 of Wands",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World, reversed",
+      "code": "c13",
+      "name": "Queen of Cups, reversed",
       "upright": false,
-      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
+      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
+      "code": "c8",
+      "name": "8 of Cups",
       "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     }
   ]
 }
