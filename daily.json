@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-22",
+  "date": "2025-11-23",
   "cards": [
     {
-      "code": "c9",
-      "name": "9 of Cups",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
       "upright": true,
-      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     },
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death, reversed",
+      "code": "w6",
+      "name": "6 of Wands, reversed",
       "upright": false,
-      "interpretation": "fear of change, repeating negative patterns, resisting change, stagnancy, decay"
+      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
     },
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
-      "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+      "code": "w3",
+      "name": "3 of Wands, reversed",
+      "upright": false,
+      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
     }
   ]
 }
