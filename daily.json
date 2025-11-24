@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-23",
+  "date": "2025-11-24",
   "cards": [
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
+      "code": "c13",
+      "name": "Queen of Cups",
       "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "w6",
-      "name": "6 of Wands, reversed",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World, reversed",
       "upright": false,
-      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
+      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
     },
     {
-      "code": "w3",
-      "name": "3 of Wands, reversed",
-      "upright": false,
-      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
+      "code": "p3",
+      "name": "3 of Pentacles",
+      "upright": true,
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     }
   ]
 }
