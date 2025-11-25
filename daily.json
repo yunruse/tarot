@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-24",
+  "date": "2025-11-25",
   "cards": [
     {
-      "code": "c13",
-      "name": "Queen of Cups",
+      "code": "c10",
+      "name": "10 of Cups",
       "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World, reversed",
+      "code": "s13",
+      "name": "Queen of Swords",
+      "upright": true,
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+    },
+    {
+      "code": "p2",
+      "name": "2 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
-    },
-    {
-      "code": "p3",
-      "name": "3 of Pentacles",
-      "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
     }
   ]
 }
