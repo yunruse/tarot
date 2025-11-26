@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-25",
+  "date": "2025-11-26",
   "cards": [
     {
-      "code": "c10",
-      "name": "10 of Cups",
+      "code": "w7",
+      "name": "7 of Wands",
       "upright": true,
-      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords",
+      "code": "w8",
+      "name": "8 of Wands",
       "upright": true,
-      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
+      "code": "c12",
+      "name": "Knight of Cups",
+      "upright": true,
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     }
   ]
 }
