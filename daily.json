@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-26",
+  "date": "2025-11-27",
   "cards": [
     {
-      "code": "w7",
-      "name": "7 of Wands",
+      "code": "p10",
+      "name": "10 of Pentacles",
       "upright": true,
-      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
-      "code": "w8",
-      "name": "8 of Wands",
+      "code": "s1",
+      "name": "Ace of Swords",
       "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     },
     {
-      "code": "c12",
-      "name": "Knight of Cups",
-      "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
+      "code": "p12",
+      "name": "Knight of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
     }
   ]
 }
