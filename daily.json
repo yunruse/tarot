@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-27",
+  "date": "2025-11-28",
   "cards": [
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
+      "code": "c11",
+      "name": "Page of Cups",
       "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords",
-      "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
-    },
-    {
-      "code": "p12",
-      "name": "Knight of Pentacles, reversed",
+      "code": "p3",
+      "name": "3 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
+      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+    },
+    {
+      "code": "7",
+      "name": "\u2166 The Chariot",
+      "upright": true,
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     }
   ]
 }
