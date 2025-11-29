@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-28",
+  "date": "2025-11-29",
   "cards": [
     {
-      "code": "c11",
-      "name": "Page of Cups",
-      "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
-    },
-    {
       "code": "p3",
-      "name": "3 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+      "name": "3 of Pentacles",
+      "upright": true,
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     },
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
-      "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "code": "p6",
+      "name": "6 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "power dynamics, abuse of generosity, strings attached gifts, inequality, extortion"
+    },
+    {
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World, reversed",
+      "upright": false,
+      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
     }
   ]
 }
