@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-29",
+  "date": "2025-11-30",
   "cards": [
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
+      "code": "s2",
+      "name": "2 of Swords",
       "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
     },
     {
-      "code": "p6",
-      "name": "6 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "power dynamics, abuse of generosity, strings attached gifts, inequality, extortion"
+      "code": "c1",
+      "name": "Ace of Cups",
+      "upright": true,
+      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World, reversed",
-      "upright": false,
-      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
+      "code": "c14",
+      "name": "King of Cups",
+      "upright": true,
+      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
     }
   ]
 }
