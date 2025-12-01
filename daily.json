@@ -1,23 +1,23 @@
 {
-  "date": "2025-11-30",
+  "date": "2025-12-01",
   "cards": [
     {
-      "code": "s2",
-      "name": "2 of Swords",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "c1",
-      "name": "Ace of Cups",
-      "upright": true,
-      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
+      "code": "c8",
+      "name": "8 of Cups, reversed",
+      "upright": false,
+      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
     },
     {
-      "code": "c14",
-      "name": "King of Cups",
+      "code": "p11",
+      "name": "Page of Pentacles",
       "upright": true,
-      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
+      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
     }
   ]
 }
