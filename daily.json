@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-01",
+  "date": "2025-12-02",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "9",
+      "name": "\u2168 The Hermit",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups, reversed",
+      "code": "p1",
+      "name": "Ace of Pentacles, reversed",
       "upright": false,
-      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
+      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
     },
     {
-      "code": "p11",
-      "name": "Page of Pentacles",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     }
   ]
 }
