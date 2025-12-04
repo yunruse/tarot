@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-03",
+  "date": "2025-12-04",
   "cards": [
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "p14",
+      "name": "King of Pentacles",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant, reversed",
-      "upright": false,
-      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
+      "upright": true,
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     },
     {
-      "code": "s10",
-      "name": "10 of Swords, reversed",
+      "code": "9",
+      "name": "\u2168 The Hermit, reversed",
       "upright": false,
-      "interpretation": "survival, improvement, healing, lessons learned, despair, relapse"
+      "interpretation": "loneliness, isolation, recluse, being anti-social, rejection, returning to society"
     }
   ]
 }
