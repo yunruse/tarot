@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-04",
+  "date": "2025-12-05",
   "cards": [
     {
-      "code": "p14",
-      "name": "King of Pentacles",
+      "code": "c14",
+      "name": "King of Cups",
       "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
-      "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
-    },
-    {
-      "code": "9",
-      "name": "\u2168 The Hermit, reversed",
+      "code": "p11",
+      "name": "Page of Pentacles, reversed",
       "upright": false,
-      "interpretation": "loneliness, isolation, recluse, being anti-social, rejection, returning to society"
+      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
+    },
+    {
+      "code": "4",
+      "name": "\u2163 The Emperor",
+      "upright": true,
+      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
     }
   ]
 }
