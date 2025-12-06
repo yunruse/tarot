@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-05",
+  "date": "2025-12-06",
   "cards": [
     {
-      "code": "c14",
-      "name": "King of Cups",
+      "code": "p14",
+      "name": "King of Pentacles",
       "upright": true,
-      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     },
     {
-      "code": "p11",
-      "name": "Page of Pentacles, reversed",
+      "code": "c7",
+      "name": "7 of Cups, reversed",
       "upright": false,
-      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
+      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
     },
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     }
   ]
 }
