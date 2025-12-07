@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-06",
+  "date": "2025-12-07",
   "cards": [
     {
-      "code": "p14",
-      "name": "King of Pentacles",
+      "code": "w9",
+      "name": "9 of Wands",
       "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups, reversed",
-      "upright": false,
-      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
+      "code": "w12",
+      "name": "Knight of Wands",
+      "upright": true,
+      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
     },
     {
-      "code": "w13",
-      "name": "Queen of Wands",
+      "code": "p10",
+      "name": "10 of Pentacles",
       "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     }
   ]
 }
