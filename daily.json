@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-08",
+  "date": "2025-12-09",
   "cards": [
     {
-      "code": "s7",
-      "name": "7 of Swords",
-      "upright": true,
-      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
-    },
-    {
-      "code": "p13",
-      "name": "Queen of Pentacles",
-      "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
-    },
-    {
       "code": "c3",
-      "name": "3 of Cups, reversed",
+      "name": "3 of Cups",
+      "upright": true,
+      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+    },
+    {
+      "code": "s6",
+      "name": "6 of Swords, reversed",
       "upright": false,
-      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
+      "interpretation": "stuck in past, returning to trouble, running away from problems, trapped"
+    },
+    {
+      "code": "w10",
+      "name": "10 of Wands, reversed",
+      "upright": false,
+      "interpretation": "failure to delegate, shouldering too much responsibility, collapse, breakdown"
     }
   ]
 }
