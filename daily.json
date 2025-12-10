@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-09",
+  "date": "2025-12-10",
   "cards": [
     {
-      "code": "c3",
-      "name": "3 of Cups",
+      "code": "17",
+      "name": "\u2169\u2166 The Star",
       "upright": true,
-      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords, reversed",
-      "upright": false,
-      "interpretation": "stuck in past, returning to trouble, running away from problems, trapped"
+      "code": "2",
+      "name": "\u2161 The High Priestess",
+      "upright": true,
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "w10",
-      "name": "10 of Wands, reversed",
+      "code": "p10",
+      "name": "10 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "failure to delegate, shouldering too much responsibility, collapse, breakdown"
+      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
     }
   ]
 }
