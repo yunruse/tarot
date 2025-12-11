@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-10",
+  "date": "2025-12-11",
   "cards": [
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star",
+      "code": "5",
+      "name": "\u2164 The Hierophant",
       "upright": true,
-      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     },
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
-      "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
-    },
-    {
-      "code": "p10",
-      "name": "10 of Pentacles, reversed",
+      "code": "s14",
+      "name": "King of Swords, reversed",
       "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
+    },
+    {
+      "code": "w14",
+      "name": "King of Wands",
+      "upright": true,
+      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
     }
   ]
 }
