@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-11",
+  "date": "2025-12-12",
   "cards": [
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "s14",
-      "name": "King of Swords, reversed",
+      "code": "4",
+      "name": "\u2163 The Emperor",
+      "upright": true,
+      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+    },
+    {
+      "code": "w13",
+      "name": "Queen of Wands, reversed",
       "upright": false,
-      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
-    },
-    {
-      "code": "w14",
-      "name": "King of Wands",
-      "upright": true,
-      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
+      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
     }
   ]
 }
