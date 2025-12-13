@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-12",
+  "date": "2025-12-13",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
-      "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
-    },
-    {
-      "code": "4",
-      "name": "\u2163 The Emperor",
-      "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
-    },
-    {
       "code": "w13",
-      "name": "Queen of Wands, reversed",
-      "upright": false,
-      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
+      "name": "Queen of Wands",
+      "upright": true,
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+    },
+    {
+      "code": "2",
+      "name": "\u2161 The High Priestess",
+      "upright": true,
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+    },
+    {
+      "code": "17",
+      "name": "\u2169\u2166 The Star",
+      "upright": true,
+      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
     }
   ]
 }
