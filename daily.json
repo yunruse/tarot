@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-14",
+  "date": "2025-12-15",
   "cards": [
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "7",
+      "name": "\u2166 The Chariot",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     },
     {
-      "code": "w11",
-      "name": "Page of Wands",
-      "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "code": "19",
+      "name": "\u2169\u2168 The Sun, reversed",
+      "upright": false,
+      "interpretation": "blocked happiness, excessive enthusiasm, pessimism, unrealistic expectations, conceitedness"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords",
-      "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
+      "code": "s1",
+      "name": "Ace of Swords, reversed",
+      "upright": false,
+      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
     }
   ]
 }
