@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-16",
+  "date": "2025-12-17",
   "cards": [
     {
-      "code": "w12",
-      "name": "Knight of Wands",
+      "code": "c6",
+      "name": "6 of Cups",
       "upright": true,
-      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
-      "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+      "code": "c11",
+      "name": "Page of Cups, reversed",
+      "upright": false,
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
     },
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
-      "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+      "code": "s2",
+      "name": "2 of Swords, reversed",
+      "upright": false,
+      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
     }
   ]
 }
