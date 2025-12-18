@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-17",
+  "date": "2025-12-18",
   "cards": [
     {
-      "code": "c6",
-      "name": "6 of Cups",
+      "code": "c13",
+      "name": "Queen of Cups",
       "upright": true,
-      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups, reversed",
+      "code": "w2",
+      "name": "2 of Wands, reversed",
       "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
     },
     {
-      "code": "s2",
-      "name": "2 of Swords, reversed",
-      "upright": false,
-      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
+      "code": "c3",
+      "name": "3 of Cups",
+      "upright": true,
+      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
     }
   ]
 }
