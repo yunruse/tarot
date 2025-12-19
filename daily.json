@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-18",
+  "date": "2025-12-19",
   "cards": [
     {
-      "code": "c13",
-      "name": "Queen of Cups",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower",
       "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
     },
     {
-      "code": "w2",
-      "name": "2 of Wands, reversed",
+      "code": "s4",
+      "name": "4 of Swords",
+      "upright": true,
+      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+    },
+    {
+      "code": "s10",
+      "name": "10 of Swords, reversed",
       "upright": false,
-      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
-    },
-    {
-      "code": "c3",
-      "name": "3 of Cups",
-      "upright": true,
-      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+      "interpretation": "survival, improvement, healing, lessons learned, despair, relapse"
     }
   ]
 }
