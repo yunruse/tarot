@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-20",
+  "date": "2025-12-21",
   "cards": [
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     },
     {
-      "code": "s7",
-      "name": "7 of Swords, reversed",
-      "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
+      "code": "p4",
+      "name": "4 of Pentacles",
+      "upright": true,
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands",
+      "code": "7",
+      "name": "\u2166 The Chariot",
       "upright": true,
-      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     }
   ]
 }
