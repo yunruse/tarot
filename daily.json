@@ -1,17 +1,17 @@
 {
-  "date": "2025-12-21",
+  "date": "2025-12-22",
   "cards": [
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "w6",
+      "name": "6 of Wands",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
     },
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
+      "code": "s5",
+      "name": "5 of Swords",
       "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
     },
     {
       "code": "7",
