@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-22",
+  "date": "2025-12-23",
   "cards": [
     {
       "code": "w6",
@@ -8,16 +8,16 @@
       "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
     },
     {
-      "code": "s5",
-      "name": "5 of Swords",
-      "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man, reversed",
+      "upright": false,
+      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
     },
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
-      "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "code": "s4",
+      "name": "4 of Swords, reversed",
+      "upright": false,
+      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
     }
   ]
 }
