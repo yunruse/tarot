@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-23",
+  "date": "2025-12-24",
   "cards": [
     {
-      "code": "w6",
-      "name": "6 of Wands",
+      "code": "p10",
+      "name": "10 of Pentacles",
       "upright": true,
-      "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man, reversed",
+      "code": "5",
+      "name": "\u2164 The Hierophant, reversed",
       "upright": false,
-      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
+      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords, reversed",
-      "upright": false,
-      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
+      "code": "3",
+      "name": "\u2162 The Empress",
+      "upright": true,
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     }
   ]
 }
