@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-24",
+  "date": "2025-12-25",
   "cards": [
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
+      "code": "w2",
+      "name": "2 of Wands",
       "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "interpretation": "planning, first steps, making decisions, leaving comfort, taking risks"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant, reversed",
+      "code": "s5",
+      "name": "5 of Swords, reversed",
       "upright": false,
-      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
     },
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "s1",
+      "name": "Ace of Swords",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     }
   ]
 }
