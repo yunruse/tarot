@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-27",
+  "date": "2025-12-28",
   "cards": [
     {
-      "code": "c12",
-      "name": "Knight of Cups",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "p6",
+      "name": "6 of Pentacles",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
     },
     {
-      "code": "s5",
-      "name": "5 of Swords",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     }
   ]
 }
