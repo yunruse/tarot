@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-28",
+  "date": "2025-12-29",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "p9",
+      "name": "9 of Pentacles",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
     },
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
       "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     },
     {
-      "code": "p1",
-      "name": "Ace of Pentacles",
-      "upright": true,
-      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+      "code": "w3",
+      "name": "3 of Wands, reversed",
+      "upright": false,
+      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
     }
   ]
 }
