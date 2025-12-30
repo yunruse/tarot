@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-29",
+  "date": "2025-12-30",
   "cards": [
     {
-      "code": "p9",
-      "name": "9 of Pentacles",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement",
-      "upright": true,
-      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
-    },
-    {
-      "code": "w3",
-      "name": "3 of Wands, reversed",
+      "code": "w11",
+      "name": "Page of Wands, reversed",
       "upright": false,
-      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
+      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
+    },
+    {
+      "code": "p8",
+      "name": "8 of Pentacles",
+      "upright": true,
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     }
   ]
 }
