@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-30",
+  "date": "2025-12-31",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
+      "code": "c6",
+      "name": "6 of Cups",
       "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     },
     {
-      "code": "w11",
-      "name": "Page of Wands, reversed",
+      "code": "6",
+      "name": "\u2165 The Lovers",
+      "upright": true,
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+    },
+    {
+      "code": "s12",
+      "name": "Knight of Swords, reversed",
       "upright": false,
-      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
-    },
-    {
-      "code": "p8",
-      "name": "8 of Pentacles",
-      "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
+      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
     }
   ]
 }
