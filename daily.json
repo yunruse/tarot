@@ -1,23 +1,23 @@
 {
-  "date": "2025-12-31",
+  "date": "2026-01-01",
   "cards": [
     {
-      "code": "c6",
-      "name": "6 of Cups",
+      "code": "p7",
+      "name": "7 of Pentacles",
       "upright": true,
-      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
+      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
-      "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
-    },
-    {
-      "code": "s12",
-      "name": "Knight of Swords, reversed",
+      "code": "p3",
+      "name": "3 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
+      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+    },
+    {
+      "code": "w4",
+      "name": "4 of Wands, reversed",
+      "upright": false,
+      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
     }
   ]
 }
