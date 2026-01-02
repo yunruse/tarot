@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-01",
+  "date": "2026-01-02",
   "cards": [
     {
-      "code": "p7",
-      "name": "7 of Pentacles",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "p3",
-      "name": "3 of Pentacles, reversed",
+      "code": "c3",
+      "name": "3 of Cups, reversed",
       "upright": false,
-      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands, reversed",
+      "code": "p1",
+      "name": "Ace of Pentacles, reversed",
       "upright": false,
-      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
+      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
     }
   ]
 }
