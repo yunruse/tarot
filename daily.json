@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-02",
+  "date": "2026-01-03",
   "cards": [
     {
-      "code": "w13",
-      "name": "Queen of Wands",
+      "code": "18",
+      "name": "\u2169\u2167 The Moon",
       "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
     },
     {
-      "code": "c3",
-      "name": "3 of Cups, reversed",
-      "upright": false,
-      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
+      "upright": true,
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "p1",
-      "name": "Ace of Pentacles, reversed",
+      "code": "c9",
+      "name": "9 of Cups, reversed",
       "upright": false,
-      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
+      "interpretation": "unhappiness, lack of fulfilment, disappointment, underachievement, arrogance, snobbery"
     }
   ]
 }
