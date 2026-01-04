@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-03",
+  "date": "2026-01-04",
   "cards": [
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon",
+      "code": "4",
+      "name": "\u2163 The Emperor",
       "upright": true,
-      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
+      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
     },
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
+      "code": "s11",
+      "name": "Page of Swords",
       "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
     },
     {
-      "code": "c9",
-      "name": "9 of Cups, reversed",
+      "code": "1",
+      "name": "\u2160 The Magician, reversed",
       "upright": false,
-      "interpretation": "unhappiness, lack of fulfilment, disappointment, underachievement, arrogance, snobbery"
+      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
     }
   ]
 }
