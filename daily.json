@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-04",
+  "date": "2026-01-05",
   "cards": [
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "s11",
-      "name": "Page of Swords",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     },
     {
-      "code": "1",
-      "name": "\u2160 The Magician, reversed",
-      "upright": false,
-      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
+      "upright": true,
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     }
   ]
 }
