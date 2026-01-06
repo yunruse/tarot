@@ -1,6 +1,12 @@
 {
-  "date": "2026-01-05",
+  "date": "2026-01-06",
   "cards": [
+    {
+      "code": "5",
+      "name": "\u2164 The Hierophant",
+      "upright": true,
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+    },
     {
       "code": "6",
       "name": "\u2165 The Lovers",
@@ -8,16 +14,10 @@
       "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
-      "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
-    },
-    {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
-      "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "code": "c10",
+      "name": "10 of Cups, reversed",
+      "upright": false,
+      "interpretation": "unhappy home, separation, domestic conflict, disharmony, isolation"
     }
   ]
 }
