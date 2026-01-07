@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-06",
+  "date": "2026-01-07",
   "cards": [
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
-      "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
-    },
-    {
-      "code": "c10",
-      "name": "10 of Cups, reversed",
+      "code": "s4",
+      "name": "4 of Swords, reversed",
       "upright": false,
-      "interpretation": "unhappy home, separation, domestic conflict, disharmony, isolation"
+      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
+    },
+    {
+      "code": "w6",
+      "name": "6 of Wands, reversed",
+      "upright": false,
+      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
     }
   ]
 }
