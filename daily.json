@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-07",
+  "date": "2026-01-08",
   "cards": [
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords, reversed",
-      "upright": false,
-      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
+      "code": "s2",
+      "name": "2 of Swords",
+      "upright": true,
+      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
     },
     {
-      "code": "w6",
-      "name": "6 of Wands, reversed",
+      "code": "6",
+      "name": "\u2165 The Lovers, reversed",
       "upright": false,
-      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
+      "interpretation": "disharmony, imbalance, conflict, detachment, bad choices, indecision"
     }
   ]
 }
