@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-09",
+  "date": "2026-01-10",
   "cards": [
     {
-      "code": "s9",
-      "name": "9 of Swords",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     },
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
-      "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
-    },
-    {
-      "code": "c5",
-      "name": "5 of Cups, reversed",
+      "code": "p5",
+      "name": "5 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "acceptance, moving on, finding peace, contentment, seeing positives"
+      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
+    },
+    {
+      "code": "p3",
+      "name": "3 of Pentacles",
+      "upright": true,
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     }
   ]
 }
