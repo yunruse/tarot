@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-10",
+  "date": "2026-01-11",
   "cards": [
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "p13",
+      "name": "Queen of Pentacles",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     },
     {
-      "code": "p5",
-      "name": "5 of Pentacles, reversed",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
+      "upright": true,
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+    },
+    {
+      "code": "c4",
+      "name": "4 of Cups, reversed",
       "upright": false,
-      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
-    },
-    {
-      "code": "p3",
-      "name": "3 of Pentacles",
-      "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
     }
   ]
 }
