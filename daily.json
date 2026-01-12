@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-11",
+  "date": "2026-01-12",
   "cards": [
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
+      "code": "c7",
+      "name": "7 of Cups",
       "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     },
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
-      "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
-    },
-    {
-      "code": "c4",
-      "name": "4 of Cups, reversed",
+      "code": "c2",
+      "name": "2 of Cups, reversed",
       "upright": false,
-      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+      "interpretation": "separation, rejection, division, imbalance, tension, bad communication, withdrawal"
+    },
+    {
+      "code": "w2",
+      "name": "2 of Wands, reversed",
+      "upright": false,
+      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
     }
   ]
 }
