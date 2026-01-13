@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-12",
+  "date": "2026-01-13",
   "cards": [
     {
-      "code": "c7",
-      "name": "7 of Cups",
+      "code": "2",
+      "name": "\u2161 The High Priestess",
       "upright": true,
-      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "c2",
-      "name": "2 of Cups, reversed",
-      "upright": false,
-      "interpretation": "separation, rejection, division, imbalance, tension, bad communication, withdrawal"
+      "code": "w7",
+      "name": "7 of Wands",
+      "upright": true,
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
     },
     {
-      "code": "w2",
-      "name": "2 of Wands, reversed",
+      "code": "c1",
+      "name": "Ace of Cups, reversed",
       "upright": false,
-      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
+      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
     }
   ]
 }
