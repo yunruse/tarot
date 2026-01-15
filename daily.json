@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-14",
+  "date": "2026-01-15",
   "cards": [
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "p12",
+      "name": "Knight of Pentacles",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     },
     {
-      "code": "s11",
-      "name": "Page of Swords, reversed",
+      "code": "p13",
+      "name": "Queen of Pentacles, reversed",
       "upright": false,
-      "interpretation": "scatterbrained, cynical, sarcastic, gossipy, insulting, rude, lack of planning"
+      "interpretation": "selfish, unkempt, jealous, insecure, greedy, materialistic, gold digger, intolerant, self-absorbed, envious"
     },
     {
-      "code": "s7",
-      "name": "7 of Swords, reversed",
-      "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
+      "code": "s3",
+      "name": "3 of Swords",
+      "upright": true,
+      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
     }
   ]
 }
