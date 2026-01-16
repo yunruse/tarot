@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-15",
+  "date": "2026-01-16",
   "cards": [
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
+      "code": "s9",
+      "name": "9 of Swords",
       "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
+      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
     },
     {
-      "code": "p13",
-      "name": "Queen of Pentacles, reversed",
+      "code": "w3",
+      "name": "3 of Wands, reversed",
       "upright": false,
-      "interpretation": "selfish, unkempt, jealous, insecure, greedy, materialistic, gold digger, intolerant, self-absorbed, envious"
+      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
     },
     {
-      "code": "s3",
-      "name": "3 of Swords",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     }
   ]
 }
