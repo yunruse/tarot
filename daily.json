@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-17",
+  "date": "2026-01-18",
   "cards": [
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
+      "code": "2",
+      "name": "\u2161 The High Priestess",
       "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers, reversed",
+      "code": "8",
+      "name": "\u2167 Strength",
+      "upright": true,
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+    },
+    {
+      "code": "p4",
+      "name": "4 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "disharmony, imbalance, conflict, detachment, bad choices, indecision"
-    },
-    {
-      "code": "s12",
-      "name": "Knight of Swords",
-      "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
     }
   ]
 }
