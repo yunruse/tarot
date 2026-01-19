@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-18",
+  "date": "2026-01-19",
   "cards": [
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "c8",
+      "name": "8 of Cups",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "p4",
-      "name": "4 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
+      "code": "6",
+      "name": "\u2165 The Lovers",
+      "upright": true,
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     }
   ]
 }
