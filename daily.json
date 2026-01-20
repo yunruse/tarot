@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-19",
+  "date": "2026-01-20",
   "cards": [
     {
-      "code": "c8",
-      "name": "8 of Cups",
+      "code": "w11",
+      "name": "Page of Wands",
       "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
     },
     {
-      "code": "w13",
-      "name": "Queen of Wands",
+      "code": "s2",
+      "name": "2 of Swords",
       "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
-      "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "code": "s7",
+      "name": "7 of Swords, reversed",
+      "upright": false,
+      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
     }
   ]
 }
