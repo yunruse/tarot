@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-20",
+  "date": "2026-01-21",
   "cards": [
     {
-      "code": "w11",
-      "name": "Page of Wands",
+      "code": "p9",
+      "name": "9 of Pentacles",
       "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
     },
     {
-      "code": "s2",
-      "name": "2 of Swords",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil",
       "upright": true,
-      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
+      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
     },
     {
-      "code": "s7",
-      "name": "7 of Swords, reversed",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun, reversed",
       "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
+      "interpretation": "blocked happiness, excessive enthusiasm, pessimism, unrealistic expectations, conceitedness"
     }
   ]
 }
