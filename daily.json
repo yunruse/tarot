@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-21",
+  "date": "2026-01-22",
   "cards": [
     {
+      "code": "w3",
+      "name": "3 of Wands",
+      "upright": true,
+      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
+    },
+    {
       "code": "p9",
-      "name": "9 of Pentacles",
-      "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
-    },
-    {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil",
-      "upright": true,
-      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
-    },
-    {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun, reversed",
+      "name": "9 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "blocked happiness, excessive enthusiasm, pessimism, unrealistic expectations, conceitedness"
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+    },
+    {
+      "code": "s5",
+      "name": "5 of Swords, reversed",
+      "upright": false,
+      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
     }
   ]
 }
