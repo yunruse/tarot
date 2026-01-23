@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-22",
+  "date": "2026-01-23",
   "cards": [
     {
-      "code": "w3",
-      "name": "3 of Wands",
+      "code": "c12",
+      "name": "Knight of Cups",
       "upright": true,
-      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles, reversed",
+      "code": "w11",
+      "name": "Page of Wands, reversed",
       "upright": false,
-      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
     },
     {
-      "code": "s5",
-      "name": "5 of Swords, reversed",
-      "upright": false,
-      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
+      "code": "13",
+      "name": "\u2169\u2162 Death",
+      "upright": true,
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     }
   ]
 }
