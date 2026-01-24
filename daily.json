@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-23",
+  "date": "2026-01-24",
   "cards": [
     {
-      "code": "c12",
-      "name": "Knight of Cups",
+      "code": "1",
+      "name": "\u2160 The Magician",
       "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
+      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
     },
     {
-      "code": "w11",
-      "name": "Page of Wands, reversed",
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
       "upright": false,
-      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
     },
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     }
   ]
 }
