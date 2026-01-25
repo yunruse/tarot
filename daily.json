@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-24",
+  "date": "2026-01-25",
   "cards": [
     {
-      "code": "1",
-      "name": "\u2160 The Magician",
+      "code": "s14",
+      "name": "King of Swords",
       "upright": true,
-      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
+      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
+      "code": "6",
+      "name": "\u2165 The Lovers, reversed",
       "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+      "interpretation": "disharmony, imbalance, conflict, detachment, bad choices, indecision"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
+      "code": "c14",
+      "name": "King of Cups",
       "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
+      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
     }
   ]
 }
