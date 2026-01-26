@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-25",
+  "date": "2026-01-26",
   "cards": [
     {
-      "code": "s14",
-      "name": "King of Swords",
+      "code": "w6",
+      "name": "6 of Wands",
       "upright": true,
-      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
+      "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers, reversed",
+      "code": "p10",
+      "name": "10 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "disharmony, imbalance, conflict, detachment, bad choices, indecision"
+      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
     },
     {
-      "code": "c14",
-      "name": "King of Cups",
+      "code": "5",
+      "name": "\u2164 The Hierophant",
       "upright": true,
-      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     }
   ]
 }
