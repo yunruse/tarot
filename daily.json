@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-26",
+  "date": "2026-01-27",
   "cards": [
     {
-      "code": "w6",
-      "name": "6 of Wands",
-      "upright": true,
-      "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
-    },
-    {
       "code": "p10",
-      "name": "10 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+      "name": "10 of Pentacles",
+      "upright": true,
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "w1",
+      "name": "Ace of Wands",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
+    },
+    {
+      "code": "c11",
+      "name": "Page of Cups",
+      "upright": true,
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     }
   ]
 }
