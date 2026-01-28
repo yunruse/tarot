@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-27",
+  "date": "2026-01-28",
   "cards": [
-    {
-      "code": "p10",
-      "name": "10 of Pentacles",
-      "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
-    },
-    {
-      "code": "w1",
-      "name": "Ace of Wands",
-      "upright": true,
-      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
-    },
     {
       "code": "c11",
       "name": "Page of Cups",
       "upright": true,
       "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+    },
+    {
+      "code": "s3",
+      "name": "3 of Swords, reversed",
+      "upright": false,
+      "interpretation": "healing, forgiveness, recovery, reconciliation, repressing emotions"
+    },
+    {
+      "code": "w9",
+      "name": "9 of Wands, reversed",
+      "upright": false,
+      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
     }
   ]
 }
