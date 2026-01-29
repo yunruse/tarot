@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-28",
+  "date": "2026-01-29",
   "cards": [
     {
-      "code": "c11",
-      "name": "Page of Cups",
+      "code": "p9",
+      "name": "9 of Pentacles",
       "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
     },
     {
-      "code": "s3",
-      "name": "3 of Swords, reversed",
-      "upright": false,
-      "interpretation": "healing, forgiveness, recovery, reconciliation, repressing emotions"
+      "code": "16",
+      "name": "\u2169\u2165 The Tower",
+      "upright": true,
+      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
     },
     {
-      "code": "w9",
-      "name": "9 of Wands, reversed",
-      "upright": false,
-      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
+      "code": "5",
+      "name": "\u2164 The Hierophant",
+      "upright": true,
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     }
   ]
 }
