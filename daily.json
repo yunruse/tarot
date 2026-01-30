@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-29",
+  "date": "2026-01-30",
   "cards": [
     {
-      "code": "p9",
-      "name": "9 of Pentacles",
+      "code": "s2",
+      "name": "2 of Swords",
       "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
+      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
+      "code": "s12",
+      "name": "Knight of Swords",
       "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
-      "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "code": "w10",
+      "name": "10 of Wands, reversed",
+      "upright": false,
+      "interpretation": "failure to delegate, shouldering too much responsibility, collapse, breakdown"
     }
   ]
 }
