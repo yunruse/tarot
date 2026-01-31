@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-30",
+  "date": "2026-01-31",
   "cards": [
     {
-      "code": "s2",
-      "name": "2 of Swords",
+      "code": "s8",
+      "name": "8 of Swords",
       "upright": true,
-      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
+      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
       "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
     },
     {
-      "code": "w10",
-      "name": "10 of Wands, reversed",
-      "upright": false,
-      "interpretation": "failure to delegate, shouldering too much responsibility, collapse, breakdown"
+      "code": "0",
+      "name": "0 The Fool",
+      "upright": true,
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     }
   ]
 }
