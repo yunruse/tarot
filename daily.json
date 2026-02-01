@@ -1,23 +1,23 @@
 {
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "cards": [
     {
-      "code": "s8",
-      "name": "8 of Swords",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     },
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
-      "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+      "code": "1",
+      "name": "\u2160 The Magician, reversed",
+      "upright": false,
+      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
     },
     {
-      "code": "0",
-      "name": "0 The Fool",
-      "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "code": "c4",
+      "name": "4 of Cups, reversed",
+      "upright": false,
+      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
     }
   ]
 }
