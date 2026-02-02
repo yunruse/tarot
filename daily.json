@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "cards": [
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "17",
+      "name": "\u2169\u2166 The Star",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
     },
     {
-      "code": "1",
-      "name": "\u2160 The Magician, reversed",
-      "upright": false,
-      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
+      "code": "s1",
+      "name": "Ace of Swords",
+      "upright": true,
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups, reversed",
+      "code": "c11",
+      "name": "Page of Cups, reversed",
       "upright": false,
-      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
     }
   ]
 }
