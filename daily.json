@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "cards": [
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star",
+      "code": "c6",
+      "name": "6 of Cups",
       "upright": true,
-      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "5",
+      "name": "\u2164 The Hierophant",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups, reversed",
-      "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+      "code": "w9",
+      "name": "9 of Wands",
+      "upright": true,
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
     }
   ]
 }
