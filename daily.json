@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "cards": [
     {
-      "code": "c6",
-      "name": "6 of Cups",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
-      "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "code": "p2",
+      "name": "2 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
     },
     {
-      "code": "w9",
-      "name": "9 of Wands",
-      "upright": true,
-      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
+      "code": "9",
+      "name": "\u2168 The Hermit, reversed",
+      "upright": false,
+      "interpretation": "loneliness, isolation, recluse, being anti-social, rejection, returning to society"
     }
   ]
 }
