@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-04",
+  "date": "2026-02-05",
   "cards": [
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "s12",
+      "name": "Knight of Swords",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
+      "code": "c7",
+      "name": "7 of Cups",
+      "upright": true,
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit, reversed",
+      "code": "w9",
+      "name": "9 of Wands, reversed",
       "upright": false,
-      "interpretation": "loneliness, isolation, recluse, being anti-social, rejection, returning to society"
+      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
     }
   ]
 }
