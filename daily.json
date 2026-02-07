@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "cards": [
     {
-      "code": "s5",
-      "name": "5 of Swords",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "w1",
+      "name": "Ace of Wands",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     },
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
+      "code": "9",
+      "name": "\u2168 The Hermit",
       "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
     }
   ]
 }
