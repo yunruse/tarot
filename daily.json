@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "cards": [
     {
-      "code": "w13",
-      "name": "Queen of Wands",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "w1",
-      "name": "Ace of Wands",
+      "code": "c4",
+      "name": "4 of Cups",
       "upright": true,
-      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit",
+      "code": "p11",
+      "name": "Page of Pentacles",
       "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
     }
   ]
 }
