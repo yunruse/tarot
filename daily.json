@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "cards": [
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil",
       "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "w2",
+      "name": "2 of Wands",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "planning, first steps, making decisions, leaving comfort, taking risks"
     },
     {
-      "code": "p11",
-      "name": "Page of Pentacles",
-      "upright": true,
-      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
+      "code": "w1",
+      "name": "Ace of Wands, reversed",
+      "upright": false,
+      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
     }
   ]
 }
