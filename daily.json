@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "cards": [
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil",
+      "code": "w9",
+      "name": "9 of Wands",
       "upright": true,
-      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
     },
     {
-      "code": "w2",
-      "name": "2 of Wands",
+      "code": "c10",
+      "name": "10 of Cups",
       "upright": true,
-      "interpretation": "planning, first steps, making decisions, leaving comfort, taking risks"
+      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
     },
     {
-      "code": "w1",
-      "name": "Ace of Wands, reversed",
-      "upright": false,
-      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
+      "code": "s14",
+      "name": "King of Swords",
+      "upright": true,
+      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
     }
   ]
 }
