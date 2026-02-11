@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "cards": [
     {
-      "code": "w9",
-      "name": "9 of Wands",
+      "code": "w8",
+      "name": "8 of Wands",
       "upright": true,
-      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
+      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
     },
     {
-      "code": "c10",
-      "name": "10 of Cups",
-      "upright": true,
-      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
+      "code": "w2",
+      "name": "2 of Wands, reversed",
+      "upright": false,
+      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
     },
     {
-      "code": "s14",
-      "name": "King of Swords",
-      "upright": true,
-      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
+      "code": "p6",
+      "name": "6 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "power dynamics, abuse of generosity, strings attached gifts, inequality, extortion"
     }
   ]
 }
