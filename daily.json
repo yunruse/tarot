@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-11",
+  "date": "2026-02-12",
   "cards": [
     {
-      "code": "w8",
-      "name": "8 of Wands",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
       "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     },
     {
-      "code": "w2",
-      "name": "2 of Wands, reversed",
+      "code": "8",
+      "name": "\u2167 Strength, reversed",
       "upright": false,
-      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
+      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
     },
     {
-      "code": "p6",
-      "name": "6 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "power dynamics, abuse of generosity, strings attached gifts, inequality, extortion"
+      "code": "s12",
+      "name": "Knight of Swords",
+      "upright": true,
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     }
   ]
 }
