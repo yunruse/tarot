@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "cards": [
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "p13",
+      "name": "Queen of Pentacles",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength, reversed",
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
       "upright": false,
-      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords",
-      "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "code": "c9",
+      "name": "9 of Cups, reversed",
+      "upright": false,
+      "interpretation": "unhappiness, lack of fulfilment, disappointment, underachievement, arrogance, snobbery"
     }
   ]
 }
