@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "cards": [
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords, reversed",
-      "upright": false,
-      "interpretation": "stuck in past, returning to trouble, running away from problems, trapped"
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
+      "upright": true,
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant, reversed",
+      "code": "0",
+      "name": "0 The Fool, reversed",
       "upright": false,
-      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+      "interpretation": "reckless, careless, distracted, naive, foolish, gullible, stale, dull"
     }
   ]
 }
