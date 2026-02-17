@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-16",
+  "date": "2026-02-17",
   "cards": [
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
+      "code": "s6",
+      "name": "6 of Swords",
       "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
+      "code": "c11",
+      "name": "Page of Cups",
       "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
+      "code": "7",
+      "name": "\u2166 The Chariot, reversed",
       "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
     }
   ]
 }
