@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "cards": [
     {
-      "code": "s6",
-      "name": "6 of Swords",
+      "code": "4",
+      "name": "\u2163 The Emperor",
       "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
+      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups",
+      "code": "s13",
+      "name": "Queen of Swords",
       "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     },
     {
-      "code": "7",
-      "name": "\u2166 The Chariot, reversed",
+      "code": "p2",
+      "name": "2 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
+      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
     }
   ]
 }
