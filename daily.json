@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "cards": [
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "2",
+      "name": "\u2161 The High Priestess",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords",
-      "upright": true,
-      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
-    },
-    {
-      "code": "p2",
-      "name": "2 of Pentacles, reversed",
+      "code": "7",
+      "name": "\u2166 The Chariot, reversed",
       "upright": false,
-      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
+      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
+    },
+    {
+      "code": "w5",
+      "name": "5 of Wands, reversed",
+      "upright": false,
+      "interpretation": "end of conflict, cooperation, agreements, truces, harmony, peace, avoiding conflict"
     }
   ]
 }
