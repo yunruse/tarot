@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "cards": [
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "c1",
+      "name": "Ace of Cups",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
     },
     {
-      "code": "7",
-      "name": "\u2166 The Chariot, reversed",
-      "upright": false,
-      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
+      "code": "w4",
+      "name": "4 of Wands",
+      "upright": true,
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
     },
     {
-      "code": "w5",
-      "name": "5 of Wands, reversed",
-      "upright": false,
-      "interpretation": "end of conflict, cooperation, agreements, truces, harmony, peace, avoiding conflict"
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune",
+      "upright": true,
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     }
   ]
 }
