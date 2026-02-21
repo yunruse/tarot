@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "cards": [
     {
-      "code": "c1",
-      "name": "Ace of Cups",
+      "code": "c5",
+      "name": "5 of Cups",
       "upright": true,
-      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
+      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands",
-      "upright": true,
-      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
+      "code": "s2",
+      "name": "2 of Swords, reversed",
+      "upright": false,
+      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
     },
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
+      "code": "s13",
+      "name": "Queen of Swords",
       "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     }
   ]
 }
