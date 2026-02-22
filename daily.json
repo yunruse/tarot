@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "cards": [
     {
-      "code": "c5",
-      "name": "5 of Cups",
+      "code": "p6",
+      "name": "6 of Pentacles",
       "upright": true,
-      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
+      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+    },
+    {
+      "code": "w2",
+      "name": "2 of Wands",
+      "upright": true,
+      "interpretation": "planning, first steps, making decisions, leaving comfort, taking risks"
     },
     {
       "code": "s2",
       "name": "2 of Swords, reversed",
       "upright": false,
       "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
-    },
-    {
-      "code": "s13",
-      "name": "Queen of Swords",
-      "upright": true,
-      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     }
   ]
 }
