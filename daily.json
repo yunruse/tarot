@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "cards": [
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
+      "code": "1",
+      "name": "\u2160 The Magician",
       "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
     },
     {
-      "code": "c2",
-      "name": "2 of Cups, reversed",
-      "upright": false,
-      "interpretation": "separation, rejection, division, imbalance, tension, bad communication, withdrawal"
+      "code": "2",
+      "name": "\u2161 The High Priestess",
+      "upright": true,
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune, reversed",
+      "code": "p2",
+      "name": "2 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
+      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
     }
   ]
 }
