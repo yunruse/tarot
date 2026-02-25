@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "cards": [
     {
-      "code": "1",
-      "name": "\u2160 The Magician",
+      "code": "p14",
+      "name": "King of Pentacles",
       "upright": true,
-      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     },
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
-      "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
-    },
-    {
-      "code": "p2",
-      "name": "2 of Pentacles, reversed",
+      "code": "5",
+      "name": "\u2164 The Hierophant, reversed",
       "upright": false,
-      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
+      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+    },
+    {
+      "code": "p12",
+      "name": "Knight of Pentacles",
+      "upright": true,
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     }
   ]
 }
