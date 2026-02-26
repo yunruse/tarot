@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "cards": [
     {
-      "code": "p14",
-      "name": "King of Pentacles",
+      "code": "c13",
+      "name": "Queen of Cups",
       "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant, reversed",
-      "upright": false,
-      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+      "code": "c6",
+      "name": "6 of Cups",
+      "upright": true,
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     },
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
+      "code": "w12",
+      "name": "Knight of Wands",
       "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
+      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
     }
   ]
 }
