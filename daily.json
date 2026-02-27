@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "cards": [
     {
-      "code": "c13",
-      "name": "Queen of Cups",
+      "code": "5",
+      "name": "\u2164 The Hierophant",
       "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     },
     {
-      "code": "c6",
-      "name": "6 of Cups",
-      "upright": true,
-      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
+      "code": "11",
+      "name": "\u2169\u2160 Justice, reversed",
+      "upright": false,
+      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
     },
     {
-      "code": "w12",
-      "name": "Knight of Wands",
+      "code": "s1",
+      "name": "Ace of Swords",
       "upright": true,
-      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     }
   ]
 }
