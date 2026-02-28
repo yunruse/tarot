@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "cards": [
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "18",
+      "name": "\u2169\u2167 The Moon",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice, reversed",
+      "code": "c12",
+      "name": "Knight of Cups, reversed",
       "upright": false,
-      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
+      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "w3",
+      "name": "3 of Wands",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
     }
   ]
 }
