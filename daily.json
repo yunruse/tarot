@@ -1,23 +1,23 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "cards": [
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon",
+      "code": "13",
+      "name": "\u2169\u2162 Death",
       "upright": true,
-      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     },
     {
-      "code": "c12",
-      "name": "Knight of Cups, reversed",
+      "code": "c8",
+      "name": "8 of Cups, reversed",
       "upright": false,
-      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
+      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
     },
     {
-      "code": "w3",
-      "name": "3 of Wands",
-      "upright": true,
-      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
+      "code": "15",
+      "name": "\u2169\u2164 The Devil, reversed",
+      "upright": false,
+      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
     }
   ]
 }
