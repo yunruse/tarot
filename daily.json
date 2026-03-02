@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "cards": [
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
-      "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
-    },
-    {
-      "code": "c8",
-      "name": "8 of Cups, reversed",
-      "upright": false,
-      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
-    },
-    {
       "code": "15",
-      "name": "\u2169\u2164 The Devil, reversed",
+      "name": "\u2169\u2164 The Devil",
+      "upright": true,
+      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
+    },
+    {
+      "code": "p1",
+      "name": "Ace of Pentacles",
+      "upright": true,
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+    },
+    {
+      "code": "c6",
+      "name": "6 of Cups, reversed",
       "upright": false,
-      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
+      "interpretation": "stuck in past, moving forward, leaving home, independence"
     }
   ]
 }
