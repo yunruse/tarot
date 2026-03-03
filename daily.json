@@ -1,12 +1,6 @@
 {
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "cards": [
-    {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil",
-      "upright": true,
-      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
-    },
     {
       "code": "p1",
       "name": "Ace of Pentacles",
@@ -14,10 +8,16 @@
       "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
-      "code": "c6",
-      "name": "6 of Cups, reversed",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
+      "upright": true,
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+    },
+    {
+      "code": "4",
+      "name": "\u2163 The Emperor, reversed",
       "upright": false,
-      "interpretation": "stuck in past, moving forward, leaving home, independence"
+      "interpretation": "tyrant, domineering, rigid, stubborn, lack of discipline, recklessness"
     }
   ]
 }
