@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-03",
+  "date": "2026-03-04",
   "cards": [
     {
-      "code": "p1",
-      "name": "Ace of Pentacles",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
-      "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
-    },
-    {
-      "code": "4",
-      "name": "\u2163 The Emperor, reversed",
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
       "upright": false,
-      "interpretation": "tyrant, domineering, rigid, stubborn, lack of discipline, recklessness"
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+    },
+    {
+      "code": "w1",
+      "name": "Ace of Wands",
+      "upright": true,
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     }
   ]
 }
