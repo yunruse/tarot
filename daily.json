@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
       "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil, reversed",
       "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
     },
     {
-      "code": "w1",
-      "name": "Ace of Wands",
-      "upright": true,
-      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
+      "code": "c4",
+      "name": "4 of Cups, reversed",
+      "upright": false,
+      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
     }
   ]
 }
