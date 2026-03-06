@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-05",
+  "date": "2026-03-06",
   "cards": [
     {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement",
+      "code": "p13",
+      "name": "Queen of Pentacles",
       "upright": true,
-      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     },
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil, reversed",
+      "code": "p3",
+      "name": "3 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
+      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups, reversed",
+      "code": "p14",
+      "name": "King of Pentacles, reversed",
       "upright": false,
-      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
     }
   ]
 }
