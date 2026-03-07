@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-06",
+  "date": "2026-03-07",
   "cards": [
     {
       "code": "p13",
@@ -8,16 +8,16 @@
       "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     },
     {
-      "code": "p3",
-      "name": "3 of Pentacles, reversed",
+      "code": "s4",
+      "name": "4 of Swords, reversed",
       "upright": false,
-      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
     },
     {
-      "code": "p14",
-      "name": "King of Pentacles, reversed",
+      "code": "w12",
+      "name": "Knight of Wands, reversed",
       "upright": false,
-      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
+      "interpretation": "arrogant, reckless, impatient, lack of self control, passive, volatile, domineering"
     }
   ]
 }
