@@ -1,17 +1,17 @@
 {
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "cards": [
     {
-      "code": "c9",
-      "name": "9 of Cups",
+      "code": "13",
+      "name": "\u2169\u2162 Death",
       "upright": true,
-      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords",
+      "code": "c7",
+      "name": "7 of Cups",
       "upright": true,
-      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     },
     {
       "code": "p10",
