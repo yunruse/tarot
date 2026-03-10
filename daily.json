@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
   "cards": [
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "s7",
+      "name": "7 of Swords",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
       "upright": true,
-      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
-      "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
+      "upright": false,
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
     }
   ]
 }
