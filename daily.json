@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "cards": [
     {
-      "code": "s7",
-      "name": "7 of Swords",
+      "code": "17",
+      "name": "\u2169\u2166 The Star",
       "upright": true,
-      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
+      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
+      "code": "s2",
+      "name": "2 of Swords, reversed",
       "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
     }
   ]
 }
