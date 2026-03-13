@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-12",
+  "date": "2026-03-13",
   "cards": [
     {
-      "code": "9",
-      "name": "\u2168 The Hermit",
+      "code": "18",
+      "name": "\u2169\u2167 The Moon",
       "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
     },
     {
-      "code": "p7",
-      "name": "7 of Pentacles",
+      "code": "p12",
+      "name": "Knight of Pentacles",
       "upright": true,
-      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "lack of quality, rushed job, bad reputation, lack of motivation, mediocrity, laziness, low skill, dead-end job"
+      "code": "w4",
+      "name": "4 of Wands",
+      "upright": true,
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
     }
   ]
 }
