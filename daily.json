@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-14",
+  "date": "2026-03-15",
   "cards": [
     {
-      "code": "p9",
-      "name": "9 of Pentacles",
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune",
       "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     },
     {
-      "code": "w7",
-      "name": "7 of Wands, reversed",
+      "code": "p3",
+      "name": "3 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
+      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
     },
     {
-      "code": "c13",
-      "name": "Queen of Cups",
-      "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "code": "s8",
+      "name": "8 of Swords, reversed",
+      "upright": false,
+      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
     }
   ]
 }
