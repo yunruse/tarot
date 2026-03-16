@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "cards": [
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
+      "code": "w9",
+      "name": "9 of Wands",
       "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
     },
     {
-      "code": "p3",
-      "name": "3 of Pentacles, reversed",
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
     },
     {
-      "code": "s8",
-      "name": "8 of Swords, reversed",
-      "upright": false,
-      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
+      "code": "18",
+      "name": "\u2169\u2167 The Moon",
+      "upright": true,
+      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
     }
   ]
 }
