@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "cards": [
     {
-      "code": "c3",
-      "name": "3 of Cups",
+      "code": "s6",
+      "name": "6 of Swords",
       "upright": true,
-      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
     },
     {
-      "code": "c13",
-      "name": "Queen of Cups",
-      "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
-    },
-    {
-      "code": "p7",
-      "name": "7 of Pentacles, reversed",
+      "code": "w3",
+      "name": "3 of Wands, reversed",
       "upright": false,
-      "interpretation": "unfinished work, procrastination, low effort, waste, lack of growth, setbacks, impatience, lack of reward"
+      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
+    },
+    {
+      "code": "c4",
+      "name": "4 of Cups",
+      "upright": true,
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     }
   ]
 }
