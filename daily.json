@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "cards": [
     {
       "code": "s6",
@@ -8,16 +8,16 @@
       "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
     },
     {
-      "code": "w3",
-      "name": "3 of Wands, reversed",
-      "upright": false,
-      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
+      "code": "c9",
+      "name": "9 of Cups",
+      "upright": true,
+      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "s5",
+      "name": "5 of Swords",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
     }
   ]
 }
