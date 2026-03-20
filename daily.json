@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "cards": [
     {
-      "code": "s6",
-      "name": "6 of Swords",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "c9",
-      "name": "9 of Cups",
-      "upright": true,
-      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
+      "code": "w12",
+      "name": "Knight of Wands, reversed",
+      "upright": false,
+      "interpretation": "arrogant, reckless, impatient, lack of self control, passive, volatile, domineering"
     },
     {
-      "code": "s5",
-      "name": "5 of Swords",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
       "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     }
   ]
 }
