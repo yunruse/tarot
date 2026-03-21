@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-20",
+  "date": "2026-03-21",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "w12",
-      "name": "Knight of Wands, reversed",
-      "upright": false,
-      "interpretation": "arrogant, reckless, impatient, lack of self control, passive, volatile, domineering"
+      "code": "w6",
+      "name": "6 of Wands",
+      "upright": true,
+      "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
     },
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     }
   ]
 }
