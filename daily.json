@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "cards": [
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
+      "code": "c1",
+      "name": "Ace of Cups",
       "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
     },
     {
-      "code": "w6",
-      "name": "6 of Wands",
-      "upright": true,
-      "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
+      "code": "3",
+      "name": "\u2162 The Empress, reversed",
+      "upright": false,
+      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
-      "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
+      "code": "13",
+      "name": "\u2169\u2162 Death, reversed",
+      "upright": false,
+      "interpretation": "fear of change, repeating negative patterns, resisting change, stagnancy, decay"
     }
   ]
 }
