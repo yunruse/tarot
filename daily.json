@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "cards": [
     {
-      "code": "c1",
-      "name": "Ace of Cups",
+      "code": "c14",
+      "name": "King of Cups",
       "upright": true,
-      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
+      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
     },
     {
-      "code": "3",
-      "name": "\u2162 The Empress, reversed",
-      "upright": false,
-      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
+      "upright": true,
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     },
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death, reversed",
+      "code": "w4",
+      "name": "4 of Wands, reversed",
       "upright": false,
-      "interpretation": "fear of change, repeating negative patterns, resisting change, stagnancy, decay"
+      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
     }
   ]
 }
