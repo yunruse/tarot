@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "cards": [
     {
-      "code": "c14",
-      "name": "King of Cups",
+      "code": "c6",
+      "name": "6 of Cups",
       "upright": true,
-      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     },
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "s5",
+      "name": "5 of Swords",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands, reversed",
+      "code": "w7",
+      "name": "7 of Wands, reversed",
       "upright": false,
-      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
+      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
     }
   ]
 }
