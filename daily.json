@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "cards": [
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "w6",
-      "name": "6 of Wands",
-      "upright": true,
-      "interpretation": "success, victory, triumph, rewards, recognition, praise, acclaim, pride"
-    },
-    {
-      "code": "w3",
-      "name": "3 of Wands, reversed",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower, reversed",
       "upright": false,
-      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
+      "interpretation": "averting disaster, delaying the inevitable, resisting change"
+    },
+    {
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune",
+      "upright": true,
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     }
   ]
 }
