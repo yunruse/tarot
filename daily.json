@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "cards": [
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
+      "code": "s4",
+      "name": "4 of Swords",
       "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower, reversed",
+      "code": "s10",
+      "name": "10 of Swords, reversed",
       "upright": false,
-      "interpretation": "averting disaster, delaying the inevitable, resisting change"
+      "interpretation": "survival, improvement, healing, lessons learned, despair, relapse"
     },
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
+      "code": "w5",
+      "name": "5 of Wands",
       "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "conflict, competition, arguments, aggression, tension, rivals, clashes of ego"
     }
   ]
 }
