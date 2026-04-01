@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "cards": [
     {
-      "code": "s7",
-      "name": "7 of Swords",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "c3",
-      "name": "3 of Cups, reversed",
+      "code": "s3",
+      "name": "3 of Swords, reversed",
       "upright": false,
-      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
+      "interpretation": "healing, forgiveness, recovery, reconciliation, repressing emotions"
     },
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
-      "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "code": "p2",
+      "name": "2 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
     }
   ]
 }
