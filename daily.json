@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "cards": [
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
+      "code": "9",
+      "name": "\u2168 The Hermit",
       "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
     },
     {
-      "code": "s3",
-      "name": "3 of Swords, reversed",
+      "code": "13",
+      "name": "\u2169\u2162 Death, reversed",
       "upright": false,
-      "interpretation": "healing, forgiveness, recovery, reconciliation, repressing emotions"
+      "interpretation": "fear of change, repeating negative patterns, resisting change, stagnancy, decay"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles, reversed",
+      "code": "p10",
+      "name": "10 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "imbalance, unorganized, overwhelmed, messiness, chaos, overextending"
+      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
     }
   ]
 }
