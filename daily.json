@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "cards": [
     {
-      "code": "9",
-      "name": "\u2168 The Hermit",
+      "code": "2",
+      "name": "\u2161 The High Priestess",
       "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death, reversed",
-      "upright": false,
-      "interpretation": "fear of change, repeating negative patterns, resisting change, stagnancy, decay"
+      "code": "18",
+      "name": "\u2169\u2167 The Moon",
+      "upright": true,
+      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles, reversed",
+      "code": "s7",
+      "name": "7 of Swords, reversed",
       "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
     }
   ]
 }
