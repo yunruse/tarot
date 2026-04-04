@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "cards": [
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "s7",
-      "name": "7 of Swords, reversed",
+      "code": "s5",
+      "name": "5 of Swords, reversed",
       "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
+      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
     }
   ]
 }
