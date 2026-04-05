@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "cards": [
     {
-      "code": "w13",
-      "name": "Queen of Wands",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     },
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
-      "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
-    },
-    {
-      "code": "s5",
-      "name": "5 of Swords, reversed",
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune, reversed",
       "upright": false,
-      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
+      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
+    },
+    {
+      "code": "s12",
+      "name": "Knight of Swords, reversed",
+      "upright": false,
+      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
     }
   ]
 }
