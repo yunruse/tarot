@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "cards": [
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
+      "code": "p3",
+      "name": "3 of Pentacles",
       "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     },
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune, reversed",
+      "code": "c7",
+      "name": "7 of Cups, reversed",
       "upright": false,
-      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
+      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords, reversed",
-      "upright": false,
-      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
+      "code": "s11",
+      "name": "Page of Swords",
+      "upright": true,
+      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
     }
   ]
 }
