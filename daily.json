@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "cards": [
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
+      "code": "s8",
+      "name": "8 of Swords",
       "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups, reversed",
+      "code": "w4",
+      "name": "4 of Wands, reversed",
       "upright": false,
-      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
+      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
     },
     {
-      "code": "s11",
-      "name": "Page of Swords",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     }
   ]
 }
