@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "cards": [
     {
-      "code": "s8",
-      "name": "8 of Swords",
+      "code": "p9",
+      "name": "9 of Pentacles",
       "upright": true,
-      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
+      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands, reversed",
+      "code": "w14",
+      "name": "King of Wands, reversed",
       "upright": false,
-      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
+      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
     },
     {
-      "code": "0",
-      "name": "0 The Fool",
-      "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "code": "w9",
+      "name": "9 of Wands, reversed",
+      "upright": false,
+      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
     }
   ]
 }
