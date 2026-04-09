@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "cards": [
     {
-      "code": "p9",
-      "name": "9 of Pentacles",
+      "code": "w11",
+      "name": "Page of Wands",
       "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
+      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
     },
     {
-      "code": "w14",
-      "name": "King of Wands, reversed",
-      "upright": false,
-      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
+      "code": "p11",
+      "name": "Page of Pentacles",
+      "upright": true,
+      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
     },
     {
-      "code": "w9",
-      "name": "9 of Wands, reversed",
-      "upright": false,
-      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
+      "code": "w3",
+      "name": "3 of Wands",
+      "upright": true,
+      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
     }
   ]
 }
