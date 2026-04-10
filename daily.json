@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "cards": [
     {
-      "code": "w11",
-      "name": "Page of Wands",
+      "code": "p3",
+      "name": "3 of Pentacles",
       "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     },
     {
-      "code": "p11",
-      "name": "Page of Pentacles",
+      "code": "w4",
+      "name": "4 of Wands",
       "upright": true,
-      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
     },
     {
-      "code": "w3",
-      "name": "3 of Wands",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     }
   ]
 }
