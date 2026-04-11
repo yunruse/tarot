@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "cards": [
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
+      "code": "c14",
+      "name": "King of Cups",
       "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
-      "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+      "code": "p4",
+      "name": "4 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
     }
   ]
 }
