@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "cards": [
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
+      "code": "s11",
+      "name": "Page of Swords",
       "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
     },
     {
-      "code": "w8",
-      "name": "8 of Wands",
+      "code": "s9",
+      "name": "9 of Swords",
       "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
-      "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+      "code": "p7",
+      "name": "7 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "unfinished work, procrastination, low effort, waste, lack of growth, setbacks, impatience, lack of reward"
     }
   ]
 }
