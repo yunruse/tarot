@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "cards": [
     {
-      "code": "s11",
-      "name": "Page of Swords",
+      "code": "w9",
+      "name": "9 of Wands",
       "upright": true,
-      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
     },
     {
-      "code": "s9",
-      "name": "9 of Swords",
-      "upright": true,
-      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
-    },
-    {
-      "code": "p7",
-      "name": "7 of Pentacles, reversed",
+      "code": "11",
+      "name": "\u2169\u2160 Justice, reversed",
       "upright": false,
-      "interpretation": "unfinished work, procrastination, low effort, waste, lack of growth, setbacks, impatience, lack of reward"
+      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
+    },
+    {
+      "code": "s12",
+      "name": "Knight of Swords",
+      "upright": true,
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     }
   ]
 }
