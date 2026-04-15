@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "cards": [
     {
-      "code": "w9",
-      "name": "9 of Wands",
+      "code": "c10",
+      "name": "10 of Cups",
       "upright": true,
-      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
+      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice, reversed",
+      "code": "w3",
+      "name": "3 of Wands, reversed",
       "upright": false,
-      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
+      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     }
   ]
 }
