@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "cards": [
     {
-      "code": "c10",
-      "name": "10 of Cups",
+      "code": "p7",
+      "name": "7 of Pentacles",
       "upright": true,
-      "interpretation": "happiness, homecomings, fulfillment, emotional stability, security, domestic harmony"
+      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
     },
     {
-      "code": "w3",
-      "name": "3 of Wands, reversed",
+      "code": "c3",
+      "name": "3 of Cups, reversed",
       "upright": false,
-      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
+      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
+      "code": "18",
+      "name": "\u2169\u2167 The Moon",
       "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
     }
   ]
 }
