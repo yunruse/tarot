@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "cards": [
     {
-      "code": "p7",
-      "name": "7 of Pentacles",
+      "code": "c9",
+      "name": "9 of Cups",
       "upright": true,
-      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
+      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
     },
     {
-      "code": "c3",
-      "name": "3 of Cups, reversed",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil, reversed",
       "upright": false,
-      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
+      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     }
   ]
 }
