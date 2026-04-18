@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "cards": [
     {
-      "code": "c9",
-      "name": "9 of Cups",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil, reversed",
-      "upright": false,
-      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
+      "code": "c4",
+      "name": "4 of Cups",
+      "upright": true,
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     },
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "s7",
+      "name": "7 of Swords",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
     }
   ]
 }
