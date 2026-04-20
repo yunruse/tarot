@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "cards": [
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
+      "code": "w5",
+      "name": "5 of Wands",
       "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "interpretation": "conflict, competition, arguments, aggression, tension, rivals, clashes of ego"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+      "code": "c4",
+      "name": "4 of Cups",
+      "upright": true,
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     }
   ]
 }
