@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "cards": [
     {
-      "code": "w5",
-      "name": "5 of Wands",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
       "upright": true,
-      "interpretation": "conflict, competition, arguments, aggression, tension, rivals, clashes of ego"
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups",
-      "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "code": "1",
+      "name": "\u2160 The Magician, reversed",
+      "upright": false,
+      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
     },
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "p14",
+      "name": "King of Pentacles",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     }
   ]
 }
