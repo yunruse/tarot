@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "cards": [
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
+      "code": "p7",
+      "name": "7 of Pentacles",
       "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
     },
     {
-      "code": "1",
-      "name": "\u2160 The Magician, reversed",
-      "upright": false,
-      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
+      "code": "w8",
+      "name": "8 of Wands",
+      "upright": true,
+      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
     },
     {
-      "code": "p14",
-      "name": "King of Pentacles",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
       "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     }
   ]
 }
