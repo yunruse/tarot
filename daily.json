@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "cards": [
     {
-      "code": "p7",
-      "name": "7 of Pentacles",
+      "code": "s4",
+      "name": "4 of Swords",
       "upright": true,
-      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
+      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
     },
     {
-      "code": "w8",
-      "name": "8 of Wands",
-      "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "code": "c11",
+      "name": "Page of Cups, reversed",
+      "upright": false,
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
     },
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "p4",
+      "name": "4 of Pentacles",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     }
   ]
 }
