@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "cards": [
     {
-      "code": "s4",
-      "name": "4 of Swords",
+      "code": "c12",
+      "name": "Knight of Cups",
       "upright": true,
-      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups, reversed",
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
     },
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
-      "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "code": "c7",
+      "name": "7 of Cups, reversed",
+      "upright": false,
+      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
     }
   ]
 }
