@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
+      "code": "w1",
+      "name": "Ace of Wands",
       "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles, reversed",
+      "code": "17",
+      "name": "\u2169\u2166 The Star",
+      "upright": true,
+      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
+    },
+    {
+      "code": "s12",
+      "name": "Knight of Swords, reversed",
       "upright": false,
-      "interpretation": "lack of quality, rushed job, bad reputation, lack of motivation, mediocrity, laziness, low skill, dead-end job"
-    },
-    {
-      "code": "p1",
-      "name": "Ace of Pentacles",
-      "upright": true,
-      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
     }
   ]
 }
