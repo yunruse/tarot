@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "cards": [
     {
-      "code": "w1",
-      "name": "Ace of Wands",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star",
-      "upright": true,
-      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
-    },
-    {
-      "code": "s12",
-      "name": "Knight of Swords, reversed",
+      "code": "p10",
+      "name": "10 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
+      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+    },
+    {
+      "code": "s1",
+      "name": "Ace of Swords",
+      "upright": true,
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     }
   ]
 }
