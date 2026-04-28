@@ -1,11 +1,11 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "p12",
+      "name": "Knight of Pentacles",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     },
     {
       "code": "p10",
@@ -14,10 +14,10 @@
       "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords",
-      "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "code": "s4",
+      "name": "4 of Swords, reversed",
+      "upright": false,
+      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
     }
   ]
 }
