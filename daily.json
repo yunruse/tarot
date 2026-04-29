@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "cards": [
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
+      "code": "s13",
+      "name": "Queen of Swords",
       "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+      "code": "s6",
+      "name": "6 of Swords",
+      "upright": true,
+      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords, reversed",
+      "code": "w10",
+      "name": "10 of Wands, reversed",
       "upright": false,
-      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
+      "interpretation": "failure to delegate, shouldering too much responsibility, collapse, breakdown"
     }
   ]
 }
