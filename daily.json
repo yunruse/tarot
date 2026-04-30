@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "cards": [
     {
-      "code": "s13",
-      "name": "Queen of Swords",
+      "code": "w11",
+      "name": "Page of Wands",
       "upright": true,
-      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
       "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     },
     {
-      "code": "w10",
-      "name": "10 of Wands, reversed",
-      "upright": false,
-      "interpretation": "failure to delegate, shouldering too much responsibility, collapse, breakdown"
+      "code": "w12",
+      "name": "Knight of Wands",
+      "upright": true,
+      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
     }
   ]
 }
