@@ -1,23 +1,23 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "cards": [
     {
-      "code": "w11",
-      "name": "Page of Wands",
+      "code": "w3",
+      "name": "3 of Wands",
       "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
-      "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "code": "s2",
+      "name": "2 of Swords, reversed",
+      "upright": false,
+      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
     },
     {
-      "code": "w12",
-      "name": "Knight of Wands",
+      "code": "13",
+      "name": "\u2169\u2162 Death",
       "upright": true,
-      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     }
   ]
 }
