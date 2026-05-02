@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "cards": [
     {
-      "code": "w3",
-      "name": "3 of Wands",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     },
     {
-      "code": "s2",
-      "name": "2 of Swords, reversed",
+      "code": "p5",
+      "name": "5 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
+      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
     },
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
-      "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "code": "14",
+      "name": "\u2169\u2163 Temperance, reversed",
+      "upright": false,
+      "interpretation": "imbalance, excess, extremes, discord, recklessness, hastiness"
     }
   ]
 }
