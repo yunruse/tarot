@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "cards": [
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "13",
+      "name": "\u2169\u2162 Death",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     },
     {
-      "code": "p5",
-      "name": "5 of Pentacles, reversed",
+      "code": "p6",
+      "name": "6 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
+      "interpretation": "power dynamics, abuse of generosity, strings attached gifts, inequality, extortion"
     },
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance, reversed",
+      "code": "c13",
+      "name": "Queen of Cups, reversed",
       "upright": false,
-      "interpretation": "imbalance, excess, extremes, discord, recklessness, hastiness"
+      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
     }
   ]
 }
