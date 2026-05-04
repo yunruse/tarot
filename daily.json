@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "cards": [
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     },
     {
-      "code": "p6",
-      "name": "6 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "power dynamics, abuse of generosity, strings attached gifts, inequality, extortion"
+      "code": "p9",
+      "name": "9 of Pentacles",
+      "upright": true,
+      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
     },
     {
-      "code": "c13",
-      "name": "Queen of Cups, reversed",
+      "code": "s2",
+      "name": "2 of Swords, reversed",
       "upright": false,
-      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
+      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
     }
   ]
 }
