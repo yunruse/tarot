@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "cards": [
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "c9",
+      "name": "9 of Cups",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "s2",
-      "name": "2 of Swords, reversed",
-      "upright": false,
-      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
+      "code": "s12",
+      "name": "Knight of Swords",
+      "upright": true,
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     }
   ]
 }
