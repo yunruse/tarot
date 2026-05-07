@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "cards": [
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "p9",
+      "name": "9 of Pentacles",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords, reversed",
+      "code": "w1",
+      "name": "Ace of Wands",
+      "upright": true,
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
+    },
+    {
+      "code": "3",
+      "name": "\u2162 The Empress, reversed",
       "upright": false,
-      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
-    },
-    {
-      "code": "w11",
-      "name": "Page of Wands",
-      "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
     }
   ]
 }
