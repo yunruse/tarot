@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "cards": [
     {
-      "code": "p9",
-      "name": "9 of Pentacles",
+      "code": "w10",
+      "name": "10 of Wands",
       "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
+      "interpretation": "burden, responsibility, duty, stress, obligation, burning out, struggles"
     },
     {
-      "code": "w1",
-      "name": "Ace of Wands",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
-      "code": "3",
-      "name": "\u2162 The Empress, reversed",
+      "code": "w3",
+      "name": "3 of Wands, reversed",
       "upright": false,
-      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
+      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
     }
   ]
 }
