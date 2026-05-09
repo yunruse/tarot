@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "cards": [
     {
-      "code": "w10",
-      "name": "10 of Wands",
+      "code": "s13",
+      "name": "Queen of Swords",
       "upright": true,
-      "interpretation": "burden, responsibility, duty, stress, obligation, burning out, struggles"
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     },
     {
-      "code": "p1",
-      "name": "Ace of Pentacles",
-      "upright": true,
-      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
-    },
-    {
-      "code": "w3",
-      "name": "3 of Wands, reversed",
+      "code": "17",
+      "name": "\u2169\u2166 The Star, reversed",
       "upright": false,
-      "interpretation": "restriction, limitations, lack of progress, obstacles, delays, frustration"
+      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
+    },
+    {
+      "code": "5",
+      "name": "\u2164 The Hierophant, reversed",
+      "upright": false,
+      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
     }
   ]
 }
