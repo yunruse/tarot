@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "cards": [
     {
-      "code": "s13",
-      "name": "Queen of Swords",
+      "code": "s6",
+      "name": "6 of Swords",
       "upright": true,
-      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
     },
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star, reversed",
-      "upright": false,
-      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
+      "code": "p13",
+      "name": "Queen of Pentacles",
+      "upright": true,
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant, reversed",
+      "code": "c8",
+      "name": "8 of Cups, reversed",
       "upright": false,
-      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
     }
   ]
 }
