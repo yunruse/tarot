@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "cards": [
     {
-      "code": "s6",
-      "name": "6 of Swords",
+      "code": "c4",
+      "name": "4 of Cups",
       "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     },
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups, reversed",
+      "code": "s8",
+      "name": "8 of Swords, reversed",
       "upright": false,
-      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
+      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
     }
   ]
 }
