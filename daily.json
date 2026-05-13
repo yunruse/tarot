@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "cards": [
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
+      "code": "2",
+      "name": "\u2161 The High Priestess",
       "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups, reversed",
+      "code": "w14",
+      "name": "King of Wands, reversed",
       "upright": false,
-      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
+      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
-      "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "code": "4",
+      "name": "\u2163 The Emperor, reversed",
+      "upright": false,
+      "interpretation": "tyrant, domineering, rigid, stubborn, lack of discipline, recklessness"
     }
   ]
 }
