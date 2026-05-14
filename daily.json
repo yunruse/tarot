@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "cards": [
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
       "code": "w14",
-      "name": "King of Wands, reversed",
-      "upright": false,
-      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
+      "name": "King of Wands",
+      "upright": true,
+      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
     },
     {
-      "code": "4",
-      "name": "\u2163 The Emperor, reversed",
+      "code": "c11",
+      "name": "Page of Cups, reversed",
       "upright": false,
-      "interpretation": "tyrant, domineering, rigid, stubborn, lack of discipline, recklessness"
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
     }
   ]
 }
