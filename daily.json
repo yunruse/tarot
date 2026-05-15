@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "cards": [
     {
-      "code": "p1",
-      "name": "Ace of Pentacles",
+      "code": "p14",
+      "name": "King of Pentacles",
       "upright": true,
-      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     },
     {
-      "code": "w14",
-      "name": "King of Wands",
+      "code": "p11",
+      "name": "Page of Pentacles",
       "upright": true,
-      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
+      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups, reversed",
+      "code": "3",
+      "name": "\u2162 The Empress, reversed",
       "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
     }
   ]
 }
