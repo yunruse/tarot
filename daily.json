@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "cards": [
     {
-      "code": "p14",
-      "name": "King of Pentacles",
+      "code": "s11",
+      "name": "Page of Swords",
       "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
     },
     {
-      "code": "p11",
-      "name": "Page of Pentacles",
+      "code": "w14",
+      "name": "King of Wands",
       "upright": true,
-      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
+      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
     },
     {
-      "code": "3",
-      "name": "\u2162 The Empress, reversed",
+      "code": "s6",
+      "name": "6 of Swords, reversed",
       "upright": false,
-      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
+      "interpretation": "stuck in past, returning to trouble, running away from problems, trapped"
     }
   ]
 }
