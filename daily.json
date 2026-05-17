@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "cards": [
     {
-      "code": "s11",
-      "name": "Page of Swords",
+      "code": "c9",
+      "name": "9 of Cups",
       "upright": true,
-      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
+      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
     },
     {
-      "code": "w14",
-      "name": "King of Wands",
+      "code": "s14",
+      "name": "King of Swords",
       "upright": true,
-      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
+      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords, reversed",
+      "code": "p11",
+      "name": "Page of Pentacles, reversed",
       "upright": false,
-      "interpretation": "stuck in past, returning to trouble, running away from problems, trapped"
+      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
     }
   ]
 }
