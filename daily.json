@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "cards": [
     {
-      "code": "c9",
-      "name": "9 of Cups",
+      "code": "p3",
+      "name": "3 of Pentacles",
       "upright": true,
-      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     },
     {
-      "code": "s14",
-      "name": "King of Swords",
-      "upright": true,
-      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
-    },
-    {
-      "code": "p11",
-      "name": "Page of Pentacles, reversed",
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
       "upright": false,
-      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+    },
+    {
+      "code": "p13",
+      "name": "Queen of Pentacles",
+      "upright": true,
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     }
   ]
 }
