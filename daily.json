@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "cards": [
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
+      "code": "p6",
+      "name": "6 of Pentacles",
       "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
+      "code": "s8",
+      "name": "8 of Swords, reversed",
       "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
     },
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
       "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     }
   ]
 }
