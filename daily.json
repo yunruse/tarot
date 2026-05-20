@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "cards": [
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
+      "code": "c9",
+      "name": "9 of Cups",
       "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
     },
     {
-      "code": "s8",
-      "name": "8 of Swords, reversed",
-      "upright": false,
-      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
+      "code": "c6",
+      "name": "6 of Cups",
+      "upright": true,
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     },
     {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     }
   ]
 }
