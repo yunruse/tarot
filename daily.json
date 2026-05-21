@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "cards": [
     {
-      "code": "c9",
-      "name": "9 of Cups",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "c6",
-      "name": "6 of Cups",
+      "code": "9",
+      "name": "\u2168 The Hermit",
       "upright": true,
-      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
+      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
-      "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
+      "code": "17",
+      "name": "\u2169\u2166 The Star, reversed",
+      "upright": false,
+      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
     }
   ]
 }
