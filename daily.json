@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "cards": [
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit",
+      "code": "s6",
+      "name": "6 of Swords",
       "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
     },
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star, reversed",
+      "code": "w11",
+      "name": "Page of Wands, reversed",
       "upright": false,
-      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
+      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
     }
   ]
 }
