@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "cards": [
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
+      "code": "s1",
+      "name": "Ace of Swords",
       "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     },
     {
-      "code": "s6",
-      "name": "6 of Swords",
+      "code": "c3",
+      "name": "3 of Cups",
       "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
+      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
     },
     {
-      "code": "w11",
-      "name": "Page of Wands, reversed",
+      "code": "c6",
+      "name": "6 of Cups, reversed",
       "upright": false,
-      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
+      "interpretation": "stuck in past, moving forward, leaving home, independence"
     }
   ]
 }
