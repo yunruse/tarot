@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "cards": [
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "7",
+      "name": "\u2166 The Chariot",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     },
     {
-      "code": "c3",
-      "name": "3 of Cups",
+      "code": "4",
+      "name": "\u2163 The Emperor",
       "upright": true,
-      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
     },
     {
-      "code": "c6",
-      "name": "6 of Cups, reversed",
+      "code": "s7",
+      "name": "7 of Swords, reversed",
       "upright": false,
-      "interpretation": "stuck in past, moving forward, leaving home, independence"
+      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
     }
   ]
 }
