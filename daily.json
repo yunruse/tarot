@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "cards": [
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
+      "code": "p7",
+      "name": "7 of Pentacles",
       "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
     },
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
-      "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
-    },
-    {
-      "code": "s7",
-      "name": "7 of Swords, reversed",
+      "code": "w9",
+      "name": "9 of Wands, reversed",
       "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
+      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
+    },
+    {
+      "code": "p12",
+      "name": "Knight of Pentacles",
+      "upright": true,
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     }
   ]
 }
