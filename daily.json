@@ -1,11 +1,11 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "cards": [
     {
-      "code": "p7",
-      "name": "7 of Pentacles",
+      "code": "c2",
+      "name": "2 of Cups",
       "upright": true,
-      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
+      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
     },
     {
       "code": "w9",
@@ -14,10 +14,10 @@
       "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
     },
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
-      "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
+      "code": "2",
+      "name": "\u2161 The High Priestess, reversed",
+      "upright": false,
+      "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
     }
   ]
 }
