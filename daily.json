@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "cards": [
     {
-      "code": "c2",
-      "name": "2 of Cups",
+      "code": "w1",
+      "name": "Ace of Wands",
       "upright": true,
-      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     },
     {
-      "code": "w9",
-      "name": "9 of Wands, reversed",
-      "upright": false,
-      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
+      "code": "8",
+      "name": "\u2167 Strength",
+      "upright": true,
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     },
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess, reversed",
-      "upright": false,
-      "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
+      "code": "p9",
+      "name": "9 of Pentacles",
+      "upright": true,
+      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
     }
   ]
 }
