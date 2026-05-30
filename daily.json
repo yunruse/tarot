@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "cards": [
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
+      "code": "w3",
+      "name": "3 of Wands",
       "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles",
-      "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
+      "code": "w4",
+      "name": "4 of Wands, reversed",
+      "upright": false,
+      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     }
   ]
 }
