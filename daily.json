@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "cards": [
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
+      "code": "13",
+      "name": "\u2169\u2162 Death",
       "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     },
     {
-      "code": "w14",
-      "name": "King of Wands, reversed",
+      "code": "p2",
+      "name": "2 of Pentacles",
+      "upright": true,
+      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+    },
+    {
+      "code": "c3",
+      "name": "3 of Cups, reversed",
       "upright": false,
-      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
-    },
-    {
-      "code": "s12",
-      "name": "Knight of Swords",
-      "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
     }
   ]
 }
