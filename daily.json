@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "cards": [
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
-      "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
-    },
-    {
-      "code": "c3",
-      "name": "3 of Cups, reversed",
+      "code": "c11",
+      "name": "Page of Cups, reversed",
       "upright": false,
-      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+    },
+    {
+      "code": "s7",
+      "name": "7 of Swords, reversed",
+      "upright": false,
+      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
     }
   ]
 }
