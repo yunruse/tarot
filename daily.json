@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "cards": [
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
+      "code": "s12",
+      "name": "Knight of Swords",
       "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups, reversed",
+      "code": "c12",
+      "name": "Knight of Cups, reversed",
       "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
     },
     {
-      "code": "s7",
-      "name": "7 of Swords, reversed",
-      "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
+      "code": "s2",
+      "name": "2 of Swords",
+      "upright": true,
+      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
     }
   ]
 }
