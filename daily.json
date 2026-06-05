@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "cards": [
     {
-      "code": "s12",
-      "name": "Knight of Swords",
+      "code": "s4",
+      "name": "4 of Swords",
       "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
     },
     {
-      "code": "c12",
-      "name": "Knight of Cups, reversed",
+      "code": "8",
+      "name": "\u2167 Strength, reversed",
       "upright": false,
-      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
+      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
     },
     {
-      "code": "s2",
-      "name": "2 of Swords",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     }
   ]
 }
