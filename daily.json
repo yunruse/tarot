@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "cards": [
     {
-      "code": "s4",
-      "name": "4 of Swords",
+      "code": "w9",
+      "name": "9 of Wands",
       "upright": true,
-      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength, reversed",
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
     },
     {
-      "code": "0",
-      "name": "0 The Fool",
-      "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "code": "s5",
+      "name": "5 of Swords, reversed",
+      "upright": false,
+      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
     }
   ]
 }
