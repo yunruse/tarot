@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "cards": [
     {
-      "code": "w9",
-      "name": "9 of Wands",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles, reversed",
+      "code": "w9",
+      "name": "9 of Wands, reversed",
       "upright": false,
-      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
     },
     {
-      "code": "s5",
-      "name": "5 of Swords, reversed",
-      "upright": false,
-      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune",
+      "upright": true,
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     }
   ]
 }
