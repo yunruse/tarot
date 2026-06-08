@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
+      "code": "p12",
+      "name": "Knight of Pentacles",
       "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     },
     {
-      "code": "w9",
-      "name": "9 of Wands, reversed",
+      "code": "p2",
+      "name": "2 of Pentacles",
+      "upright": true,
+      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+    },
+    {
+      "code": "c13",
+      "name": "Queen of Cups, reversed",
       "upright": false,
-      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
-    },
-    {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
-      "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
     }
   ]
 }
