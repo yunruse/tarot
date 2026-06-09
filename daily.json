@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "cards": [
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
+      "code": "s13",
+      "name": "Queen of Swords",
       "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
-      "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
-    },
-    {
-      "code": "c13",
-      "name": "Queen of Cups, reversed",
+      "code": "w6",
+      "name": "6 of Wands, reversed",
       "upright": false,
-      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
+      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
+    },
+    {
+      "code": "p4",
+      "name": "4 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
     }
   ]
 }
