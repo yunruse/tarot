@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "cards": [
     {
-      "code": "s13",
-      "name": "Queen of Swords",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil",
       "upright": true,
-      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
     },
     {
-      "code": "w6",
-      "name": "6 of Wands, reversed",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World, reversed",
       "upright": false,
-      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
+      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
     },
     {
-      "code": "p4",
-      "name": "4 of Pentacles, reversed",
+      "code": "18",
+      "name": "\u2169\u2167 The Moon, reversed",
       "upright": false,
-      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
+      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
     }
   ]
 }
