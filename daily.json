@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "cards": [
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil",
+      "code": "c2",
+      "name": "2 of Cups",
       "upright": true,
-      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
+      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World, reversed",
+      "code": "c9",
+      "name": "9 of Cups, reversed",
       "upright": false,
-      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
+      "interpretation": "unhappiness, lack of fulfilment, disappointment, underachievement, arrogance, snobbery"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon, reversed",
-      "upright": false,
-      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
+      "code": "1",
+      "name": "\u2160 The Magician",
+      "upright": true,
+      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
     }
   ]
 }
