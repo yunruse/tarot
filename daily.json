@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "cards": [
     {
-      "code": "c2",
-      "name": "2 of Cups",
+      "code": "p4",
+      "name": "4 of Pentacles",
       "upright": true,
-      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     },
     {
-      "code": "c9",
-      "name": "9 of Cups, reversed",
+      "code": "w14",
+      "name": "King of Wands, reversed",
       "upright": false,
-      "interpretation": "unhappiness, lack of fulfilment, disappointment, underachievement, arrogance, snobbery"
+      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
     },
     {
-      "code": "1",
-      "name": "\u2160 The Magician",
-      "upright": true,
-      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
+      "code": "s14",
+      "name": "King of Swords, reversed",
+      "upright": false,
+      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
     }
   ]
 }
