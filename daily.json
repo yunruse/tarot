@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "cards": [
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
+      "code": "s5",
+      "name": "5 of Swords",
       "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
     },
     {
-      "code": "w14",
-      "name": "King of Wands, reversed",
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
       "upright": false,
-      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
     },
     {
-      "code": "s14",
-      "name": "King of Swords, reversed",
-      "upright": false,
-      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
+      "code": "0",
+      "name": "0 The Fool",
+      "upright": true,
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     }
   ]
 }
