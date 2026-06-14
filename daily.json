@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "cards": [
     {
-      "code": "s5",
-      "name": "5 of Swords",
+      "code": "c11",
+      "name": "Page of Cups",
       "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
+      "code": "s11",
+      "name": "Page of Swords",
+      "upright": true,
+      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
+    },
+    {
+      "code": "p1",
+      "name": "Ace of Pentacles, reversed",
       "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
-    },
-    {
-      "code": "0",
-      "name": "0 The Fool",
-      "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
     }
   ]
 }
