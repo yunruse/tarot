@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "cards": [
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
+      "code": "7",
+      "name": "\u2166 The Chariot",
       "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     },
     {
-      "code": "w7",
-      "name": "7 of Wands",
-      "upright": true,
-      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
-    },
-    {
-      "code": "w6",
-      "name": "6 of Wands, reversed",
+      "code": "c4",
+      "name": "4 of Cups, reversed",
       "upright": false,
-      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
+      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+    },
+    {
+      "code": "c3",
+      "name": "3 of Cups",
+      "upright": true,
+      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
     }
   ]
 }
