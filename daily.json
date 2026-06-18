@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "cards": [
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups, reversed",
+      "code": "w5",
+      "name": "5 of Wands, reversed",
       "upright": false,
-      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+      "interpretation": "end of conflict, cooperation, agreements, truces, harmony, peace, avoiding conflict"
     },
     {
-      "code": "c3",
-      "name": "3 of Cups",
+      "code": "c12",
+      "name": "Knight of Cups",
       "upright": true,
-      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     }
   ]
 }
