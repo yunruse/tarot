@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "w5",
-      "name": "5 of Wands, reversed",
-      "upright": false,
-      "interpretation": "end of conflict, cooperation, agreements, truces, harmony, peace, avoiding conflict"
+      "code": "w13",
+      "name": "Queen of Wands",
+      "upright": true,
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "c12",
-      "name": "Knight of Cups",
+      "code": "p6",
+      "name": "6 of Pentacles",
       "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
+      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
     }
   ]
 }
