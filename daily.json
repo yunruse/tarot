@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "s5",
+      "name": "5 of Swords",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords, reversed",
+      "code": "0",
+      "name": "0 The Fool",
+      "upright": true,
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+    },
+    {
+      "code": "w14",
+      "name": "King of Wands, reversed",
       "upright": false,
-      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
-    },
-    {
-      "code": "8",
-      "name": "\u2167 Strength",
-      "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
     }
   ]
 }
