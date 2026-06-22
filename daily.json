@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "cards": [
     {
-      "code": "s5",
-      "name": "5 of Swords",
+      "code": "p10",
+      "name": "10 of Pentacles",
       "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
       "code": "0",
-      "name": "0 The Fool",
-      "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "name": "0 The Fool, reversed",
+      "upright": false,
+      "interpretation": "reckless, careless, distracted, naive, foolish, gullible, stale, dull"
     },
     {
-      "code": "w14",
-      "name": "King of Wands, reversed",
-      "upright": false,
-      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
+      "code": "c11",
+      "name": "Page of Cups",
+      "upright": true,
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     }
   ]
 }
