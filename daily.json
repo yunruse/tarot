@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "cards": [
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
+      "code": "5",
+      "name": "\u2164 The Hierophant",
       "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     },
     {
-      "code": "w10",
-      "name": "10 of Wands",
+      "code": "c5",
+      "name": "5 of Cups",
       "upright": true,
-      "interpretation": "burden, responsibility, duty, stress, obligation, burning out, struggles"
+      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups, reversed",
-      "upright": false,
-      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
+      "code": "c11",
+      "name": "Page of Cups",
+      "upright": true,
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     }
   ]
 }
