@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "cards": [
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "w10",
+      "name": "10 of Wands",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "burden, responsibility, duty, stress, obligation, burning out, struggles"
     },
     {
-      "code": "c5",
-      "name": "5 of Cups",
-      "upright": true,
-      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
+      "code": "w13",
+      "name": "Queen of Wands, reversed",
+      "upright": false,
+      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups",
-      "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+      "code": "p14",
+      "name": "King of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
     }
   ]
 }
