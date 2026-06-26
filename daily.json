@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "cards": [
     {
-      "code": "w10",
-      "name": "10 of Wands",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "burden, responsibility, duty, stress, obligation, burning out, struggles"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     },
     {
-      "code": "w13",
-      "name": "Queen of Wands, reversed",
-      "upright": false,
-      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune",
+      "upright": true,
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     },
     {
-      "code": "p14",
-      "name": "King of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
+      "upright": true,
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     }
   ]
 }
