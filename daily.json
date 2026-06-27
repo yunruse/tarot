@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "cards": [
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "p11",
+      "name": "Page of Pentacles",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
     },
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
-      "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "code": "c13",
+      "name": "Queen of Cups, reversed",
+      "upright": false,
+      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
-      "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "code": "5",
+      "name": "\u2164 The Hierophant, reversed",
+      "upright": false,
+      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
     }
   ]
 }
