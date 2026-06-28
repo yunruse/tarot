@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "cards": [
     {
-      "code": "p11",
-      "name": "Page of Pentacles",
+      "code": "s9",
+      "name": "9 of Swords",
       "upright": true,
-      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
+      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
     },
     {
-      "code": "c13",
-      "name": "Queen of Cups, reversed",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man, reversed",
       "upright": false,
-      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
+      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
     },
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant, reversed",
+      "code": "w10",
+      "name": "10 of Wands, reversed",
       "upright": false,
-      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+      "interpretation": "failure to delegate, shouldering too much responsibility, collapse, breakdown"
     }
   ]
 }
