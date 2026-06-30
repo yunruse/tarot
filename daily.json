@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "cards": [
     {
-      "code": "w7",
-      "name": "7 of Wands",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
-      "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
-    },
-    {
-      "code": "w6",
-      "name": "6 of Wands, reversed",
+      "code": "p13",
+      "name": "Queen of Pentacles, reversed",
       "upright": false,
-      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
+      "interpretation": "selfish, unkempt, jealous, insecure, greedy, materialistic, gold digger, intolerant, self-absorbed, envious"
+    },
+    {
+      "code": "13",
+      "name": "\u2169\u2162 Death",
+      "upright": true,
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     }
   ]
 }
