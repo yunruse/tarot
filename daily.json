@@ -1,23 +1,23 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "cards": [
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "w9",
+      "name": "9 of Wands",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
     },
     {
-      "code": "p13",
-      "name": "Queen of Pentacles, reversed",
+      "code": "p12",
+      "name": "Knight of Pentacles, reversed",
       "upright": false,
-      "interpretation": "selfish, unkempt, jealous, insecure, greedy, materialistic, gold digger, intolerant, self-absorbed, envious"
+      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
     },
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
-      "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "code": "w8",
+      "name": "8 of Wands, reversed",
+      "upright": false,
+      "interpretation": "waiting, slowness, chaos, delays, losing momentum, hastiness, being unprepared"
     }
   ]
 }
