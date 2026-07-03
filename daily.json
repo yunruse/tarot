@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "cards": [
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
+      "code": "p12",
+      "name": "Knight of Pentacles",
       "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     },
     {
-      "code": "s3",
-      "name": "3 of Swords",
-      "upright": true,
-      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
-    },
-    {
-      "code": "c3",
-      "name": "3 of Cups, reversed",
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune, reversed",
       "upright": false,
-      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
+      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
+    },
+    {
+      "code": "c9",
+      "name": "9 of Cups",
+      "upright": true,
+      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
     }
   ]
 }
