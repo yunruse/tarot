@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "cards": [
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
-      "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
-    },
-    {
       "code": "10",
-      "name": "\u2169 Wheel of Fortune, reversed",
-      "upright": false,
-      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
+      "name": "\u2169 Wheel of Fortune",
+      "upright": true,
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     },
     {
-      "code": "c9",
-      "name": "9 of Cups",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+    },
+    {
+      "code": "p14",
+      "name": "King of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
     }
   ]
 }
