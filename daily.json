@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "cards": [
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "s2",
+      "name": "2 of Swords",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups, reversed",
+      "code": "s12",
+      "name": "Knight of Swords",
+      "upright": true,
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+    },
+    {
+      "code": "p4",
+      "name": "4 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
-    },
-    {
-      "code": "p2",
-      "name": "2 of Pentacles",
-      "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
     }
   ]
 }
