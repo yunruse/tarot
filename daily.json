@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "cards": [
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "c2",
+      "name": "2 of Cups",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
     },
     {
-      "code": "s14",
-      "name": "King of Swords",
+      "code": "7",
+      "name": "\u2166 The Chariot",
       "upright": true,
-      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups, reversed",
+      "code": "p10",
+      "name": "10 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
     }
   ]
 }
