@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "cards": [
     {
-      "code": "c2",
-      "name": "2 of Cups",
+      "code": "s8",
+      "name": "8 of Swords",
       "upright": true,
-      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
+      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
     },
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
-      "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
-    },
-    {
-      "code": "p10",
-      "name": "10 of Pentacles, reversed",
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+    },
+    {
+      "code": "w9",
+      "name": "9 of Wands, reversed",
+      "upright": false,
+      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
     }
   ]
 }
