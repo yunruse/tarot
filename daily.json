@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "cards": [
     {
-      "code": "s8",
-      "name": "8 of Swords",
+      "code": "p13",
+      "name": "Queen of Pentacles",
       "upright": true,
-      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles, reversed",
+      "code": "c6",
+      "name": "6 of Cups, reversed",
       "upright": false,
-      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+      "interpretation": "stuck in past, moving forward, leaving home, independence"
     },
     {
-      "code": "w9",
-      "name": "9 of Wands, reversed",
+      "code": "11",
+      "name": "\u2169\u2160 Justice, reversed",
       "upright": false,
-      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
+      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
     }
   ]
 }
