@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "cards": [
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
-      "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
-    },
-    {
       "code": "c6",
-      "name": "6 of Cups, reversed",
-      "upright": false,
-      "interpretation": "stuck in past, moving forward, leaving home, independence"
+      "name": "6 of Cups",
+      "upright": true,
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice, reversed",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man, reversed",
       "upright": false,
-      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
+      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
+    },
+    {
+      "code": "1",
+      "name": "\u2160 The Magician",
+      "upright": true,
+      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
     }
   ]
 }
