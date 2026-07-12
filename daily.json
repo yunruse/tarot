@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "cards": [
     {
-      "code": "c6",
-      "name": "6 of Cups",
+      "code": "p8",
+      "name": "8 of Pentacles",
       "upright": true,
-      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
+      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
     },
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man, reversed",
+      "code": "s3",
+      "name": "3 of Swords",
+      "upright": true,
+      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
+    },
+    {
+      "code": "w7",
+      "name": "7 of Wands, reversed",
       "upright": false,
-      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
-    },
-    {
-      "code": "1",
-      "name": "\u2160 The Magician",
-      "upright": true,
-      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
+      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
     }
   ]
 }
