@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "cards": [
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
-    },
-    {
-      "code": "s3",
-      "name": "3 of Swords",
-      "upright": true,
-      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     },
     {
       "code": "w7",
       "name": "7 of Wands, reversed",
       "upright": false,
       "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
+    },
+    {
+      "code": "0",
+      "name": "0 The Fool",
+      "upright": true,
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     }
   ]
 }
