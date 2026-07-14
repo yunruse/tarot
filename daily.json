@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "cards": [
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "w14",
+      "name": "King of Wands",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
     },
     {
-      "code": "w7",
-      "name": "7 of Wands, reversed",
-      "upright": false,
-      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
+      "code": "c14",
+      "name": "King of Cups",
+      "upright": true,
+      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
     },
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "c7",
+      "name": "7 of Cups",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     }
   ]
 }
