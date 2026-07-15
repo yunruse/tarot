@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "cards": [
     {
-      "code": "w14",
-      "name": "King of Wands",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "c14",
-      "name": "King of Cups",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups",
-      "upright": true,
-      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
     }
   ]
 }
