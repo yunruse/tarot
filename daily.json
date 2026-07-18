@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords",
-      "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "code": "p3",
+      "name": "3 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
     },
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
-      "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "code": "s14",
+      "name": "King of Swords, reversed",
+      "upright": false,
+      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
     }
   ]
 }
