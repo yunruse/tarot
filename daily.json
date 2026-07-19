@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "cards": [
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "p3",
-      "name": "3 of Pentacles, reversed",
+      "code": "c4",
+      "name": "4 of Cups, reversed",
       "upright": false,
-      "interpretation": "lack of cohesion, lack of teamwork, apathy, poor motivation, conflict, ego, competition"
+      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
     },
     {
-      "code": "s14",
-      "name": "King of Swords, reversed",
+      "code": "c13",
+      "name": "Queen of Cups, reversed",
       "upright": false,
-      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
+      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
     }
   ]
 }
