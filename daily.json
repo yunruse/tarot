@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "cards": [
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
       "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups, reversed",
-      "upright": false,
-      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+      "code": "7",
+      "name": "\u2166 The Chariot",
+      "upright": true,
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower, reversed",
+      "code": "p4",
+      "name": "4 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "averting disaster, delaying the inevitable, resisting change"
+      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
     }
   ]
 }
