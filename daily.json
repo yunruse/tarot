@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "cards": [
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
+      "code": "c7",
+      "name": "7 of Cups",
       "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     },
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
+      "code": "c5",
+      "name": "5 of Cups",
       "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
     },
     {
-      "code": "p4",
-      "name": "4 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
+      "code": "c11",
+      "name": "Page of Cups",
+      "upright": true,
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     }
   ]
 }
