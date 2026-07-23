@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "cards": [
     {
       "code": "c7",
@@ -8,16 +8,16 @@
       "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     },
     {
-      "code": "c5",
-      "name": "5 of Cups",
+      "code": "w4",
+      "name": "4 of Wands",
       "upright": true,
-      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups",
+      "code": "5",
+      "name": "\u2164 The Hierophant",
       "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     }
   ]
 }
