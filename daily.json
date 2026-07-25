@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "cards": [
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "w4",
+      "name": "4 of Wands",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
     },
     {
-      "code": "1",
-      "name": "\u2160 The Magician",
-      "upright": true,
-      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
-    },
-    {
-      "code": "p10",
-      "name": "10 of Pentacles, reversed",
+      "code": "s8",
+      "name": "8 of Swords, reversed",
       "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+      "interpretation": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
+    },
+    {
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune, reversed",
+      "upright": false,
+      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
     }
   ]
 }
