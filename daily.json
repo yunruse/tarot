@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "cards": [
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
+      "code": "c7",
+      "name": "7 of Cups",
       "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups, reversed",
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
     },
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
-      "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
+      "code": "0",
+      "name": "0 The Fool, reversed",
+      "upright": false,
+      "interpretation": "reckless, careless, distracted, naive, foolish, gullible, stale, dull"
     }
   ]
 }
