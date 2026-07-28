@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "cards": [
     {
-      "code": "c7",
-      "name": "7 of Cups",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower",
       "upright": true,
-      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
+      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+      "code": "s2",
+      "name": "2 of Swords",
+      "upright": true,
+      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
     },
     {
-      "code": "0",
-      "name": "0 The Fool, reversed",
-      "upright": false,
-      "interpretation": "reckless, careless, distracted, naive, foolish, gullible, stale, dull"
+      "code": "w9",
+      "name": "9 of Wands",
+      "upright": true,
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
     }
   ]
 }
