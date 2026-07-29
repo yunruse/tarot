@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "cards": [
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
+      "code": "p14",
+      "name": "King of Pentacles",
       "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     },
     {
-      "code": "s2",
-      "name": "2 of Swords",
-      "upright": true,
-      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
+      "code": "p4",
+      "name": "4 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
     },
     {
-      "code": "w9",
-      "name": "9 of Wands",
-      "upright": true,
-      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
+      "code": "w4",
+      "name": "4 of Wands, reversed",
+      "upright": false,
+      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
     }
   ]
 }
