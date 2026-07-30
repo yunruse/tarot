@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "cards": [
     {
-      "code": "p14",
-      "name": "King of Pentacles",
+      "code": "w12",
+      "name": "Knight of Wands",
       "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
     },
     {
-      "code": "p4",
-      "name": "4 of Pentacles, reversed",
+      "code": "s7",
+      "name": "7 of Swords, reversed",
       "upright": false,
-      "interpretation": "generosity, giving, spending, openness, financial insecurity, reckless spending"
+      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands, reversed",
-      "upright": false,
-      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
+      "code": "c12",
+      "name": "Knight of Cups",
+      "upright": true,
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     }
   ]
 }
