@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "cards": [
     {
-      "code": "w12",
-      "name": "Knight of Wands",
+      "code": "c2",
+      "name": "2 of Cups",
       "upright": true,
-      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
+      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
     },
     {
-      "code": "s7",
-      "name": "7 of Swords, reversed",
+      "code": "s5",
+      "name": "5 of Swords",
+      "upright": true,
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+    },
+    {
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man, reversed",
       "upright": false,
-      "interpretation": "confession, conscience, regret, maliciousness, truth revealed"
-    },
-    {
-      "code": "c12",
-      "name": "Knight of Cups",
-      "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
+      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
     }
   ]
 }
