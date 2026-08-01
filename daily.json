@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "cards": [
     {
-      "code": "c2",
-      "name": "2 of Cups",
+      "code": "c11",
+      "name": "Page of Cups",
       "upright": true,
-      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     },
     {
-      "code": "s5",
-      "name": "5 of Swords",
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
       "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     },
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man, reversed",
-      "upright": false,
-      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
+      "upright": true,
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     }
   ]
 }
