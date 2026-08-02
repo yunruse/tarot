@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "cards": [
     {
-      "code": "c11",
-      "name": "Page of Cups",
+      "code": "c3",
+      "name": "3 of Cups",
       "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
     },
     {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
+      "code": "w8",
+      "name": "8 of Wands",
       "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
     }
   ]
 }
