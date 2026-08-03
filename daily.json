@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "cards": [
     {
-      "code": "c3",
-      "name": "3 of Cups",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
+      "code": "w3",
+      "name": "3 of Wands",
       "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
     },
     {
-      "code": "w8",
-      "name": "8 of Wands",
-      "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "code": "c11",
+      "name": "Page of Cups, reversed",
+      "upright": false,
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
     }
   ]
 }
