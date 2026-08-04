@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "cards": [
     {
-      "code": "w13",
-      "name": "Queen of Wands",
+      "code": "w11",
+      "name": "Page of Wands",
       "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
     },
     {
-      "code": "w3",
-      "name": "3 of Wands",
-      "upright": true,
-      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
+      "code": "c1",
+      "name": "Ace of Cups, reversed",
+      "upright": false,
+      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
     },
     {
       "code": "c11",
-      "name": "Page of Cups, reversed",
-      "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+      "name": "Page of Cups",
+      "upright": true,
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     }
   ]
 }
