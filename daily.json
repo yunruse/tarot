@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "cards": [
     {
-      "code": "w11",
-      "name": "Page of Wands",
+      "code": "w12",
+      "name": "Knight of Wands",
       "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
     },
     {
-      "code": "c1",
-      "name": "Ace of Cups, reversed",
-      "upright": false,
-      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
+      "upright": true,
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     }
   ]
 }
