@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "cards": [
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "s1",
+      "name": "Ace of Swords",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups",
-      "upright": true,
-      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
+      "code": "s12",
+      "name": "Knight of Swords, reversed",
+      "upright": false,
+      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
     },
     {
-      "code": "p14",
-      "name": "King of Pentacles",
-      "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
     }
   ]
 }
