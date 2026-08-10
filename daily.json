@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "cards": [
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "c11",
+      "name": "Page of Cups",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "idealism, sensitivity, dreamer, naivete, innocence, inner child, head in the clouds"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords, reversed",
+      "code": "w7",
+      "name": "7 of Wands, reversed",
       "upright": false,
-      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
+      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles, reversed",
+      "code": "13",
+      "name": "\u2169\u2162 Death, reversed",
       "upright": false,
-      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+      "interpretation": "fear of change, repeating negative patterns, resisting change, stagnancy, decay"
     }
   ]
 }
