@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "cards": [
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "13",
+      "name": "\u2169\u2162 Death",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     },
     {
-      "code": "1",
-      "name": "\u2160 The Magician",
+      "code": "w11",
+      "name": "Page of Wands",
       "upright": true,
-      "interpretation": "willpower, desire, being resourceful, skill, ability, concentration, manifestation"
+      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
     },
     {
-      "code": "w10",
-      "name": "10 of Wands, reversed",
+      "code": "c6",
+      "name": "6 of Cups, reversed",
       "upright": false,
-      "interpretation": "failure to delegate, shouldering too much responsibility, collapse, breakdown"
+      "interpretation": "stuck in past, moving forward, leaving home, independence"
     }
   ]
 }
