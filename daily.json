@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "cards": [
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     },
     {
-      "code": "w11",
-      "name": "Page of Wands",
-      "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
-    },
-    {
-      "code": "c6",
-      "name": "6 of Cups, reversed",
+      "code": "w7",
+      "name": "7 of Wands, reversed",
       "upright": false,
-      "interpretation": "stuck in past, moving forward, leaving home, independence"
+      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
+    },
+    {
+      "code": "s1",
+      "name": "Ace of Swords",
+      "upright": true,
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     }
   ]
 }
