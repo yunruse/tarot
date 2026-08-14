@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "cards": [
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "w7",
-      "name": "7 of Wands, reversed",
-      "upright": false,
-      "interpretation": "giving up, admitting defeat, yielding, lack of self belief, surrender"
+      "code": "9",
+      "name": "\u2168 The Hermit",
+      "upright": true,
+      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "p11",
+      "name": "Page of Pentacles",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
     }
   ]
 }
