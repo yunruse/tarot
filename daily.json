@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "0",
+      "name": "0 The Fool",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit",
+      "code": "c12",
+      "name": "Knight of Cups",
       "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     },
     {
-      "code": "p11",
-      "name": "Page of Pentacles",
-      "upright": true,
-      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
+      "code": "19",
+      "name": "\u2169\u2168 The Sun, reversed",
+      "upright": false,
+      "interpretation": "blocked happiness, excessive enthusiasm, pessimism, unrealistic expectations, conceitedness"
     }
   ]
 }
