@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "cards": [
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "p13",
+      "name": "Queen of Pentacles",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     },
     {
-      "code": "c12",
-      "name": "Knight of Cups",
-      "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
-    },
-    {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun, reversed",
+      "code": "2",
+      "name": "\u2161 The High Priestess, reversed",
       "upright": false,
-      "interpretation": "blocked happiness, excessive enthusiasm, pessimism, unrealistic expectations, conceitedness"
+      "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
+    },
+    {
+      "code": "p12",
+      "name": "Knight of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
     }
   ]
 }
