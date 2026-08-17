@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "cards": [
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
+      "code": "w12",
+      "name": "Knight of Wands",
       "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
+      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
     },
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess, reversed",
+      "code": "1",
+      "name": "\u2160 The Magician, reversed",
       "upright": false,
-      "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
+      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
     },
     {
-      "code": "p12",
-      "name": "Knight of Pentacles, reversed",
+      "code": "w2",
+      "name": "2 of Wands, reversed",
       "upright": false,
-      "interpretation": "workaholic, laziness, dull, boring, no initiative, cheap, irresponsible, gambler, risky investments"
+      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
     }
   ]
 }
