@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "cards": [
     {
-      "code": "w12",
-      "name": "Knight of Wands",
+      "code": "p5",
+      "name": "5 of Pentacles",
       "upright": true,
-      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
     },
     {
-      "code": "1",
-      "name": "\u2160 The Magician, reversed",
-      "upright": false,
-      "interpretation": "manipulation, cunning, trickery, wasted talent, illusion, deception"
+      "code": "c13",
+      "name": "Queen of Cups",
+      "upright": true,
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "w2",
-      "name": "2 of Wands, reversed",
+      "code": "8",
+      "name": "\u2167 Strength, reversed",
       "upright": false,
-      "interpretation": "bad planning, overanalyzing, not taking action, playing it safe, avoiding risk"
+      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
     }
   ]
 }
