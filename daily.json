@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "cards": [
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
-      "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
-    },
-    {
-      "code": "c10",
-      "name": "10 of Cups, reversed",
+      "code": "p9",
+      "name": "9 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "unhappy home, separation, domestic conflict, disharmony, isolation"
+      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+    },
+    {
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World, reversed",
+      "upright": false,
+      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
     }
   ]
 }
