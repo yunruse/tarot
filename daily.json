@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "cards": [
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
+      "code": "s12",
+      "name": "Knight of Swords",
       "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "being guarded, living beyond means, material instability, reckless spending, superficiality"
+      "code": "s1",
+      "name": "Ace of Swords",
+      "upright": true,
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World, reversed",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil, reversed",
       "upright": false,
-      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
+      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
     }
   ]
 }
