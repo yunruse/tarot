@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "cards": [
     {
-      "code": "s12",
-      "name": "Knight of Swords",
+      "code": "s9",
+      "name": "9 of Swords",
       "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     },
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil, reversed",
+      "code": "0",
+      "name": "0 The Fool, reversed",
       "upright": false,
-      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
+      "interpretation": "reckless, careless, distracted, naive, foolish, gullible, stale, dull"
     }
   ]
 }
