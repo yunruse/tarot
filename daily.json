@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "cards": [
     {
-      "code": "c13",
-      "name": "Queen of Cups",
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune",
       "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     },
     {
-      "code": "p9",
-      "name": "9 of Pentacles",
+      "code": "s8",
+      "name": "8 of Swords",
       "upright": true,
-      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
+      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
-      "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "code": "c1",
+      "name": "Ace of Cups, reversed",
+      "upright": false,
+      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
     }
   ]
 }
