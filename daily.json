@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "cards": [
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
+      "code": "p4",
+      "name": "4 of Pentacles",
       "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     },
     {
-      "code": "s8",
-      "name": "8 of Swords",
-      "upright": true,
-      "interpretation": "trapped, restricted, victimised, paralysed, helpless, powerless, imprisonment"
-    },
-    {
-      "code": "c1",
-      "name": "Ace of Cups, reversed",
+      "code": "p7",
+      "name": "7 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
+      "interpretation": "unfinished work, procrastination, low effort, waste, lack of growth, setbacks, impatience, lack of reward"
+    },
+    {
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
+      "upright": true,
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     }
   ]
 }
