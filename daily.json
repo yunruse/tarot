@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "cards": [
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
+      "code": "4",
+      "name": "\u2163 The Emperor",
       "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
     },
     {
-      "code": "p7",
-      "name": "7 of Pentacles, reversed",
+      "code": "13",
+      "name": "\u2169\u2162 Death",
+      "upright": true,
+      "interpretation": "transformation, endings, change, transition, letting go, release"
+    },
+    {
+      "code": "w11",
+      "name": "Page of Wands, reversed",
       "upright": false,
-      "interpretation": "unfinished work, procrastination, low effort, waste, lack of growth, setbacks, impatience, lack of reward"
-    },
-    {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
-      "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
     }
   ]
 }
