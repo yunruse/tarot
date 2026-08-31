@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "cards": [
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     },
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
-      "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
-    },
-    {
-      "code": "w11",
-      "name": "Page of Wands, reversed",
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
       "upright": false,
-      "interpretation": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreliable, distracted"
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+    },
+    {
+      "code": "s11",
+      "name": "Page of Swords, reversed",
+      "upright": false,
+      "interpretation": "scatterbrained, cynical, sarcastic, gossipy, insulting, rude, lack of planning"
     }
   ]
 }
