@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "cards": [
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
+      "code": "c7",
+      "name": "7 of Cups, reversed",
       "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
+      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
     },
     {
-      "code": "s11",
-      "name": "Page of Swords, reversed",
+      "code": "w6",
+      "name": "6 of Wands, reversed",
       "upright": false,
-      "interpretation": "scatterbrained, cynical, sarcastic, gossipy, insulting, rude, lack of planning"
+      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
     }
   ]
 }
