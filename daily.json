@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "cards": [
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
       "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups, reversed",
+      "code": "p8",
+      "name": "8 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
+      "interpretation": "lack of quality, rushed job, bad reputation, lack of motivation, mediocrity, laziness, low skill, dead-end job"
     },
     {
-      "code": "w6",
-      "name": "6 of Wands, reversed",
+      "code": "p7",
+      "name": "7 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "failure, lack of recognition, no rewards, lack of achievement"
+      "interpretation": "unfinished work, procrastination, low effort, waste, lack of growth, setbacks, impatience, lack of reward"
     }
   ]
 }
