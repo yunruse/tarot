@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "cards": [
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "c13",
-      "name": "Queen of Cups, reversed",
+      "code": "w4",
+      "name": "4 of Wands",
+      "upright": true,
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
+    },
+    {
+      "code": "17",
+      "name": "\u2169\u2166 The Star, reversed",
       "upright": false,
-      "interpretation": "insecurity, giving too much, overly-sensitive, needy, fragile, dependence, martyrdom"
-    },
-    {
-      "code": "0",
-      "name": "0 The Fool",
-      "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
     }
   ]
 }
