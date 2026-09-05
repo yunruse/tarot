@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "c12",
+      "name": "Knight of Cups",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands",
-      "upright": true,
-      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
-    },
-    {
-      "code": "17",
-      "name": "\u2169\u2166 The Star, reversed",
+      "code": "c1",
+      "name": "Ace of Cups, reversed",
       "upright": false,
-      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
+      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
+    },
+    {
+      "code": "w14",
+      "name": "King of Wands",
+      "upright": true,
+      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
     }
   ]
 }
