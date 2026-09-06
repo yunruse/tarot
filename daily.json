@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "cards": [
     {
       "code": "c12",
@@ -8,16 +8,16 @@
       "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     },
     {
-      "code": "c1",
-      "name": "Ace of Cups, reversed",
+      "code": "w8",
+      "name": "8 of Wands, reversed",
       "upright": false,
-      "interpretation": "coldness, emptiness, emotional loss, blocked creativity, feeling unloved, gloominess"
+      "interpretation": "waiting, slowness, chaos, delays, losing momentum, hastiness, being unprepared"
     },
     {
-      "code": "w14",
-      "name": "King of Wands",
-      "upright": true,
-      "interpretation": "leadership, vision, big picture, taking control, daring decisions, boldness, optimism"
+      "code": "c8",
+      "name": "8 of Cups, reversed",
+      "upright": false,
+      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
     }
   ]
 }
