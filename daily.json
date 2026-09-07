@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "cards": [
     {
-      "code": "c12",
-      "name": "Knight of Cups",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
       "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     },
     {
-      "code": "w8",
-      "name": "8 of Wands, reversed",
-      "upright": false,
-      "interpretation": "waiting, slowness, chaos, delays, losing momentum, hastiness, being unprepared"
+      "code": "7",
+      "name": "\u2166 The Chariot",
+      "upright": true,
+      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups, reversed",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance, reversed",
       "upright": false,
-      "interpretation": "stagnation, monotony, accepting less, avoidance, fear of change, staying in bad situation"
+      "interpretation": "imbalance, excess, extremes, discord, recklessness, hastiness"
     }
   ]
 }
