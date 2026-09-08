@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "cards": [
+    {
+      "code": "16",
+      "name": "\u2169\u2165 The Tower",
+      "upright": true,
+      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+    },
+    {
+      "code": "c12",
+      "name": "Knight of Cups, reversed",
+      "upright": false,
+      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
+    },
     {
       "code": "21",
       "name": "\u2169\u2169\u2160 The World",
       "upright": true,
       "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
-    },
-    {
-      "code": "7",
-      "name": "\u2166 The Chariot",
-      "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
-    },
-    {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance, reversed",
-      "upright": false,
-      "interpretation": "imbalance, excess, extremes, discord, recklessness, hastiness"
     }
   ]
 }
