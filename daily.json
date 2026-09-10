@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "cards": [
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
+      "code": "w9",
+      "name": "9 of Wands",
       "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+      "interpretation": "last stand, persistence, grit, resilience, perseverance, close to success, fatigue"
+    },
+    {
+      "code": "c11",
+      "name": "Page of Cups, reversed",
+      "upright": false,
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
     },
     {
       "code": "p13",
-      "name": "Queen of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "selfish, unkempt, jealous, insecure, greedy, materialistic, gold digger, intolerant, self-absorbed, envious"
-    },
-    {
-      "code": "p10",
-      "name": "10 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+      "name": "Queen of Pentacles",
+      "upright": true,
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     }
   ]
 }
