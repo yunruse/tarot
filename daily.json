@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "cards": [
     {
+      "code": "w7",
+      "name": "7 of Wands",
+      "upright": true,
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
+    },
+    {
+      "code": "p2",
+      "name": "2 of Pentacles",
+      "upright": true,
+      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+    },
+    {
       "code": "w13",
-      "name": "Queen of Wands",
-      "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
-    },
-    {
-      "code": "p11",
-      "name": "Page of Pentacles, reversed",
+      "name": "Queen of Wands, reversed",
       "upright": false,
-      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
-    },
-    {
-      "code": "c3",
-      "name": "3 of Cups",
-      "upright": true,
-      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
     }
   ]
 }
