@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "cards": [
     {
-      "code": "7",
-      "name": "\u2166 The Chariot",
+      "code": "p12",
+      "name": "Knight of Pentacles",
       "upright": true,
-      "interpretation": "success, ambition, determination, willpower, control, self-discipline, focus"
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     },
     {
-      "code": "p7",
-      "name": "7 of Pentacles",
+      "code": "5",
+      "name": "\u2164 The Hierophant",
       "upright": true,
-      "interpretation": "harvest, rewards, results, growth, progress, perseverance, patience, planning"
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     },
     {
-      "code": "c1",
-      "name": "Ace of Cups",
-      "upright": true,
-      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
+      "code": "p5",
+      "name": "5 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
     }
   ]
 }
