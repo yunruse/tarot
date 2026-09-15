@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "cards": [
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
-      "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
-    },
-    {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
-      "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
-    },
-    {
       "code": "p5",
-      "name": "5 of Pentacles, reversed",
-      "upright": false,
-      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
+      "name": "5 of Pentacles",
+      "upright": true,
+      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+    },
+    {
+      "code": "p2",
+      "name": "2 of Pentacles",
+      "upright": true,
+      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+    },
+    {
+      "code": "c9",
+      "name": "9 of Cups",
+      "upright": true,
+      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
     }
   ]
 }
