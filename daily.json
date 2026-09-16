@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "cards": [
     {
-      "code": "p5",
-      "name": "5 of Pentacles",
+      "code": "s7",
+      "name": "7 of Swords",
       "upright": true,
-      "interpretation": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unemployment, alienation, disgrace"
+      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
     },
     {
-      "code": "p2",
-      "name": "2 of Pentacles",
-      "upright": true,
-      "interpretation": "balancing resources, adaptation, resourcefulness, flexibility, stretching resources"
+      "code": "11",
+      "name": "\u2169\u2160 Justice, reversed",
+      "upright": false,
+      "interpretation": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
     },
     {
-      "code": "c9",
-      "name": "9 of Cups",
+      "code": "c6",
+      "name": "6 of Cups",
       "upright": true,
-      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     }
   ]
 }
