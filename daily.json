@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "cards": [
     {
-      "code": "p1",
-      "name": "Ace of Pentacles",
+      "code": "w1",
+      "name": "Ace of Wands",
       "upright": true,
-      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     },
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "c7",
-      "name": "7 of Cups, reversed",
-      "upright": false,
-      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
+      "code": "s5",
+      "name": "5 of Swords",
+      "upright": true,
+      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
     }
   ]
 }
