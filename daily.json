@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "cards": [
     {
-      "code": "w1",
-      "name": "Ace of Wands",
+      "code": "c13",
+      "name": "Queen of Cups",
       "upright": true,
-      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
-      "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "code": "c11",
+      "name": "Page of Cups, reversed",
+      "upright": false,
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
     },
     {
-      "code": "s5",
-      "name": "5 of Swords",
-      "upright": true,
-      "interpretation": "arguments, disputes, aggression, bullying, intimidation, conflict, hostility, stress"
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World, reversed",
+      "upright": false,
+      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
     }
   ]
 }
