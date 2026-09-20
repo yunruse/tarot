@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "cards": [
     {
-      "code": "c13",
-      "name": "Queen of Cups",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
       "upright": true,
-      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
     },
     {
-      "code": "c11",
-      "name": "Page of Cups, reversed",
-      "upright": false,
-      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+      "code": "c7",
+      "name": "7 of Cups",
+      "upright": true,
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     },
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World, reversed",
-      "upright": false,
-      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
+      "code": "s13",
+      "name": "Queen of Swords",
+      "upright": true,
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
     }
   ]
 }
