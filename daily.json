@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "cards": [
-    {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance",
-      "upright": true,
-      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
-    },
-    {
-      "code": "c7",
-      "name": "7 of Cups",
-      "upright": true,
-      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
-    },
     {
       "code": "s13",
       "name": "Queen of Swords",
       "upright": true,
       "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+    },
+    {
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
+      "upright": true,
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+    },
+    {
+      "code": "s4",
+      "name": "4 of Swords",
+      "upright": true,
+      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
     }
   ]
 }
