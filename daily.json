@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "cards": [
     {
-      "code": "s13",
-      "name": "Queen of Swords",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "w7",
+      "name": "7 of Wands",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance",
       "upright": true,
-      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+      "interpretation": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
     }
   ]
 }
