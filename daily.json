@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "cards": [
     {
-      "code": "p11",
-      "name": "Page of Pentacles",
+      "code": "p3",
+      "name": "3 of Pentacles",
       "upright": true,
-      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     },
     {
-      "code": "c3",
-      "name": "3 of Cups, reversed",
-      "upright": false,
-      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
+      "code": "9",
+      "name": "\u2168 The Hermit",
+      "upright": true,
+      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
     },
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil, reversed",
-      "upright": false,
-      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
+      "code": "2",
+      "name": "\u2161 The High Priestess",
+      "upright": true,
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     }
   ]
 }
