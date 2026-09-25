@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "cards": [
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit",
+      "code": "p14",
+      "name": "King of Pentacles",
       "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     },
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
-      "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "code": "p8",
+      "name": "8 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "lack of quality, rushed job, bad reputation, lack of motivation, mediocrity, laziness, low skill, dead-end job"
     }
   ]
 }
