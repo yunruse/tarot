@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "cards": [
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "18",
+      "name": "\u2169\u2167 The Moon",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
     },
     {
-      "code": "p14",
-      "name": "King of Pentacles",
-      "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
-    },
-    {
-      "code": "p8",
-      "name": "8 of Pentacles, reversed",
+      "code": "8",
+      "name": "\u2167 Strength, reversed",
       "upright": false,
-      "interpretation": "lack of quality, rushed job, bad reputation, lack of motivation, mediocrity, laziness, low skill, dead-end job"
+      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
+    },
+    {
+      "code": "14",
+      "name": "\u2169\u2163 Temperance, reversed",
+      "upright": false,
+      "interpretation": "imbalance, excess, extremes, discord, recklessness, hastiness"
     }
   ]
 }
