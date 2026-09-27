@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "cards": [
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon",
+      "code": "p4",
+      "name": "4 of Pentacles",
       "upright": true,
-      "interpretation": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
+      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength, reversed",
-      "upright": false,
-      "interpretation": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
+      "code": "p10",
+      "name": "10 of Pentacles",
+      "upright": true,
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance, reversed",
-      "upright": false,
-      "interpretation": "imbalance, excess, extremes, discord, recklessness, hastiness"
+      "code": "s9",
+      "name": "9 of Swords",
+      "upright": true,
+      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
     }
   ]
 }
