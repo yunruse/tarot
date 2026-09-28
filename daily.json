@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "cards": [
     {
-      "code": "p4",
-      "name": "4 of Pentacles",
+      "code": "c13",
+      "name": "Queen of Cups",
       "upright": true,
-      "interpretation": "possessiveness, insecurity, hoarding, stinginess, stability, security, savings, materialism, wealth, frugality, boundaries, guardedness"
+      "interpretation": "compassion, warmth, kindness, intuition, healer, counsellor, supportive"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
-      "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "code": "s4",
+      "name": "4 of Swords, reversed",
+      "upright": false,
+      "interpretation": "recovery, awakening, re-entering world, release from isolation, restlessness, burnout"
     },
     {
-      "code": "s9",
-      "name": "9 of Swords",
-      "upright": true,
-      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
+      "code": "9",
+      "name": "\u2168 The Hermit, reversed",
+      "upright": false,
+      "interpretation": "loneliness, isolation, recluse, being anti-social, rejection, returning to society"
     }
   ]
 }
