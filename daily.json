@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "cards": [
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "w14",
-      "name": "King of Wands, reversed",
+      "code": "s13",
+      "name": "Queen of Swords, reversed",
       "upright": false,
-      "interpretation": "forceful, domineering, tyrant, vicious, powerless, ineffective, weak leader"
+      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
     },
     {
-      "code": "s10",
-      "name": "10 of Swords, reversed",
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune, reversed",
       "upright": false,
-      "interpretation": "survival, improvement, healing, lessons learned, despair, relapse"
+      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
     }
   ]
 }
