@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "cards": [
+    {
+      "code": "s13",
+      "name": "Queen of Swords",
+      "upright": true,
+      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+    },
+    {
+      "code": "c4",
+      "name": "4 of Cups, reversed",
+      "upright": false,
+      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+    },
     {
       "code": "3",
       "name": "\u2162 The Empress",
       "upright": true,
       "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
-    },
-    {
-      "code": "s13",
-      "name": "Queen of Swords, reversed",
-      "upright": false,
-      "interpretation": "pessimistic, malicious, manipulative, harsh, bitter, spiteful, cruel, deceitful, unforgiving"
-    },
-    {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune, reversed",
-      "upright": false,
-      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
     }
   ]
 }
