@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "cards": [
     {
-      "code": "s13",
-      "name": "Queen of Swords",
+      "code": "w8",
+      "name": "8 of Wands",
       "upright": true,
-      "interpretation": "honest, independent, principled, fair, constructive criticism, objective, perceptive"
+      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups, reversed",
+      "code": "2",
+      "name": "\u2161 The High Priestess, reversed",
       "upright": false,
-      "interpretation": "clarity, awareness, acceptance, choosing happiness, depression, negativity"
+      "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
     },
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
     }
   ]
 }
