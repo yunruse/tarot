@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "cards": [
     {
-      "code": "w8",
-      "name": "8 of Wands",
+      "code": "s14",
+      "name": "King of Swords",
       "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
     },
     {
       "code": "2",
-      "name": "\u2161 The High Priestess, reversed",
-      "upright": false,
-      "interpretation": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
+      "name": "\u2161 The High Priestess",
+      "upright": true,
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
+      "code": "w7",
+      "name": "7 of Wands",
       "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
     }
   ]
 }
