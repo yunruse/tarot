@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "cards": [
     {
-      "code": "s14",
-      "name": "King of Swords",
+      "code": "13",
+      "name": "\u2169\u2162 Death",
       "upright": true,
-      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
+      "interpretation": "transformation, endings, change, transition, letting go, release"
     },
     {
-      "code": "2",
-      "name": "\u2161 The High Priestess",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "w7",
-      "name": "7 of Wands",
-      "upright": true,
-      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
+      "code": "s2",
+      "name": "2 of Swords, reversed",
+      "upright": false,
+      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
     }
   ]
 }
