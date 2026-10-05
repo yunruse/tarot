@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "cards": [
     {
-      "code": "13",
-      "name": "\u2169\u2162 Death",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "transformation, endings, change, transition, letting go, release"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "w13",
-      "name": "Queen of Wands",
-      "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
-    },
-    {
-      "code": "s2",
-      "name": "2 of Swords, reversed",
+      "code": "s1",
+      "name": "Ace of Swords, reversed",
       "upright": false,
-      "interpretation": "indecision, hesitancy, anxiety, too much information, no right choice, truth revealed"
+      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
+    },
+    {
+      "code": "s14",
+      "name": "King of Swords, reversed",
+      "upright": false,
+      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
     }
   ]
 }
