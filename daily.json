@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords, reversed",
-      "upright": false,
-      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
+      "code": "8",
+      "name": "\u2167 Strength",
+      "upright": true,
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     },
     {
-      "code": "s14",
-      "name": "King of Swords, reversed",
+      "code": "p11",
+      "name": "Page of Pentacles, reversed",
       "upright": false,
-      "interpretation": "irrational, dictator, oppressive, inhumane, controlling, cold, ruthless, dishonest"
+      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
     }
   ]
 }
