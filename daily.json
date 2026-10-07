@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "cards": [
     {
-      "code": "21",
-      "name": "\u2169\u2169\u2160 The World",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "w11",
+      "name": "Page of Wands",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
     },
     {
-      "code": "p11",
-      "name": "Page of Pentacles, reversed",
+      "code": "p1",
+      "name": "Ace of Pentacles, reversed",
       "upright": false,
-      "interpretation": "foolish, immature, irresponsible, lazy, underachiever, procrastinator, missed chances, poor prospects"
+      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
     }
   ]
 }
