@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "cards": [
     {
-      "code": "w13",
-      "name": "Queen of Wands",
+      "code": "s3",
+      "name": "3 of Swords",
       "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
     },
     {
-      "code": "w11",
-      "name": "Page of Wands",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "adventure, excitement, fresh ideas, cheerfulness, energetic, fearless, extroverted"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     },
     {
-      "code": "p1",
-      "name": "Ace of Pentacles, reversed",
+      "code": "c10",
+      "name": "10 of Cups, reversed",
       "upright": false,
-      "interpretation": "missed chances, scarcity, deficiency, instability, stinginess, bad investments"
+      "interpretation": "unhappy home, separation, domestic conflict, disharmony, isolation"
     }
   ]
 }
