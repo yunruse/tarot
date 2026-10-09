@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "cards": [
     {
       "code": "s3",
@@ -8,16 +8,16 @@
       "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "w5",
+      "name": "5 of Wands",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "conflict, competition, arguments, aggression, tension, rivals, clashes of ego"
     },
     {
-      "code": "c10",
-      "name": "10 of Cups, reversed",
-      "upright": false,
-      "interpretation": "unhappy home, separation, domestic conflict, disharmony, isolation"
+      "code": "c4",
+      "name": "4 of Cups",
+      "upright": true,
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     }
   ]
 }
