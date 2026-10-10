@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "cards": [
     {
-      "code": "s3",
-      "name": "3 of Swords",
+      "code": "w13",
+      "name": "Queen of Wands",
       "upright": true,
-      "interpretation": "heartbreak, separation, sadness, grief, sorrow, upset, loss, trauma, tears"
+      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
     },
     {
-      "code": "w5",
-      "name": "5 of Wands",
-      "upright": true,
-      "interpretation": "conflict, competition, arguments, aggression, tension, rivals, clashes of ego"
+      "code": "p5",
+      "name": "5 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "p13",
+      "name": "Queen of Pentacles",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     }
   ]
 }
