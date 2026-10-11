@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "cards": [
     {
-      "code": "w13",
-      "name": "Queen of Wands",
+      "code": "s11",
+      "name": "Page of Swords",
       "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
     },
     {
-      "code": "p5",
-      "name": "5 of Pentacles, reversed",
+      "code": "c7",
+      "name": "7 of Cups, reversed",
       "upright": false,
-      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
+      "interpretation": "lack of purpose, disarray, confusion, diversion, distractions, clarity, making choices"
     },
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
+      "code": "s10",
+      "name": "10 of Swords",
       "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
+      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
     }
   ]
 }
