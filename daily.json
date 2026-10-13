@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "cards": [
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
+      "code": "w7",
+      "name": "7 of Wands",
       "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     },
     {
-      "code": "w8",
-      "name": "8 of Wands",
-      "upright": true,
-      "interpretation": "movement, speed, progress, quick decisions, sudden changes, excitement"
+      "code": "p14",
+      "name": "King of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
     }
   ]
 }
