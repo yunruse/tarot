@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "cards": [
     {
-      "code": "w7",
-      "name": "7 of Wands",
+      "code": "p13",
+      "name": "Queen of Pentacles",
       "upright": true,
-      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
+      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "p14",
-      "name": "King of Pentacles, reversed",
+      "code": "7",
+      "name": "\u2166 The Chariot, reversed",
       "upright": false,
-      "interpretation": "greed, materialistic, wasteful, chauvanist, poor financial decisions, gambler, exploitative, possessive"
+      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
     }
   ]
 }
