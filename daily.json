@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "cards": [
     {
-      "code": "p13",
-      "name": "Queen of Pentacles",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "generous, caring, nurturing, homebody, good business sense, practical, comforting, welcoming, sensible, luxurious"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
-      "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
-    },
-    {
-      "code": "7",
-      "name": "\u2166 The Chariot, reversed",
+      "code": "p5",
+      "name": "5 of Pentacles, reversed",
       "upright": false,
-      "interpretation": "forceful, no direction, no control, powerless, aggression, obstacles"
+      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
+    },
+    {
+      "code": "p8",
+      "name": "8 of Pentacles, reversed",
+      "upright": false,
+      "interpretation": "lack of quality, rushed job, bad reputation, lack of motivation, mediocrity, laziness, low skill, dead-end job"
     }
   ]
 }
