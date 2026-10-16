@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "cards": [
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "c6",
+      "name": "6 of Cups",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
     },
     {
-      "code": "p5",
-      "name": "5 of Pentacles, reversed",
+      "code": "c3",
+      "name": "3 of Cups, reversed",
       "upright": false,
-      "interpretation": "positive changes, recovery from loss, overcoming adversity, forgiveness, feeling welcomed"
+      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles, reversed",
+      "code": "s12",
+      "name": "Knight of Swords, reversed",
       "upright": false,
-      "interpretation": "lack of quality, rushed job, bad reputation, lack of motivation, mediocrity, laziness, low skill, dead-end job"
+      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
     }
   ]
 }
