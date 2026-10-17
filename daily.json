@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "cards": [
     {
-      "code": "c6",
-      "name": "6 of Cups",
+      "code": "c7",
+      "name": "7 of Cups",
       "upright": true,
-      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
+    },
+    {
+      "code": "p14",
+      "name": "King of Pentacles",
+      "upright": true,
+      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
     },
     {
       "code": "c3",
-      "name": "3 of Cups, reversed",
-      "upright": false,
-      "interpretation": "gossip, scandal, excess, isolation, loneliness, solitude, imbalanced social life"
-    },
-    {
-      "code": "s12",
-      "name": "Knight of Swords, reversed",
-      "upright": false,
-      "interpretation": "rude, tactless, forceful, bully, aggressive, vicious, ruthless, arrogant"
+      "name": "3 of Cups",
+      "upright": true,
+      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
     }
   ]
 }
