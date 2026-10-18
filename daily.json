@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "cards": [
     {
-      "code": "c7",
-      "name": "7 of Cups",
+      "code": "c1",
+      "name": "Ace of Cups",
       "upright": true,
-      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
+      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
     },
     {
-      "code": "p14",
-      "name": "King of Pentacles",
+      "code": "c4",
+      "name": "4 of Cups",
       "upright": true,
-      "interpretation": "abundance, prosperity, security, ambitious, safe, kind, patriarchal, protective, businessman, provider, sensual, reliable"
+      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
     },
     {
-      "code": "c3",
-      "name": "3 of Cups",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "friendship, community, gatherings, celebrations, group events, social events"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     }
   ]
 }
