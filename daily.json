@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "cards": [
     {
-      "code": "c1",
-      "name": "Ace of Cups",
+      "code": "p10",
+      "name": "10 of Pentacles",
       "upright": true,
-      "interpretation": "love, new feelings, emotional awakening, creativity, spirituality, intuition"
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "c9",
+      "name": "9 of Cups",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "wishes coming true, contentment, satisfaction, success, achievements, recognition, pleasure"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
-      "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "code": "s5",
+      "name": "5 of Swords, reversed",
+      "upright": false,
+      "interpretation": "reconciliation, resolution, compromise, revenge, regret, remorse, cutting losses"
     }
   ]
 }
