@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "cards": [
     {
-      "code": "s14",
-      "name": "King of Swords",
+      "code": "p9",
+      "name": "9 of Pentacles",
       "upright": true,
-      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
+      "interpretation": "rewarded efforts, success, achievement, independence, leisure, material security, self-sufficiency"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups",
+      "code": "s4",
+      "name": "4 of Swords",
       "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
     },
     {
-      "code": "c5",
-      "name": "5 of Cups",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     }
   ]
 }
