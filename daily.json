@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "cards": [
     {
-      "code": "s6",
-      "name": "6 of Swords",
+      "code": "s7",
+      "name": "7 of Swords",
       "upright": true,
-      "interpretation": "moving on, departure, leaving behind, distance, accepting lessons"
+      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
     },
     {
-      "code": "s12",
-      "name": "Knight of Swords",
+      "code": "p10",
+      "name": "10 of Pentacles",
       "upright": true,
-      "interpretation": "assertive, direct, impatient, intellectual, daring, focused, perfectionist, ambitious"
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     },
     {
-      "code": "c14",
-      "name": "King of Cups",
-      "upright": true,
-      "interpretation": "wise, diplomatic, balance between head and heart, devoted, advisor, counsellor"
+      "code": "s1",
+      "name": "Ace of Swords, reversed",
+      "upright": false,
+      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
     }
   ]
 }
