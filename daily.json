@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "cards": [
     {
-      "code": "s7",
-      "name": "7 of Swords",
+      "code": "p12",
+      "name": "Knight of Pentacles",
       "upright": true,
-      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles",
-      "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
-    },
-    {
-      "code": "s1",
-      "name": "Ace of Swords, reversed",
+      "code": "s9",
+      "name": "9 of Swords, reversed",
       "upright": false,
-      "interpretation": "confusion, miscommunication, hostility, arguments, destruction, brutality"
+      "interpretation": "recovery, learning to cope, facing life, finding help, shame, guilt, mental health issues"
+    },
+    {
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
+      "upright": true,
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     }
   ]
 }
