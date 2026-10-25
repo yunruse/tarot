@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "cards": [
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
+      "code": "w1",
+      "name": "Ace of Wands",
       "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
+      "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     },
     {
-      "code": "s9",
-      "name": "9 of Swords, reversed",
+      "code": "w4",
+      "name": "4 of Wands, reversed",
       "upright": false,
-      "interpretation": "recovery, learning to cope, facing life, finding help, shame, guilt, mental health issues"
+      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
     },
     {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement",
+      "code": "p10",
+      "name": "10 of Pentacles",
       "upright": true,
-      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
+      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
     }
   ]
 }
