@@ -1,6 +1,12 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "cards": [
+    {
+      "code": "c5",
+      "name": "5 of Cups",
+      "upright": true,
+      "interpretation": "loss, grief, disappointment, sadness, mourning, discontent, feeling let down"
+    },
     {
       "code": "w1",
       "name": "Ace of Wands",
@@ -8,16 +14,10 @@
       "interpretation": "inspiration, creative spark, new initiative, new passion, enthusiasm, energy"
     },
     {
-      "code": "w4",
-      "name": "4 of Wands, reversed",
-      "upright": false,
-      "interpretation": "lack of support, instability, feeling unwelcome, transience, lack of roots, home conflict"
-    },
-    {
-      "code": "p10",
-      "name": "10 of Pentacles",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "legacy, roots, family, ancestry, inheritance, windfall, foundations, privilege, affluence, stability, tradition"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     }
   ]
 }
