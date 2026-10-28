@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "cards": [
     {
       "code": "p6",
@@ -8,16 +8,16 @@
       "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
     },
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
-      "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "code": "15",
+      "name": "\u2169\u2164 The Devil, reversed",
+      "upright": false,
+      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
-      "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+      "code": "c5",
+      "name": "5 of Cups, reversed",
+      "upright": false,
+      "interpretation": "acceptance, moving on, finding peace, contentment, seeing positives"
     }
   ]
 }
