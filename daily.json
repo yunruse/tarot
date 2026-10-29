@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "cards": [
     {
-      "code": "p6",
-      "name": "6 of Pentacles",
+      "code": "w4",
+      "name": "4 of Wands",
       "upright": true,
-      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
     },
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil, reversed",
-      "upright": false,
-      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
+      "upright": true,
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     },
     {
-      "code": "c5",
-      "name": "5 of Cups, reversed",
+      "code": "3",
+      "name": "\u2162 The Empress, reversed",
       "upright": false,
-      "interpretation": "acceptance, moving on, finding peace, contentment, seeing positives"
+      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
     }
   ]
 }
