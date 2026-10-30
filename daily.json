@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "cards": [
     {
-      "code": "w4",
-      "name": "4 of Wands",
+      "code": "s2",
+      "name": "2 of Swords",
       "upright": true,
-      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
+      "interpretation": "stalemate, difficult choices, stuck in the middle, denial, hidden information"
     },
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "w7",
+      "name": "7 of Wands",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "protectiveness, standing up for yourself, defending yourself, protecting territory"
     },
     {
-      "code": "3",
-      "name": "\u2162 The Empress, reversed",
+      "code": "c6",
+      "name": "6 of Cups, reversed",
       "upright": false,
-      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
+      "interpretation": "stuck in past, moving forward, leaving home, independence"
     }
   ]
 }
