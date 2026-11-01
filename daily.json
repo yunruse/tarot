@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "cards": [
     {
-      "code": "0",
-      "name": "0 The Fool",
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune",
       "upright": true,
-      "interpretation": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
     },
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star",
-      "upright": true,
-      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
-    },
-    {
-      "code": "c9",
-      "name": "9 of Cups, reversed",
+      "code": "14",
+      "name": "\u2169\u2163 Temperance, reversed",
       "upright": false,
-      "interpretation": "unhappiness, lack of fulfilment, disappointment, underachievement, arrogance, snobbery"
+      "interpretation": "imbalance, excess, extremes, discord, recklessness, hastiness"
+    },
+    {
+      "code": "9",
+      "name": "\u2168 The Hermit",
+      "upright": true,
+      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
     }
   ]
 }
