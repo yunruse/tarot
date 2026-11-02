@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "cards": [
     {
-      "code": "10",
-      "name": "\u2169 Wheel of Fortune",
+      "code": "w4",
+      "name": "4 of Wands",
       "upright": true,
-      "interpretation": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
     },
     {
-      "code": "14",
-      "name": "\u2169\u2163 Temperance, reversed",
+      "code": "4",
+      "name": "\u2163 The Emperor",
+      "upright": true,
+      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+    },
+    {
+      "code": "w9",
+      "name": "9 of Wands, reversed",
       "upright": false,
-      "interpretation": "imbalance, excess, extremes, discord, recklessness, hastiness"
-    },
-    {
-      "code": "9",
-      "name": "\u2168 The Hermit",
-      "upright": true,
-      "interpretation": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
     }
   ]
 }
