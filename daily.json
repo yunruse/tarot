@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "cards": [
     {
-      "code": "w4",
-      "name": "4 of Wands",
+      "code": "s11",
+      "name": "Page of Swords",
       "upright": true,
-      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
+      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
     },
     {
-      "code": "4",
-      "name": "\u2163 The Emperor",
+      "code": "c8",
+      "name": "8 of Cups",
       "upright": true,
-      "interpretation": "stability, structure, protection, authority, control, practicality, focus, discipline"
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     },
     {
-      "code": "w9",
-      "name": "9 of Wands, reversed",
-      "upright": false,
-      "interpretation": "stubbornness, rigidity, defensiveness, refusing compromise, giving up"
+      "code": "s1",
+      "name": "Ace of Swords",
+      "upright": true,
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     }
   ]
 }
