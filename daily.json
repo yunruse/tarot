@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "cards": [
     {
-      "code": "s11",
-      "name": "Page of Swords",
+      "code": "p1",
+      "name": "Ace of Pentacles",
       "upright": true,
-      "interpretation": "curious, witty, chatty, communicative, inspired, vigilant, alert, mental agility"
+      "interpretation": "new opportunities, resources, abundance, prosperity, security, stability, manifestation"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups",
-      "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man, reversed",
+      "upright": false,
+      "interpretation": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
     },
     {
-      "code": "s1",
-      "name": "Ace of Swords",
-      "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "code": "c12",
+      "name": "Knight of Cups, reversed",
+      "upright": false,
+      "interpretation": "disappointment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
     }
   ]
 }
