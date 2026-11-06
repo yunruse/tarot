@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "cards": [
     {
-      "code": "c8",
-      "name": "8 of Cups",
+      "code": "12",
+      "name": "\u2169\u2161 The Hanged Man",
       "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
     },
     {
-      "code": "w5",
-      "name": "5 of Wands, reversed",
+      "code": "w13",
+      "name": "Queen of Wands, reversed",
       "upright": false,
-      "interpretation": "end of conflict, cooperation, agreements, truces, harmony, peace, avoiding conflict"
+      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
     },
     {
-      "code": "s10",
-      "name": "10 of Swords",
+      "code": "15",
+      "name": "\u2169\u2164 The Devil",
       "upright": true,
-      "interpretation": "ruin, failure, bitterness, collapse, exhaustion, dead end, victimization, betrayal"
+      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
     }
   ]
 }
