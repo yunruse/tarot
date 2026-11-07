@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "cards": [
     {
-      "code": "12",
-      "name": "\u2169\u2161 The Hanged Man",
+      "code": "17",
+      "name": "\u2169\u2166 The Star",
       "upright": true,
-      "interpretation": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
     },
     {
-      "code": "w13",
-      "name": "Queen of Wands, reversed",
-      "upright": false,
-      "interpretation": "demanding, vengeful, low confidence, jealous, selfish, temperamental, bully"
+      "code": "w3",
+      "name": "3 of Wands",
+      "upright": true,
+      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
     },
     {
-      "code": "15",
-      "name": "\u2169\u2164 The Devil",
+      "code": "c12",
+      "name": "Knight of Cups",
       "upright": true,
-      "interpretation": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     }
   ]
 }
