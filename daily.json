@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "cards": [
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star",
+      "code": "19",
+      "name": "\u2169\u2168 The Sun",
       "upright": true,
-      "interpretation": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
+      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
     },
     {
-      "code": "w3",
-      "name": "3 of Wands",
+      "code": "w2",
+      "name": "2 of Wands",
       "upright": true,
-      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
+      "interpretation": "planning, first steps, making decisions, leaving comfort, taking risks"
     },
     {
-      "code": "c12",
-      "name": "Knight of Cups",
-      "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
+      "code": "18",
+      "name": "\u2169\u2167 The Moon, reversed",
+      "upright": false,
+      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
     }
   ]
 }
