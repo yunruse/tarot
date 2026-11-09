@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "cards": [
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "w2",
-      "name": "2 of Wands",
+      "code": "w3",
+      "name": "3 of Wands",
       "upright": true,
-      "interpretation": "planning, first steps, making decisions, leaving comfort, taking risks"
+      "interpretation": "momentum, confidence, expansion, growth, foresight, looking ahead"
     },
     {
-      "code": "18",
-      "name": "\u2169\u2167 The Moon, reversed",
-      "upright": false,
-      "interpretation": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
+      "code": "c7",
+      "name": "7 of Cups",
+      "upright": true,
+      "interpretation": "choices, searching for purpose, illusion, fantasy, daydreaming, wishful thinking, indecision"
     }
   ]
 }
