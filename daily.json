@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "cards": [
     {
-      "code": "w12",
-      "name": "Knight of Wands",
+      "code": "5",
+      "name": "\u2164 The Hierophant",
       "upright": true,
-      "interpretation": "courageous, energetic, charming, hero, rebellious, hot tempered, free spirit"
+      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
     },
     {
-      "code": "s4",
-      "name": "4 of Swords",
+      "code": "c12",
+      "name": "Knight of Cups",
       "upright": true,
-      "interpretation": "rest, relaxation, peace, sanctuary, recuperation, self-protection, rejuvenation"
+      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles, reversed",
+      "code": "w1",
+      "name": "Ace of Wands, reversed",
       "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
     }
   ]
 }
