@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "cards": [
     {
-      "code": "5",
-      "name": "\u2164 The Hierophant",
+      "code": "3",
+      "name": "\u2162 The Empress",
       "upright": true,
-      "interpretation": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
     },
     {
-      "code": "c12",
-      "name": "Knight of Cups",
-      "upright": true,
-      "interpretation": "idealist, charming, artistic, graceful, tactful, diplomatic, mediator, negotiator"
-    },
-    {
-      "code": "w1",
-      "name": "Ace of Wands, reversed",
+      "code": "c2",
+      "name": "2 of Cups, reversed",
       "upright": false,
-      "interpretation": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
+      "interpretation": "separation, rejection, division, imbalance, tension, bad communication, withdrawal"
+    },
+    {
+      "code": "p11",
+      "name": "Page of Pentacles",
+      "upright": true,
+      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
     }
   ]
 }
