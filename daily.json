@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "cards": [
     {
-      "code": "3",
-      "name": "\u2162 The Empress",
+      "code": "p3",
+      "name": "3 of Pentacles",
       "upright": true,
-      "interpretation": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
     },
     {
-      "code": "c2",
-      "name": "2 of Cups, reversed",
+      "code": "9",
+      "name": "\u2168 The Hermit, reversed",
       "upright": false,
-      "interpretation": "separation, rejection, division, imbalance, tension, bad communication, withdrawal"
+      "interpretation": "loneliness, isolation, recluse, being anti-social, rejection, returning to society"
     },
     {
-      "code": "p11",
-      "name": "Page of Pentacles",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "ambitious, diligent, goal oriented, planner, consistent, star student, studious, grounded, loyal, faithful, dependable"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     }
   ]
 }
