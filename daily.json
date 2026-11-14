@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "cards": [
     {
-      "code": "p3",
-      "name": "3 of Pentacles",
+      "code": "s14",
+      "name": "King of Swords",
       "upright": true,
-      "interpretation": "teamwork, shared goals, collaboration, apprenticeship, effort, pooling energy"
+      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
     },
     {
-      "code": "9",
-      "name": "\u2168 The Hermit, reversed",
+      "code": "16",
+      "name": "\u2169\u2165 The Tower",
+      "upright": true,
+      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+    },
+    {
+      "code": "3",
+      "name": "\u2162 The Empress, reversed",
       "upright": false,
-      "interpretation": "loneliness, isolation, recluse, being anti-social, rejection, returning to society"
-    },
-    {
-      "code": "6",
-      "name": "\u2165 The Lovers",
-      "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
     }
   ]
 }
