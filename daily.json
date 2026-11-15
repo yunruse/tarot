@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "cards": [
     {
-      "code": "s14",
-      "name": "King of Swords",
+      "code": "p6",
+      "name": "6 of Pentacles",
       "upright": true,
-      "interpretation": "reason, authority, discipline, integrity, morality, serious, high standards, strict"
+      "interpretation": "generosity, charity, community, material help, support, sharing, giving and receiving, gratitude"
     },
     {
-      "code": "16",
-      "name": "\u2169\u2165 The Tower",
-      "upright": true,
-      "interpretation": "disaster, destruction, upheaval, trauma, sudden change, chaos"
-    },
-    {
-      "code": "3",
-      "name": "\u2162 The Empress, reversed",
+      "code": "c11",
+      "name": "Page of Cups, reversed",
       "upright": false,
-      "interpretation": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
+      "interpretation": "emotional vulnerability, immaturity, neglecting inner child, escapism, insecurity"
+    },
+    {
+      "code": "c6",
+      "name": "6 of Cups, reversed",
+      "upright": false,
+      "interpretation": "stuck in past, moving forward, leaving home, independence"
     }
   ]
 }
