@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "cards": [
     {
-      "code": "w13",
-      "name": "Queen of Wands",
+      "code": "s1",
+      "name": "Ace of Swords",
       "upright": true,
-      "interpretation": "confident, self-assured, passionate, determined, social, charismatic, vivacious, optimistic"
+      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
     },
     {
-      "code": "w12",
-      "name": "Knight of Wands, reversed",
-      "upright": false,
-      "interpretation": "arrogant, reckless, impatient, lack of self control, passive, volatile, domineering"
+      "code": "p12",
+      "name": "Knight of Pentacles",
+      "upright": true,
+      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
     },
     {
-      "code": "c6",
-      "name": "6 of Cups",
+      "code": "8",
+      "name": "\u2167 Strength",
       "upright": true,
-      "interpretation": "nostalgia, memories, familiarity, healing, comfort, sentimentality, pleasure"
+      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
     }
   ]
 }
