@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "cards": [
     {
-      "code": "s1",
-      "name": "Ace of Swords",
+      "code": "11",
+      "name": "\u2169\u2160 Justice",
       "upright": true,
-      "interpretation": "clarity, breakthrough, new idea, concentration, vision, force, focus, truth"
+      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
     },
     {
-      "code": "p12",
-      "name": "Knight of Pentacles",
-      "upright": true,
-      "interpretation": "practical, reliable, efficient, stoic, slow and steady, hard-working, committed, patient, conservative"
+      "code": "17",
+      "name": "\u2169\u2166 The Star, reversed",
+      "upright": false,
+      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
     },
     {
-      "code": "8",
-      "name": "\u2167 Strength",
+      "code": "20",
+      "name": "\u2169\u2169 Judgement",
       "upright": true,
-      "interpretation": "courage, bravery, confidence, compassion, self-confidence, inner power"
+      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
     }
   ]
 }
