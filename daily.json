@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "cards": [
     {
-      "code": "11",
-      "name": "\u2169\u2160 Justice",
+      "code": "s7",
+      "name": "7 of Swords",
       "upright": true,
-      "interpretation": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
     },
     {
-      "code": "17",
-      "name": "\u2169\u2166 The Star, reversed",
-      "upright": false,
-      "interpretation": "hopelessness, despair, negativity, lack of faith, despondent"
+      "code": "c8",
+      "name": "8 of Cups",
+      "upright": true,
+      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
     },
     {
-      "code": "20",
-      "name": "\u2169\u2169 Judgement",
+      "code": "6",
+      "name": "\u2165 The Lovers",
       "upright": true,
-      "interpretation": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
+      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
     }
   ]
 }
