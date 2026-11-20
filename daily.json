@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "cards": [
     {
-      "code": "s7",
-      "name": "7 of Swords",
+      "code": "2",
+      "name": "\u2161 The High Priestess",
       "upright": true,
-      "interpretation": "lies, trickery, scheming, strategy, resourcefulness, sneakiness, cunning"
+      "interpretation": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
     },
     {
-      "code": "c8",
-      "name": "8 of Cups",
-      "upright": true,
-      "interpretation": "abandonment, walking away, letting go, searching for truth, leaving behind"
+      "code": "21",
+      "name": "\u2169\u2169\u2160 The World, reversed",
+      "upright": false,
+      "interpretation": "lack of closure, lack of achievement, feeling incomplete, emptiness"
     },
     {
-      "code": "6",
-      "name": "\u2165 The Lovers",
-      "upright": true,
-      "interpretation": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+      "code": "s9",
+      "name": "9 of Swords, reversed",
+      "upright": false,
+      "interpretation": "recovery, learning to cope, facing life, finding help, shame, guilt, mental health issues"
     }
   ]
 }
