@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "cards": [
     {
-      "code": "w4",
-      "name": "4 of Wands",
+      "code": "s9",
+      "name": "9 of Swords",
       "upright": true,
-      "interpretation": "community, home, celebrations, reunions, parties, gatherings, stability, belonging"
+      "interpretation": "fear, anxiety, negativity, breaking point, despair, nightmares, isolation"
     },
     {
-      "code": "p10",
-      "name": "10 of Pentacles, reversed",
+      "code": "10",
+      "name": "\u2169 Wheel of Fortune, reversed",
       "upright": false,
-      "interpretation": "family disputes, bankruptcy, debt, fleeting success, conflict over money, instability, breaking traditions"
+      "interpretation": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
     },
     {
-      "code": "c4",
-      "name": "4 of Cups",
-      "upright": true,
-      "interpretation": "apathy, contemplation, feeling disconnected, melancholy, boredom, indifference, discontent"
+      "code": "15",
+      "name": "\u2169\u2164 The Devil, reversed",
+      "upright": false,
+      "interpretation": "independence, freedom, revelation, release, reclaiming power, reclaiming control"
     }
   ]
 }
