@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "cards": [
     {
-      "code": "19",
-      "name": "\u2169\u2168 The Sun",
+      "code": "c2",
+      "name": "2 of Cups",
       "upright": true,
-      "interpretation": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+      "interpretation": "unity, partnership, attraction, connection, close bonds, joining forces, mutual respect"
     },
     {
-      "code": "p8",
-      "name": "8 of Pentacles",
-      "upright": true,
-      "interpretation": "skill, talent, craftsmanship, quality, high standards, expertise, mastery, commitment, dedication, accomplishment"
-    },
-    {
-      "code": "w5",
-      "name": "5 of Wands, reversed",
+      "code": "5",
+      "name": "\u2164 The Hierophant, reversed",
       "upright": false,
-      "interpretation": "end of conflict, cooperation, agreements, truces, harmony, peace, avoiding conflict"
+      "interpretation": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+    },
+    {
+      "code": "s10",
+      "name": "10 of Swords, reversed",
+      "upright": false,
+      "interpretation": "survival, improvement, healing, lessons learned, despair, relapse"
     }
   ]
 }
